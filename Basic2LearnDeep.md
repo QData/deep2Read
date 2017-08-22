@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Readings
-desc: "Basic Readings of Deep Learning Finished Before 2017-Fall"
+desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
 ---
 
 <p><a name="topPage"></a></p>
@@ -15,7 +15,7 @@ desc: "Basic Readings of Deep Learning Finished Before 2017-Fall"
 <li><a href="#deep0">Topic 0: Deep Learning Intro Courses </a> </li>
 <li><a href="#deepBasic">Topic I: Deep Learning Basics </a> </li>
 <li><a href="#deepApp">Topic II: Basic Applications and Benchmarking of Deep Learning Tools</a> </li>
-<li><a href="#deepSec">Topic III: Basics of Adversarial Samples / Deep Generative Models </a> </li>
+<li><a href="#deepSec">Topic III: Basics of Adversarial / Deep Generative Models </a> </li>
 <li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
 <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
 <li><a href="#reinfo">Topic VI: Basic Deep Reinforcement Learning  </a> </li>
@@ -216,7 +216,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 <tr>
   <td>&check;DeepTheory</td>
-  <td> Yoshua Bengio: DLSS15: Deep  Learning:Theoretical Motivations
+  <td> Yoshua Bengio: DLSS15: Deep  Learning: Theoretical Motivations
 </td>
   <td> <a href="http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/" target="_blank">(Video)
   </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983679/deeplearning2015_bengio_theoretical_motivations_01.pdf" target="_blank">(Slide)
@@ -224,15 +224,6 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2015</td>
  </tr>
 
-<tr>
-  <td>&check;DeepGenerative</td>
-  <td> Yoshua Bengio: DLSS15: Deep Generative Models
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_bengio_generative_models/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983667/deeplearning2015_bengio_generative_models_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
 
 
 
@@ -320,85 +311,6 @@ An Informal Mathematical Tour of Feature Learning </td>
  </tr>
 
 
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16: Alex Wiltschko, Twitter, Inc : Introduction to Torch </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_wiltschko_torch/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051680/deeplearning2016_wiltschko_torch_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16:Ryan Olson, NVIDIA Corporation, GPU programming for Deep Learning </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051688/deeplearning2016_bernauer_olson_deep_learning_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Edward Grefenstette, Google, Inc. : Beyond Seq2Seq with Augmented RNNs </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_grefenstette_augmented_rnn/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051689/deeplearning2016_grefenstette_augmented_rnn_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Sumit Chopra, Facebook  Reasoning, Attention and Memory
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_chopra_attention_memory/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051694/deeplearning2016_chopra_attention_memory_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Shakir Mohamed, Google, Inc, Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_mohamed_generative_models/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051862/deeplearning2016_mohamed_generative_models_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16:  Yoshua Bengio, Department of Computer Science and Operations Research, University of Montreal;  A Brief Review of Recurrent Neural Networks
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_bengio_neural_networks/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051676/deeplearning2016_bengio_neural_networks_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
 
 <tr>
   <td>&check;Hardware Parallel</td>
@@ -439,6 +351,39 @@ An Informal Mathematical Tour of Feature Learning </td>
 </tr>
 
 
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16: Alex Wiltschko, Twitter, Inc : Introduction to Torch </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_wiltschko_torch/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051680/deeplearning2016_wiltschko_torch_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16:Ryan Olson, NVIDIA Corporation, GPU programming for Deep Learning </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051688/deeplearning2016_bernauer_olson_deep_learning_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
 
 
  <tr>
@@ -552,6 +497,28 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 </tr>
 
 
+<tr>
+  <td>&check;DeepGenerative</td>
+  <td> Yoshua Bengio: DLSS15: Deep Generative Models
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_bengio_generative_models/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983667/deeplearning2015_bengio_generative_models_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Shakir Mohamed, Google, Inc, Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_mohamed_generative_models/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051862/deeplearning2016_mohamed_generative_models_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
 
 
 
@@ -559,7 +526,7 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 <!---  structure  -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Theory (Structures, generative, discriminative, ...) of Deep learning Models</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Deep learning Models with varying Structures </b></h3> </td> </tr>
 
 <tr>
  <h3><b>
@@ -655,6 +622,41 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
   <td><a href="https://arxiv.org/abs/1606.04080" target="_blank">(PDF)</a></td>
   <td>2016</td>
 </tr>
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Edward Grefenstette, Google, Inc. : Beyond Seq2Seq with Augmented RNNs </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_grefenstette_augmented_rnn/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051689/deeplearning2016_grefenstette_augmented_rnn_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Sumit Chopra, Facebook  Reasoning, Attention and Memory
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_chopra_attention_memory/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051694/deeplearning2016_chopra_attention_memory_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16:  Yoshua Bengio, Department of Computer Science and Operations Research, University of Montreal;  A Brief Review of Recurrent Neural Networks
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_bengio_neural_networks/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051676/deeplearning2016_bengio_neural_networks_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
 
 
 <tr>
