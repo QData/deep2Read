@@ -46,9 +46,9 @@ desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
 
 <tr>
  <td>&check;DeepBasic</td>
-  <td>the list of video lectures related to DEEP Learning we have learned @ </td>
-  <td><a href="http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm#deep" target="_blank">(ListVideo)</a></td>
-  <td>2015-2017</td>
+  <td>[Coursera] Neural Networks for Machine Learning — Geoffrey Hinton </td>
+  <td><a href="https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" target="_blank">(ListVideo)</a></td>
+  <td>2016</td>
  </tr>
 
 
@@ -228,18 +228,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
-  <td>&check;DeepOptim</td>
-  <td>DLSS15:  Ian Goodfellow: Tutorial on Neural Network Optimization Problems
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_network_optimization/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983675/deeplearning2015_goodfellow_network_optimization_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
-<tr>
   <td>&check;Deep</td>
   <td>DLSS15:  Ian Goodfellow: Deep  Adversarial Examples
 </td>
@@ -253,15 +241,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<tr>
-  <td>&check;DeepOptim</td>
-  <td>DLSS15:  Adam Coates: Deep Learning (hopefully faster)
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_coates_deep_learning/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983682/deeplearning2015_coates_deep_learning_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
 
 
 <tr>
@@ -274,20 +253,6 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2015</td>
  </tr>
 
-
-<tr>
-  <td>&check;DeepNLP</td>
-  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared</td>
-  <td>
-  <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) </a>
-  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)  </a>
-  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
-  </a>
-  <b>+ </b>
-  <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
-  </a>  </td>
-  <td>2015</td>
- </tr>
 
 
 <tr>
@@ -312,13 +277,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<tr>
-  <td>&check;Hardware Parallel</td>
-  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
 
 
 <!---  application and benchmarking  -->
@@ -353,7 +311,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
-  <td>&check;Deep</td>
+  <td>&check;Tools</td>
     <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
      <td>
       <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
@@ -364,7 +322,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
-  <td>&check;Deep</td>
+  <td>&check;Tools</td>
     <td>DeepLearningSummerSchool16: Alex Wiltschko, Twitter, Inc : Introduction to Torch </td>
      <td>
       <a href="http://videolectures.net/deeplearning2016_wiltschko_torch/"
@@ -374,9 +332,17 @@ An Informal Mathematical Tour of Feature Learning </td>
 </tr>
 
 
+<tr>
+  <td>&check;Hardware</td>
+  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
+
 
 <tr>
-  <td>&check;Deep</td>
+  <td>&check;Hardware</td>
     <td>DeepLearningSummerSchool16:Ryan Olson, NVIDIA Corporation, GPU programming for Deep Learning </td>
      <td>
       <a href="http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/"
@@ -384,6 +350,21 @@ An Informal Mathematical Tour of Feature Learning </td>
       <a href="http://videolectures.net/site/normal_dl/tag=1051688/deeplearning2016_bernauer_olson_deep_learning_01.pdf"  target="_blank">(PDFslide)</a> </td>
   <td>2016</td>
 </tr>
+
+<tr>
+  <td>&check;App</td>
+  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared</td>
+  <td>
+  <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) </a>
+  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)  </a>
+  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
+  </a>
+  <b>+ </b>
+  <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
 
 
  <tr>
@@ -761,6 +742,27 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
   <td>1998</td>
 </tr>
 
+<tr>
+  <td>&check;DeepOptim</td>
+  <td>DLSS15:  Ian Goodfellow: Tutorial on Neural Network Optimization Problems
+  </td>
+  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_network_optimization/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983675/deeplearning2015_goodfellow_network_optimization_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
+ <td>&check;DeepOptim</td>
+ <td>DLSS15:  Adam Coates: Deep Learning (hopefully faster)
+</td>
+ <td> <a href="http://videolectures.net/deeplearning2015_coates_deep_learning/" target="_blank">(Video)
+ </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983682/deeplearning2015_coates_deep_learning_01.pdf" target="_blank">(Slide)
+ </a>  </td>
+ <td>2015</td>
+</tr>
 
 
 <!---  Reinforcement  -->

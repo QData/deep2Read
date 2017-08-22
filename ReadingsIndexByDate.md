@@ -1,37 +1,25 @@
 ---
 layout: page
 title: Readings ByDate
-desc: "Deep Learning Readings Indexed by Date-Read"
+desc: "Our Reviews of Deep Learning Readings by Date-Read"
 ---
 
-<table id="datatab3" summary="Table of readings" border="1">
-<tr>
- <h3><b>
-  <th>No.</th>
-  <th>Date</th>
-  <th>Title and Information</th>
-  </b>
-  </h3>
-</tr>
 
-{% assign counter = 1 %}
-{% assign sorted = site.posts  | sort: 'date' %}
-{% for post in sorted %}
+<div class="posts">
 
-<tr>
-<td>{{ counter }}</td>
-<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
-<td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
-</tr>
+  {% for post in site.posts  %}
 
-{% assign counter=counter | plus:1 %}
-{% endfor %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-</table>
+    <span class="post-date">- {{ post.date | date_to_string }}</span>
 
+    {{ post.content }}
+  </div>
+  {% endfor %}
 
-<hr>
-
-<div class="center">
-<a href="{{ site.baseurl }}/ReadingsIndexByTags/" title="View Readings by Tag">View Readings organized by Tags</a>
 </div>
