@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:      pretty
+baseurl: 	    	/deep2read/
+url:            http://qdata.github.io/
+
+# Setup
+title:            	"Deep Learning 2Read"
+tagline:          	"deep2Read"
+description:        "A List of Deep Learning Papers We Read:"
+future: 			true
+
+author:
+  name:           'Yanjun Qi'
+  url:            https://twitter.com/Qdatalab
