@@ -27,15 +27,16 @@ desc: "Information for UVA CS 6501-002 (Fall 2017)"
 
 
 ### Prerequisite:
-+  Instructor's Permission for enrollment is required for this
++ Instructor's Permission for enrollment is required for this
  course.
 + Required courses as prerequisite: Graduate-level machine
  learning; Introduction of Deep Learning and Graduate-level Optimization are preferred.
++ Familiar reading of [Basic Deep Learning]({{ site.baseurl }}{% link Basic2LearnDeep.md %})  are preferred.
 
 
 ### Assignments
 + Collab page to submit reading assignment before every class
-+ Pull request to submit lectures about the assigned papers @ [Course GitHub](https://github.com/qiyanjun/deep2read)
++ Pull request to submit lectures about the assigned papers @ [Course GitHub](https://github.com/QData/deep2Read)
 + Each week, we will assign 2 to 3 reading materials (video lectures or papers or research lecture slides )
 + Template of the summary: Students are picked up randomly to present their summary of the reading
 1. Motivations / Why needed ? / Why important ?
