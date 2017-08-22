@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basic Readings
-desc: "Basic Readings of Deep Learning Before 2017-Fall"
+desc: "Basic Readings of Deep Learning Finished Before 2017-Fall"
 ---
 
 <p><a name="topPage"></a></p>
@@ -12,11 +12,12 @@ desc: "Basic Readings of Deep Learning Before 2017-Fall"
 
 <font face="Arial,Helvetica">
 <ul>
-    <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
-  <li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
-  <li><a href="#deepSec">Topic III: Basics of Adversarial Samples / Deep Learning Models </a> </li>
-  <li><a href="#deepApp">Topic II: Basic Applications and Benchmarking of Deep Learning Tools</a> </li>
-  <li><a href="#deep0">Topic I: Deep Learning VERY Basics </a> </li>
+<li><a href="#deep0">Topic 0: Deep Learning Intro Courses </a> </li>
+<li><a href="#deepBasic">Topic I: Deep Learning Basics </a> </li>
+<li><a href="#deepApp">Topic II: Basic Applications and Benchmarking of Deep Learning Tools</a> </li>
+<li><a href="#deepSec">Topic III: Basics of Adversarial Samples / Deep Generative Models </a> </li>
+<li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
+<li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
 </ul>
 </font>
 
@@ -28,146 +29,9 @@ desc: "Basic Readings of Deep Learning Before 2017-Fall"
 
 <table id="datatab3" summary="Table of basic readings about deep learning" border="1">
 
-<!---  opt  -->
+<!---  course basics -->
 
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepOpt"></a>
-<h3><b>Topic V: Optimization of Deep learning Models</b></h3>
-</td> </tr>
-
-  <tr>
-  <td>SGD</td>
-  <td>Tutorial: Optimization Methods for Large-Scale Machine Learning / Léon Bottou, Frank E. Curtis, Jorge Nocedal
- </td>
-  <td><a href="https://arxiv.org/abs/1606.04838" target="_blank">(PDF)</a>
-  </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>SGD</td>
-  <td>Tutorial: Efficient BackProp/ Yann Lecun, Leon Bottou, Genevieve Orr, Klaus-Robert Muler
- </td>
-  <td><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf" target="_blank">(PDF)</a>
-  </td>
-  <td>1998</td>
-</tr>
-
-
-<!---  structure  -->
-
-
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
-
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Theory (Structures, generative, discriminative, ...) of Deep learning Models</b></h3> </td> </tr>
-
-  <tr>
-  <td>RNN</td>
-  <td>Paper: Long Short-Term Memory
- </td>
-  <td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
-  </td>
-  <td>1997</td>
-</tr>
-
-
-
-
-
- <tr>
-  <td>NTM</td>
-  <td>Paper: Neural Turing Machines / Alex Graves, Greg Wayne, Ivo Danihelka
- </td>
-  <td><a href="https://arxiv.org/abs/1410.5401" target="_blank">(PDF)</a></td>
-  <td>2015</td>
-</tr>
-
-
-
-<tr>
-  <td>NTM</td>
-  <td>Paper: Hybrid computing using a neural network with dynamic external memory/ Alex Graves, etal, Koray Kavukcuoglu, Demis Hassabis
- </td>
-  <td><a href="http://www.nature.com/nature/journal/v538/n7626/pdf/nature20101.pdf" target="_blank">(PDF)</a></td>
-  <td>2015</td>
-</tr>
-
-
-
-  <tr>
-  <td>Memory</td>
-  <td>Paper: End-To-End Memory Networks / Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
- </td>
-  <td><a href="https://arxiv.org/pdf/1503.08895.pdf" target="_blank">(PDF)</a></td>
-  <td>2015</td>
-</tr>
-
-  <tr>
-  <td>s2sLSTM</td>
-  <td>Paper: Sequence to Sequence Learning with Neural Networks / Ilya Sutskever, Oriol Vinyals, Quoc V. Le
- </td>
-  <td><a href="https://arxiv.org/abs/1409.3215" target="_blank">(PDF)</a></td>
-  <td>2015</td>
-</tr>
-
-  <tr>
-  <td>s2sLSTM</td>
-  <td>Paper: Neural Machine Translation by Jointly Learning to Align and Translate / Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
- </td>
-  <td><a href="https://arxiv.org/abs/1409.0473" target="_blank">(PDF)</a></td>
-  <td>2016</td>
-</tr>
-
-
- <tr>
-  <td>s2sLSTM</td>
-  <td>Paper: Pointer Networks /Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
- </td>
-  <td><a href="https://arxiv.org/abs/1506.03134" target="_blank">(PDF)</a></td>
-  <td>2015</td>
-</tr>
-
-  <tr>
-  <td>s2sLSTM</td>
-  <td>Paper: Order Matters: Sequence to Sequence for Sets / Oriol Vinyals, Samy Bengio, Manjunath Kudlur
- </td>
-  <td><a href="https://arxiv.org/abs/1511.06391" target="_blank">(PDF)</a></td>
-  <td>2016</td>
-</tr>
-
-
-
- <tr>
-  <td>s2sLSTM</td>
-  <td>Paper: Matching Networks for One Shot Learning / Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
- </td>
-  <td><a href="https://arxiv.org/abs/1606.04080" target="_blank">(PDF)</a></td>
-  <td>2016</td>
-</tr>
-
-
-<!---  robust  -->
-
-
-<tr>
-<td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepSec"></a>
-<h3><b>Topic III: Adversarial Deep Learning Papers we read </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic 0: Deep Learning Basic Courses </b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -178,114 +42,28 @@ desc: "Basic Readings of Deep Learning Before 2017-Fall"
 </tr>
 
 
+
 <tr>
-  <td>GAN</td>
-  <td>Paper:  Generative Adversarial Networks / Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
- </td>
-  <td><a href="https://arxiv.org/abs/1406.2661" target="_blank">(PDF)</a></td>
-  <td>2014</td>
-</tr>
-
-  <tr>
-  <td>GAN</td>
-  <td>Paper: Energy Based Generative Adversarial Networks / Junbo Zhao, Michael Mathieu and Yann LeCun
- </td>
-  <td><a href="https://arxiv.org/pdf/1609.03126v2.pdf" target="_blank">(PDF)</a></td>
-  <td>2017</td>
-</tr>
-
-
- <tr>
-  <td>GAN</td>
-  <td>Paper: Towards Principled Methods for Training Generative Adversarial Networks /Martin Arjovsky,  Soumith Chintala, Léon Bottou
- </td>
-  <td><a href="https://arxiv.org/abs/1701.04862" target="_blank">(PDF)</a></td>
-  <td>2017</td>
-</tr>
+ <td>&check;DeepBasic</td>
+  <td>the list of video lectures related to DEEP Learning we have learned @ </td>
+  <td><a href="http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm#deep" target="_blank">(ListVideo)</a></td>
+  <td>2015-2017</td>
+ </tr>
 
 
 <tr>
-  <td>GAN</td>
-  <td>Paper: Wasserstein GAN /Martin Arjovsky, Léon Bottou
- </td>
-  <td><a href="https://arxiv.org/abs/1701.07875" target="_blank">(PDF)</a></td>
-  <td>2017</td>
-</tr>
-
-  <tr>
-  <td>Robust</td>
-  <td>Paper: Intriguing properties of neural networks / Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
- </td>
-  <td><a href="https://arxiv.org/abs/1312.6199" target="_blank">(PDF)</a>
-  </td>
-  <td>2013</td>
-</tr>
-
-
-<tr>
-  <td>Robust</td>
-  <td>Paper:  Explaining and Harnessing Adversarial Examples / Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
- </td>
-  <td><a href="https://arxiv.org/abs/1412.6572" target="_blank">(PDF)</a></td>
-  <td>2014</td>
-</tr>
-
-
-
-<!---  application and benchmarking  -->
-
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepApp"></a><h3><b>Topic II: Application and Benchmarking Deep learning papers</b></h3> </td> </tr>
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
-
-
-  <tr>
-  <td>bench</td>
-  <td>paper: Comparative Study of Deep Learning Software Frameworks
- </td>
-  <td><a href="https://arxiv.org/pdf/1511.06435.pdf" target="_blank">(PDF)</a></td>
+ <td>&check;DeepBasic</td>
+  <td>Nando de Freitas: Course: Deep learning at Oxford 2015 </td>
+  <td><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" target="_blank">(ListVideo)</a></td>
   <td>2015</td>
-</tr>
-
-  <tr>
-  <td>bench</td>
-  <td>paper: Benchmarking State-of-the-Art Deep Learning Software Tools
- </td>
-  <td><a href="https://arxiv.org/abs/1608.07249" target="_blank">(PDF)</a></td>
-  <td>2016</td>
-</tr>
-
-
-
- <tr>
-  <td>App</td>
-  <td>Paper: Learning to rank with (a lot of) word features
- </td>
-  <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
-  <td>2010</td>
-</tr>
-
-  <tr>
-  <td>App</td>
-  <td>Paper:
-Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa
- </td>
-  <td><a href="https://arxiv.org/abs/1103.0398" target="_blank">(PDF)</a></td>
-  <td>2011</td>
-</tr>
-
+ </tr>
 
 
 
 <!---  deep basics -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic I: Deep Learning Basics</b></h3> </td> </tr>
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deepBasic"></a><h3><b>Topic I: Deep Learning Basics</b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -304,13 +82,6 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
   <td>2015-now</td>
  </tr>
 
-
-<tr>
- <td>&check;DeepBasic</td>
-  <td>Nando de Freitas: Course: Deep learning at Oxford 2015 </td>
-  <td><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" target="_blank">(ListVideo)</a></td>
-  <td>2015</td>
- </tr>
 
 
 <tr>
@@ -344,13 +115,6 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
   <td>DeepLearningSummerSchool12: Geoffrey Hinton: Introduction to Deep Learning , Deep Belief Nets (Parts 1 / Relevant Paper: <a href="https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf" target="_blank"> A fast learning algorithm for deep belief nets </a>) </td>
     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10596_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
       <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
-<tr>
-  <td>&check;Hardware Parallel</td>
-  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
   <td>2012</td>
 </tr>
 
@@ -635,8 +399,361 @@ An Informal Mathematical Tour of Feature Learning </td>
 </tr>
 
 
+<tr>
+  <td>&check;Hardware Parallel</td>
+  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
 
 
+<!---  application and benchmarking  -->
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepApp"></a><h3><b>Topic II: Application and Benchmarking and Understanding Deep learning papers</b></h3> </td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+  <tr>
+  <td>&check;bench</td>
+  <td>paper: Comparative Study of Deep Learning Software Frameworks
+ </td>
+  <td><a href="https://arxiv.org/pdf/1511.06435.pdf" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+  <tr>
+  <td>&check;bench</td>
+  <td>paper: Benchmarking State-of-the-Art Deep Learning Software Tools
+ </td>
+  <td><a href="https://arxiv.org/abs/1608.07249" target="_blank">(PDF)</a></td>
+  <td>2016</td>
+</tr>
+
+
+
+
+ <tr>
+  <td>&check;App</td>
+  <td>Paper: Learning to rank with (a lot of) word features
+ </td>
+  <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
+  <td>2010</td>
+</tr>
+
+  <tr>
+  <td>&check;App</td>
+  <td>Paper:
+Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa
+ </td>
+  <td><a href="https://arxiv.org/abs/1103.0398" target="_blank">(PDF)</a></td>
+  <td>2011</td>
+</tr>
+
+<tr>
+ <td>&check;App</td>
+ <td>Paper: Learning to rank with (a lot of) word features
+</td>
+ <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
+ <td>2010</td>
+</tr>
+
+<tr>
+ <td>&check;App</td>
+ <td>Paper: Learning to rank with (a lot of) word features
+</td>
+ <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
+ <td>2010</td>
+</tr>
+
+<tr>
+ <td>&check;App</td>
+ <td>Paper: Learning to rank with (a lot of) word features
+</td>
+ <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
+ <td>2010</td>
+</tr>
+
+
+<!---  robust  -->
+
+
+<tr>
+<td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepSec"></a>
+<h3><b>Topic III: Adversarial and Deep Generative Papers we read </b></h3> </td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+<tr>
+  <td>&check;GAN</td>
+  <td>Paper:  Generative Adversarial Networks / Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+ </td>
+  <td><a href="https://arxiv.org/abs/1406.2661" target="_blank">(PDF)</a></td>
+  <td>2014</td>
+</tr>
+
+  <tr>
+  <td>&check;GAN</td>
+  <td>Paper: Energy Based Generative Adversarial Networks / Junbo Zhao, Michael Mathieu and Yann LeCun
+ </td>
+  <td><a href="https://arxiv.org/pdf/1609.03126v2.pdf" target="_blank">(PDF)</a></td>
+  <td>2017</td>
+</tr>
+
+
+ <tr>
+  <td>&check;GAN</td>
+  <td>Paper: Towards Principled Methods for Training Generative Adversarial Networks /Martin Arjovsky,  Soumith Chintala, Léon Bottou
+ </td>
+  <td><a href="https://arxiv.org/abs/1701.04862" target="_blank">(PDF)</a></td>
+  <td>2017</td>
+</tr>
+
+
+<tr>
+  <td>G&check;AN</td>
+  <td>Paper: Wasserstein GAN /Martin Arjovsky, Léon Bottou
+ </td>
+  <td><a href="https://arxiv.org/abs/1701.07875" target="_blank">(PDF)</a></td>
+  <td>2017</td>
+</tr>
+
+  <tr>
+  <td>&check;Robust</td>
+  <td>Paper: Intriguing properties of neural networks / Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
+ </td>
+  <td><a href="https://arxiv.org/abs/1312.6199" target="_blank">(PDF)</a>
+  </td>
+  <td>2013</td>
+</tr>
+
+
+<tr>
+  <td>&check;Robust</td>
+  <td>Paper:  Explaining and Harnessing Adversarial Examples / Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
+ </td>
+  <td><a href="https://arxiv.org/abs/1412.6572" target="_blank">(PDF)</a></td>
+  <td>2014</td>
+</tr>
+
+
+
+
+
+
+
+<!---  structure  -->
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Theory (Structures, generative, discriminative, ...) of Deep learning Models</b></h3> </td> </tr>
+
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+  <tr>
+  <td>&check;RNN</td>
+  <td>Paper: Long Short-Term Memory
+ </td>
+  <td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+  </td>
+  <td>1997</td>
+</tr>
+
+
+
+
+
+ <tr>
+  <td>&check;NTM</td>
+  <td>Paper: Neural Turing Machines / Alex Graves, Greg Wayne, Ivo Danihelka
+ </td>
+  <td><a href="https://arxiv.org/abs/1410.5401" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;NTM</td>
+  <td>Paper: Hybrid computing using a neural network with dynamic external memory/ Alex Graves, etal, Koray Kavukcuoglu, Demis Hassabis
+ </td>
+  <td><a href="http://www.nature.com/nature/journal/v538/n7626/pdf/nature20101.pdf" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+
+
+  <tr>
+  <td>&check;Memory</td>
+  <td>Paper: End-To-End Memory Networks / Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus
+ </td>
+  <td><a href="https://arxiv.org/pdf/1503.08895.pdf" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+  <tr>
+  <td>&check;s2sLSTM</td>
+  <td>Paper: Sequence to Sequence Learning with Neural Networks / Ilya Sutskever, Oriol Vinyals, Quoc V. Le
+ </td>
+  <td><a href="https://arxiv.org/abs/1409.3215" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+  <tr>
+  <td>&check;s2sLSTM</td>
+  <td>Paper: Neural Machine Translation by Jointly Learning to Align and Translate / Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio
+ </td>
+  <td><a href="https://arxiv.org/abs/1409.0473" target="_blank">(PDF)</a></td>
+  <td>2016</td>
+</tr>
+
+
+ <tr>
+  <td>s2sLSTM</td>
+  <td>Paper: Pointer Networks /Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
+ </td>
+  <td><a href="https://arxiv.org/abs/1506.03134" target="_blank">(PDF)</a></td>
+  <td>2015</td>
+</tr>
+
+  <tr>
+  <td>&check;s2sLSTM</td>
+  <td>Paper: Order Matters: Sequence to Sequence for Sets / Oriol Vinyals, Samy Bengio, Manjunath Kudlur
+ </td>
+  <td><a href="https://arxiv.org/abs/1511.06391" target="_blank">(PDF)</a></td>
+  <td>2016</td>
+</tr>
+
+
+
+ <tr>
+  <td>&check;s2sLSTM</td>
+  <td>Paper: Matching Networks for One Shot Learning / Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
+ </td>
+  <td><a href="https://arxiv.org/abs/1606.04080" target="_blank">(PDF)</a></td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+<tr>
+<td>&check;RNN</td>
+<td>Paper: Long Short-Term Memory
+</td>
+<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
+<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+</td>
+<td>1997</td>
+</tr>
+
+
+
+<!---  opt  -->
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepOpt"></a>
+<h3><b>Topic V: Optimization of Deep learning Models</b></h3>
+</td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+  <tr>
+  <td>&check;SGD</td>
+  <td>Tutorial: Optimization Methods for Large-Scale Machine Learning / Léon Bottou, Frank E. Curtis, Jorge Nocedal
+ </td>
+  <td><a href="https://arxiv.org/abs/1606.04838" target="_blank">(PDF)</a>
+  </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;SGD</td>
+  <td>Tutorial: Efficient BackProp/ Yann Lecun, Leon Bottou, Genevieve Orr, Klaus-Robert Muler
+ </td>
+  <td><a href="http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf" target="_blank">(PDF)</a>
+  </td>
+  <td>1998</td>
+</tr>
 
 
 <tr> <td align="center" bgcolor="#00FFFF" colspan="4" style="border:2px solid #f00;">
@@ -645,13 +762,13 @@ An Informal Mathematical Tour of Feature Learning </td>
 </table>
 
 
-<!--
-<div style="position: fixed; bottom: 76px; right:10px; width: 188px; height: 196px; background-color: #FFCF79;">
-<a style="position: fixed; bottom:230px; right:10px;" href="#deepOpt">BasicsV:Optim</a>
-<a style="position: fixed; bottom:210px; right:10px;" href="#deepStr">BasicsVI:Structure</a>
-<a style="position: fixed; bottom:190px; right:10px;" href="#deepSec">BasicsIII:Adversarial</a>
-<a style="position: fixed; bottom:170px; right:10px;" href="#deepApp">BasicsII:Apps</a>
-<a style="position: fixed; bottom:150px; right:10px;" href="#deep0">BasicsI:Basics</a>
-  <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+
+<div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 236px; background-color: #FFCF79;">
+<a style="position: fixed; bottom:130px; right:10px;" href="#deep0">0:Courses</a>
+<a style="position: fixed; bottom:160px; right:10px;" href="#deepBasic">I:Basics</a>
+<a style="position: fixed; bottom:190px; right:10px;" href="#deepApp">II:Apps</a>
+<a style="position: fixed; bottom:220px; right:10px;" href="#deepSec">III:Generative</a>
+<a style="position: fixed; bottom:250px; right:10px;" href="#deepStr">VI:Structure</a>
+<a style="position: fixed; bottom:280px; right:10px;" href="#deepOpt">V:Optim</a>
+<a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
--->
