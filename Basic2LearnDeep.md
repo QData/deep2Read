@@ -18,6 +18,7 @@ desc: "Basic Readings of Deep Learning Finished Before 2017-Fall"
 <li><a href="#deepSec">Topic III: Basics of Adversarial Samples / Deep Generative Models </a> </li>
 <li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
 <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
+<li><a href="#reinfo">Topic VI: Basic Deep Reinforcement Learning  </a> </li>
 </ul>
 </font>
 
@@ -459,25 +460,25 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 <tr>
  <td>&check;App</td>
- <td>Paper: Learning to rank with (a lot of) word features
+ <td>Paper: A Neural Algorithm of Artistic Style
 </td>
- <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
- <td>2010</td>
+ <td><a href="https://arxiv.org/abs/1508.06576" target="_blank">(PDF)</a></td>
+ <td>2015</td>
 </tr>
 
 <tr>
- <td>&check;App</td>
- <td>Paper: Learning to rank with (a lot of) word features
+ <td>&check;Understanding</td>
+ <td>Paper: Understanding Black-box Predictions via Influence Functions
 </td>
- <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
- <td>2010</td>
+ <td><a href="https://arxiv.org/abs/1703.04730" target="_blank">(PDF)</a></td>
+ <td>2017</td>
 </tr>
 
 <tr>
- <td>&check;App</td>
- <td>Paper: Learning to rank with (a lot of) word features
+ <td>&check;Test</td>
+ <td>Paper: DeepXplore: Automated Whitebox Testing of Deep Learning Systems
 </td>
- <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
+ <td><a href="https://arxiv.org/abs/1705.06640" target="_blank">(PDF)</a></td>
  <td>2010</td>
 </tr>
 
@@ -525,7 +526,7 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 
 <tr>
-  <td>G&check;AN</td>
+  <td>&check;GAN</td>
   <td>Paper: Wasserstein GAN /Martin Arjovsky, Léon Bottou
  </td>
   <td><a href="https://arxiv.org/abs/1701.07875" target="_blank">(PDF)</a></td>
@@ -657,67 +658,70 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 
 <tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
+<td>&check;Memory</td>
+<td>Paper: One-shot Learning with Memory-Augmented Neural Networks / Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap
 </td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+<td><a href="https://arxiv.org/abs/1605.06065" target="_blank">(PDF)</a>(ICML16)
 </td>
-<td>1997</td>
+<td>2016</td>
 </tr>
 <tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
+
+
+<td>&check;ParaNet</td>
+<td>Paper: HyperNetworks / David Ha, Andrew Dai, Quoc V. Le / ICLR 2017
 </td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+<td><a href="https://arxiv.org/abs/1609.09106" target="_blank">(PDF)</a>
 </td>
-<td>1997</td>
+<td>2016</td>
+</tr>
+
+<tr>
+<td>&check;ParaNet</td>
+<td>Paper: Image Question Answering usingConvolutional Neural Network with Dynamic Parameter Prediction / Hyeonwoo Noh, Paul Hongsuck, Seo Bohyung Han / CVPR 2016
+</td>
+<td><a href="https://arxiv.org/abs/1511.05756" target="_blank">(PDF)</a>
+</td>
+<td>2015</td>
+</tr>
+
+
+<tr>
+<td>&check;ParaNet</td>
+<td>Paper: Learning Feed-Forward One-Shot Learners
+</td>
+<td><a href="https://arxiv.org/abs/1606.05233" target="_blank">(PDF)</a>
+</td>
+<td>2016</td>
+</tr>
+
+
+<tr>
+<td>&check;ParaNet</td>
+<td>Paper: Learning to Learn by gradient descent by gradient descent
+</td>
+<td><a href="https://arxiv.org/abs/1606.04474" target="_blank">(PDF)</a>
+</td>
+<td>2016</td>
+
+
 </tr>
 <tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
+<td>&check;ParaNet</td>
+<td>Paper: Dynamic Filter Networks
 </td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+<td><a href="https://arxiv.org/abs/1605.09673" target="_blank">(PDF)</a>
 </td>
-<td>1997</td>
+<td>2016</td>
 </tr>
 <tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
+
+<td>&check;ParaNet</td>
+<td>Paper: Diet Networks: Thin Parameters for Fat Genomics
 </td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
+<td><a href="https://arxiv.org/abs/1611.09340" target="_blank">(PDF)</a>
 </td>
-<td>1997</td>
-</tr>
-<tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
-</td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
-</td>
-<td>1997</td>
-</tr>
-<tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
-</td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
-</td>
-<td>1997</td>
-</tr>
-<tr>
-<td>&check;RNN</td>
-<td>Paper: Long Short-Term Memory
-</td>
-<td><a href="http://dl.acm.org/citation.cfm?id=1246450" target="_blank">(PDF)</a>
-<a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/" target="_blank">(BlogExplain)</a>
-</td>
-<td>1997</td>
+<td>2016</td>
 </tr>
 
 
@@ -756,6 +760,83 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 </tr>
 
 
+
+<!---  Reinforcement  -->
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a><h3><b>Topic VI: Reinforcement Learning Related Basics</b></h3> </td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+<tr>
+  <td>&check; BasicRL</td>
+  <td>Basics of Reinforcement Learning: Michael Littman, on  Conference on Reinforcement Learning and Decision Making (RLDM)15 </td>
+  <td> <a href="http://videolectures.net/rldm2015_littman_computational_reinforcement/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=968055/rldm2015_littman_computational_reinforcement.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+ <tr>
+ <td>&check;BasicRL</td>
+  <td>David Silver  Course on Reinforcement Learning (10 lectures)  </td>
+  <td><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL5X3mDkKaJrL42i_jhE4N-p6E2Ol62Ofa" target="_blank">(ListVideo)</a><b>+ </b> <a href="http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html" target="_blank">(Slide)
+  </a> </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
+  <td>&check; RLFunc </td>
+  <td>NIPS15 Tutorial: Introduction to Reinforcement Learning with Function Approximation</td>
+  <td> <a href="http://research.microsoft.com/apps/video/?id=259577" target="_blank">(Video)
+  </a> <b>+ </b> <a href="https://webdocs.cs.ualberta.ca/~sutton/Talks/RLtutorialNIPS2015.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check; DeepRL </td>
+  <td> David Silver: Deep Reinforcement Learning</td>
+  <td> <a href="http://videolectures.net/rldm2015_silver_reinforcement_learning/?q=reinforcement%20learning" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=968058/rldm2015_silver_reinforcement_learning.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+
+<tr>
+  <td>&check;DeepRL </td>
+  <td>Nando de Freitas: Deep Learning Lecture 15: Deep Reinforcement Learning - Policy search</td>
+  <td> <a href="https://www.youtube.com/watch?v=kUiR0RLmGCo" target="_blank">(Video)
+  </a> <b>+ </b> <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/lecture12.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>DeepRL </td>
+  <td>Nando de Freitas: Deep Learning Lecture 16: Reinforcement learning and neuro-dynamic programming</td>
+  <td> <a href="https://www.youtube.com/watch?v=dV80NAlEins" target="_blank">(Video)
+  </a> <b>+ </b> <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/lecture12.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
 <tr> <td align="center" bgcolor="#00FFFF" colspan="4" style="border:2px solid #f00;">
   many more exciting video tutorials @ <a href="http://videolectures.net"> http://videolectures.net </a> </td>
 </tr>
@@ -765,10 +846,11 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 <div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 236px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:130px; right:10px;" href="#deep0">0:Courses</a>
-<a style="position: fixed; bottom:160px; right:10px;" href="#deepBasic">I:Basics</a>
-<a style="position: fixed; bottom:190px; right:10px;" href="#deepApp">II:Apps</a>
-<a style="position: fixed; bottom:220px; right:10px;" href="#deepSec">III:Generative</a>
-<a style="position: fixed; bottom:250px; right:10px;" href="#deepStr">VI:Structure</a>
-<a style="position: fixed; bottom:280px; right:10px;" href="#deepOpt">V:Optim</a>
+<a style="position: fixed; bottom:155px; right:10px;" href="#deepBasic">I:Basics</a>
+<a style="position: fixed; bottom:180px; right:10px;" href="#deepApp">II:Apps</a>
+<a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>
+<a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">VI:Structure</a>
+<a style="position: fixed; bottom:255px; right:10px;" href="#deepOpt">V:Optim</a>
+<a style="position: fixed; bottom:280px; right:10px;" href="#reinfo">VI:RL</a>
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
