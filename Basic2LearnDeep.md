@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basic Readings 
+title: Basic Readings
 desc: "Basic Readings of Deep Learning Before 2017-Fall"
 ---
 
@@ -645,6 +645,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 </table>
 
 
+<!--
 <div style="position: fixed; bottom: 76px; right:10px; width: 188px; height: 196px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:230px; right:10px;" href="#deepOpt">BasicsV:Optim</a>
 <a style="position: fixed; bottom:210px; right:10px;" href="#deepStr">BasicsVI:Structure</a>
@@ -653,3 +654,4 @@ An Informal Mathematical Tour of Feature Learning </td>
 <a style="position: fixed; bottom:150px; right:10px;" href="#deep0">BasicsI:Basics</a>
   <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
+-->

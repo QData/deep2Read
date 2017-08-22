@@ -4,10 +4,7 @@ title: Readings ByDate
 desc: "Deep Learning Readings Indexed by Date-Read"
 ---
 
-<table id="datatab3" summary="Table of basic readings about deep learning" border="1">
-
-<!---  opt  -->
-
+<table id="datatab3" summary="Table of readings" border="1">
 <tr>
  <h3><b>
   <th>No.</th>
@@ -36,5 +33,5 @@ desc: "Deep Learning Readings Indexed by Date-Read"
 <hr>
 
 <div class="center">
-<a href="{{ site.baseurl }}/tag/" title="View Posts by Tag">View Readings organized by Tags</a>
+<a href="{{ site.baseurl }}/ReadingsIndexByTags/" title="View Readings by Tag">View Readings organized by Tags</a>
 </div>
