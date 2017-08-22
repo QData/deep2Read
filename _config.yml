@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Permalinks
 permalink:      pretty
-baseurl: 	    	/deep2read/
-url:            http://qdata.github.io/
+baseurl: 	    	/deep2Read/
+url:            https://qdata.github.io/
 
 # Setup
 title:            	"Deep Learning 2Read"

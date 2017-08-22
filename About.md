@@ -61,3 +61,6 @@ send mail to the instructor.
 
 
 ### The Course  Schedule Reference : [The official Academic Calendar at UVA Registrar](http://www.virginia.edu/registrar/calendar.html)
+
+
+### <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&d=lk5lgCFVNFwhfU4RgUCly4M5aJv-xfDWJM6iBpzeZS4"></script>
