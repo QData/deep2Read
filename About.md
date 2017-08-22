@@ -4,6 +4,7 @@ title: Course Information
 desc: "Information for UVA CS 6501-002 (Fall 2017)"
 ---
 
+<hr>
 ### Course Basics:
 
 + TuTh 2:00PM - 3:15PM
@@ -48,8 +49,8 @@ desc: "Information for UVA CS 6501-002 (Fall 2017)"
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ 50% for the participation and in-class paper presentations/discussions
-+ 50% for the reading assignments
++ 70% for the participation and in-class paper presentations/discussions
++ 30% for the reading assignments (we have a total of 30 classes in the Fall)
 
 
 ### Logistics Information
@@ -61,8 +62,10 @@ send mail to the instructor.
    on the course emailist.
 
 
+<hr>
+
 ### The Course  Schedule Reference : [The official Academic Calendar at UVA Registrar](http://www.virginia.edu/registrar/calendar.html)
 
-
+<hr>
 ### Statistics of Site Visits:
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&d=lk5lgCFVNFwhfU4RgUCly4M5aJv-xfDWJM6iBpzeZS4"></script>
