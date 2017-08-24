@@ -61,7 +61,8 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 11. End-to-end Optimized Image Compression, ICLR17
 12. Multi-Agent Cooperation and the Emergence of (Natural) Language, ICLR17
 13. Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR17
-
+14. Deep Learning with Differential Privacy,
+15. Privacy-Preserving Deep Learning, CCS15
 
 ## Optimization
 1. Johnson - Automatic Differentiation.p https://drive.google.com/file/d/0B6NHiPcsmak1ckYxR2hmRGdzdFk/view
