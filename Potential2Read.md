@@ -23,10 +23,6 @@ desc: "Potential Readings of Deep Learning We Plan to Finish in 2017-Fall"
 
 
 
-
-
-<!--
-
 <hr>
 
 <p><a name="Foud"></a></p>
@@ -235,13 +231,3 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 <a style="position: fixed; bottom:255px; right:10px;" href="#RL">VI: RL</a>
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
-
-### DeepMind papers
-### Facebook Fair/Lecun Papers
-### Bengio Papers
-
-### NIPS 2016 Papers
-###
-###
-
--->
