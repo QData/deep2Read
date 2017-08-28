@@ -57,6 +57,26 @@ https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 26. Depth-Width Tradeoffs in Approximating Natural Functions with Neural Networks, Itay Safran, Ohad Shamir ; PMLR 70:2979-2987
 27. A Closer Look at Memorization in Deep Networks, ICML17
 28. Dynamic Word Embeddings, ICML17
+29. Combining Low-Density Separators with CNNs, Yu-Xiong Wang*, Carnegie Mellon University; Martial Hebert, Carnegie Mellon University, NIPS16
+30. CNNpack: Packing Convolutional Neural Networks in the Frequency Domain, NIPS16
+31. Residual Networks are Exponential Ensembles of Relatively Shallow Networks, NIPS16
+32. Dense Associative Memory for Pattern Recognition, NIPS16
+33. Learning Kernels with Random Features, Aman Sinha*, Stanford University; John Duchi,
+34. Simple and Efficient Weighted Minwise Hashing, NIPS16
+35. Reward Augmented Maximum Likelihood for Neural Structured Prediction
+36. Unimodal Probability Distributions for Deep Ordinal Classification, ICML17
+37. End-to-End Learning for Structured Prediction Energy Networks, ICML17
+38. Orthogonal Random Features, NIPS16
+39. Learning Structured Sparsity in Deep Neural Networks, NIPS16
+40. Learning the Number of Neurons in Deep Networks, NIPS16
+41. Quantized Random Projections and Non-Linear Estimation of Cosine Similarity, NIPS16
+42. An equivalence between high dimensional Bayes optimal inference and M-estimation, NIPS16
+43. High Dimensional Structured Superposition Models, NIPS16
+44. Learning Deep Embeddings with Histogram Loss, NIPS16
+45. Learning values across many orders of magnitude, NIPS16
+46. Learning Deep Parsimonious Representations, NIPS16
+47. Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information, NIPS16
+48. A Bayesian method for reducing bias in neural representational similarity analysis, NIPS16
 
 
 <hr>
@@ -122,7 +142,20 @@ Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola ; PMLR 70:2024-2033
 54. Recurrent Highway Networks, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnı́k, Jürgen Schmidhuber ; PMLR 70:4189-4198
 55. Ask Me Anything: Dynamic Memory Networks for Natural Language Processing, ICML17
 56. OptNet: Differentiable Optimization as a Layer in Neural Networks, ICML17
-
+57. Swapout: Learning an ensemble of deep architectures, Saurabh Singh*, UIUC; Derek Hoiem, UIUC; David Forsyth, UIUC, NIPS16
+58. Natural-Parameter Networks: A Class of Probabilistic Neural Networks, Hao Wang*, HKUST; Xingjian Shi, ; Dit-Yan Yeung, NIPS16
+59. Learning What and Where to Draw, NIPS16
+60. Hierarchical Question-Image Co-Attention for Visual Question Answering, NIPS16
+61. Proximal Deep Structured Models, NIPS16
+62. Direct Feedback Alignment Provides Learning In Deep Neural Networks, NIPS16
+63. Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes, NIPS16
+64. Matching Networks for One Shot Learning, NIPS16
+65. Can Active Memory Replace Attention? Łukasz Kaiser*, ; Samy Bengio, NIPS16
+66. Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences, NIPS16
+67. Binarized Neural Networks, NIPS16
+68. Interaction Networks for Learning about Objects, Relations and Physics, NIPS16
+69. Optimal Architectures in a Solvable Model of Deep Networks, NIPS16
+70. Conditional Image Generation with Pixel CNN Decoders, NIPS16
 
 
 <hr>
@@ -174,8 +207,23 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 42. A Unified View of Multi-Label Performance Measures, Xi-Zhu Wu, Zhi-Hua Zhou ; PMLR 70:3780-3788
 43. Convexified Convolutional Neural Networks, Yuchen Zhang, Percy Liang, Martin J. Wainwright ; PMLR 70:4044-4053
 44. Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin, ICML17
-45. Unimodal Probability Distributions for Deep Ordinal Classification, ICML17
-46. End-to-End Learning for Structured Prediction Energy Networks, ICML17
+45. Learning Transferrable Representations for Unsupervised Domain Adaptation, NIPS16
+46. Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity, NIPS16
+47. Unsupervised Domain Adaptation with Residual Transfer Networks, Mingsheng Long*, Tsinghua University; Han Zhu, Tsinghua University; Jianmin Wang, Tsinghua University; Michael Jordan, NIPS16
+48. Interpretable Distribution Features with Maximum Testing Power, Wittawat Jitkrittum*, Gatsby Unit, UCL; Zoltan Szabo, ; Kacper Chwialkowski, Gatsby Unit, UCL; Arthur Gretton, NIPS16
+49. Domain Separation Networks, NIPS16
+50. Multimodal Residual Learning for Visual QA, NIPS16
+51. Learning feed-forward one-shot learners, NIPS16
+52. Adversarial Multiclass Classification: A Risk Minimization Perspective, NIPS16
+53. Generating Images with Perceptual Similarity Metrics based on Deep Networks, NIPS16
+54. Dialog-based Language Learning, Jason Weston*, NIPS16
+55. The Robustness of Estimator Composition, NIPS16
+56. Large Margin Discriminant Dimensionality Reduction in Prediction Space, NIPS16
+57. Robustness of classifiers: from adversarial to random noise, NIPS16
+58. Examples are not Enough, Learn to Criticize! Model Criticism for Interpretable Machine Learning, NIPS16
+59. Blind Attacks on Machine Learners, Alex Beatson*, Princeton University; Zhaoran Wang, Princeton University; Han Liu, NIPS16
+60. Composing graphical models with neural networks for structured representations and fast inference, NIPS16
+61. Spatiotemporal Residual Networks for Video Action Recognition, NIPS16
 
 <hr>
 
@@ -223,8 +271,11 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 39. Adaptive Neural Networks for Efficient Inference, ICML17
 40. Practical Gauss-Newton Optimisation for Deep Learning, ICML17
 41. Deep Tensor Convolution on Multicores, ICML17
-
-
+42. The Generalized Reparameterization Gradient, Francisco Ruiz*, Columbia University; Michalis K. Titsias, ; David Blei, NIPS16
+43. Attend, Infer, Repeat: Fast Scene Understanding with Generative Models, NIPS16
+44. Memory-Efficient Backpropagation Through Time, NIPS16
+45. Professor Forcing: A New Algorithm for Training Recurrent Networks, NIPS16
+46. Understanding the Effective Receptive Field in Deep Convolutional Neural Networks, NIPS16
 
 <hr>
 
@@ -258,7 +309,7 @@ Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, Jiwon Kim ; PMLR 70:1857-18
 23. Learning Hierarchical Features from Deep Generative Models, Shengjia Zhao, Jiaming Song, Stefano Ermon ; PMLR 70:4091-4099
 24. Wasserstein Generative Adversarial Networks, ICML17
 25. Generalization and Equilibrium in Generative Adversarial Nets (GANs), ICML17
-
+26. Exponential Family Embeddings, NIPS16
 
 <hr>
 
@@ -312,7 +363,7 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 <a style="position: fixed; bottom:130px; right:10px;" href="#Foud">I: Foundations</a>
 <a style="position: fixed; bottom:155px; right:10px;" href="#Stru">II: Structures</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#App">III: Apps</a>
-<a style="position: fixed; bottom:205px; right:10px;" href="#Opt">IV: Optimization</a>
+<a style="position: fixed; bottom:205px; right:10px;" href="#Opt">IV: Optimiza.</a>
 <a style="position: fixed; bottom:230px; right:10px;" href="#Gen">V: Generative</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#RL">VI: RL</a>
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
