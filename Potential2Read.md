@@ -8,8 +8,6 @@ desc: "Potential Readings of Deep Learning We Plan to Finish in 2017-Fall"
 
 <p><a name="topPage"></a></p>
 
-<hr>
-
 <font face="Arial,Helvetica">
 <ul>
 <li><a href="#Foud">Topic I: Foundations </a> </li>
@@ -52,6 +50,14 @@ https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 19. Adversarial Feature Learning, ICLR17
 20. Do Deep Convolutional Nets Really Need to be Deep and Convolutional?, ICLR17
 21. Why Deep Neural Networks for Function Approximation?, ICLR17
+22. Bengio - Recurrent Neural Networks - DLSS 2017.pdf: https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
+23. On the Expressive Power of Deep Neural Networks, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein ; PMLR 70:2847-2854
+24. Equivariance Through Parameter-Sharing, Siamak Ravanbakhsh, Jeff Schneider, Barnabás Póczos ; PMLR 70:2892-2901
+25. Large-Scale Evolution of Image Classifiers, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc V. Le, Alexey Kurakin ; PMLR 70:2902-2911
+26. Depth-Width Tradeoffs in Approximating Natural Functions with Neural Networks, Itay Safran, Ohad Shamir ; PMLR 70:2979-2987
+27. A Closer Look at Memorization in Deep Networks, ICML17
+28. Dynamic Word Embeddings, ICML17
+
 
 <hr>
 
@@ -64,7 +70,7 @@ https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 3. Leblond and Alayrac - SeaRNN.pdf https://drive.google.com/file/d/0B6NHiPcsmak1SDVEaWc0OWtaV0k/view?usp=drive_web
 4. Sharir - Overlapping Architectures.pdf https://drive.google.com/file/d/0B6NHiPcsmak1ZzVkci1EdVN2YkU/view?usp=drive_web
 5. Ullrich - Bayesian Compression.pd https://drive.google.com/file/d/0B6NHiPcsmak1WlRUeHFpSW5OZGc/view?usp=drive_web
-6. Understanding Synthetic Gradients and Decoupled Neural Interfaces, Wojtek Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu
+6. Understanding Synthetic Gradients and Decoupled Neural Interfaces, Wojtek Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu, ICML17
 7. Video Pixel Networks, Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu
 8. AdaNet: Adaptive Structural Learning of Artificial Neural Networks, Corinna Cortes, Xavi Gonzalvo, Vitaly Kuznetsov, Mehryar Mohri, Scott Yang
 9. Learning to Generate Long-term Future via Hierarchical Prediction, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee
@@ -102,6 +108,22 @@ https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 41. Reasoning with Memory Augmented Neural Networks for Language Comprehension, ICLR17
 42. Semi-Supervised Classification with Graph Convolutional Networks, ICLR17
 43. Hierarchical Multiscale Recurrent Neural Networks, ICLR17
+44. AdaNet: Adaptive Structural Learning of Artificial Neural Networks, ICML17
+45. Language Modeling with Gated Convolutional Networks, ICML17
+46. Image-to-Markup Generation with Coarse-to-Fine Attention, ICML17
+47. Input Switched Affine Networks: An RNN Architecture Designed for Interpretability, ICML17
+48. Differentiable Programs with Neural Libraries, ICML17
+49. Convolutional Sequence to Sequence Learning, ICML17
+50. State-Frequency Memory Recurrent Neural Networks, ICML17
+51. SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, Juyong Kim, Yookoon Park, Gunhee Kim, Sung Ju Hwang ; PMLR 70:1866-1874
+52. Deriving Neural Architectures from Sequence and Graph Kernels
+Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola ; PMLR 70:2024-2033
+53. Delta Networks for Optimized Recurrent Network Computation, Daniel Neil, Jun Haeng Lee, Tobi Delbruck, Shih-Chii Liu ; PMLR 70:2584-2593
+54. Recurrent Highway Networks, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnı́k, Jürgen Schmidhuber ; PMLR 70:4189-4198
+55. Ask Me Anything: Dynamic Memory Networks for Natural Language Processing, ICML17
+56. OptNet: Differentiable Optimization as a Layer in Neural Networks, ICML17
+
+
 
 <hr>
 
@@ -115,8 +137,8 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 5. Differentiable Programs with Neural Libraries, Alex L Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow
 6. Neural Optimizer Search with Reinforcement Learning, Irwan Bello, Barret Zoph, Vijay Vasudevan, Quoc Le
 7. Measuring Sample Quality with Kernels, Jackson Gorham (STANFORD) · Lester Mackey (Microsoft Research)
-8. Learning Continuous Semantic Representations of Symbolic Expressions
-9. Recovery Guarantees for One-hidden-layer Neural Networks
+8. Learning Continuous Semantic Representations of Symbolic Expressions, ICML17
+9. Recovery Guarantees for One-hidden-layer Neural Networks, ICML17
 10. On the State of the Art of Evaluation in Neural Language Models, https://arxiv.org/abs/1707.05589
 11. End-to-end Optimized Image Compression, ICLR17
 12. Multi-Agent Cooperation and the Emergence of (Natural) Language, ICLR17
@@ -130,6 +152,30 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 20. Visualizing Deep Neural Network Decisions: Prediction Difference Analysis, ICLR17
 21. On Detecting Adversarial Perturbations, ICLR17
 22. Delving into Transferable Adversarial Examples and Black-box Attacks, ICLR17
+23. Parseval Networks: Improving Robustness to Adversarial Examples, ICML17
+24. iSurvive: An Interpretable, Event-time Prediction Model for mHealth, ICML17
+25. Being Robust (in High Dimensions) Can Be Practical, ICML17
+26. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML17
+27. On Calibration of Modern Neural Networks, ICML17
+28. Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs, ICML17
+29. Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation, ICML17
+30. Analogical Inference for Multi-relational Embeddings,  Hanxiao Liu, Yuexin Wu, Yiming Yang ; PMLR 70:2168-2178
+31. Deep Transfer Learning with Joint Adaptation Networks, Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan ; PMLR 70:2208-2217
+32. Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, Jonas Mueller, David Gifford, Tommi Jaakkola ; PMLR 70:2536-2544
+33. Meta Networks, Tsendsuren Munkhdalai, Hong Yu ; PMLR 70:2554-2563
+34. Geometry of Neural Network Loss Surfaces via Random Matrix Theory, Jeffrey Pennington, Yasaman Bahri ; PMLR 70:2798-2806
+35. Asymmetric Tri-training for Unsupervised Domain Adaptation, Kuniaki Saito, Yoshitaka Ushiku, Tatsuya Harada ; PMLR 70:2988-2997
+36. Developing Bug-Free Machine Learning Systems With Formal Mathematics, Daniel Selsam, Percy Liang, David L. Dill ; PMLR 70:3047-3056
+37. Learning Important Features Through Propagating Activation Differences, Avanti Shrikumar, Peyton Greenside, Anshul Kundaje ; PMLR 70:3145-3153
+38. High-Dimensional Structured Quantile Regression, ICML17
+39. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs, Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song ; PMLR 70:3462-3471
+40. Learning to Generate Long-term Future via Hierarchical Prediction, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee ; PMLR 70:3560-3569
+41. Sequence Modeling via Segmentations, Chong Wang, Yining Wang, Po-Sen Huang, Abdelrahman Mohamed, Dengyong Zhou, Li Deng ; PMLR 70:3674-3683
+42. A Unified View of Multi-Label Performance Measures, Xi-Zhu Wu, Zhi-Hua Zhou ; PMLR 70:3780-3788
+43. Convexified Convolutional Neural Networks, Yuchen Zhang, Percy Liang, Martin J. Wainwright ; PMLR 70:4044-4053
+44. Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin, ICML17
+45. Unimodal Probability Distributions for Deep Ordinal Classification, ICML17
+46. End-to-End Learning for Structured Prediction Energy Networks, ICML17
 
 <hr>
 
@@ -156,13 +202,36 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 18. Recurrent Batch Normalization, ICLR17
 19. Adversarially Learned Inference, ICLR17
 20. Reasoning with Memory Augmented Neural Networks for Language Comprehension, ICLR17
+21. Deep ADMM-Net for Compressive Sensing MRI, NIPS16
+22. Sharp Minima Can Generalize For Deep Nets, ICML17
+23. Forward and Reverse Gradient-Based Hyperparameter Optimization, ICML17
+24. Automated Curriculum Learning for Neural Networks, ICML17
+25. How to Escape Saddle Points Efficiently, ICML17
+26. Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs, ICML17
+27. An overview of gradient optimization algorithms, (https://arxiv.org/abs/1609.04747)
+28. Learning Deep Architectures via Generalized Whitened Neural Networks, Ping Luo ; PMLR 70:2238-2246
+29. The Loss Surface of Deep and Wide Neural Networks, Quynh Nguyen, Matthias Hein ; PMLR 70:2603-2612
+30. Relative Fisher Information and Natural Gradient for Learning Large Modular Models, Ke Sun, Frank Nielsen ; PMLR 70:3289-3298
+31. meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting, Xu Sun, Xuancheng Ren, Shuming Ma, Houfeng Wang ; PMLR 70:3299-3308
+32. Axiomatic Attribution for Deep Networks, Mukund Sundararajan, Ankur Taly, Qiqi Yan ; PMLR 70:3319-3328
+33. Follow the Moving Leader in Deep Learning, Shuai Zheng, James T. Kwok ; PMLR 70:4110-4119
+34. Oracle Complexity of Second-Order Methods for Finite-Sum Problems, ICML17
+35. The Shattered Gradients Problem: If resnets are the answer, then what is the question?, ICML17
+36. Neural Taylor Approximations: Convergence and Exploration in Rectifier Networks, ICML17
+37. End-to-End Differentiable Adversarial Imitation Learning, ICML17
+38. Neural Optimizer Search with Reinforcement Learning, ICML17
+39. Adaptive Neural Networks for Efficient Inference, ICML17
+40. Practical Gauss-Newton Optimisation for Deep Learning, ICML17
+41. Deep Tensor Convolution on Multicores, ICML17
+
+
 
 <hr>
 
 <p><a name="Gen"></a></p>
 
 ## Generative
-0. Bengio - Recurrent Neural Networks - DLSS 2017.pdf: https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
+0. GAN tutorial by Ian Goodfellow (NIPS 2016):  https://arxiv.org/abs/1701.00160
 1. Goodfellow - Generative Models I - DLSS 2017 https://drive.google.com/file/d/0ByUKRdiCDK7-bTgxTGoxYjQ4NW8/view
 2. Courville - Generative Models II - DLSS 2017. https://drive.google.com/file/d/0B_wzP_JlVFcKQ21udGpTSkh0aVk/view
 3. Makhzani and Frey - PixelGAN Autoencoders.pdf https://drive.google.com/file/d/0B6NHiPcsmak1SFdRN2lmS3FnekE/view
@@ -172,12 +241,24 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 7. Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo, Maithra Raghu, Ben Poole, Surya Ganguli, Jon Kleinberg, Jascha Sohl-Dickstein
 8. Johnson - Graphical Models and Deep Learning https://drive.google.com/file/d/0B6NHiPcsmak1RmZ3bmtFWUd5bjA/view?usp=drive_web
 9. Variational Boosting: Iteratively Refining Posterior Approximations, Andrew Miller, Nicholas J Foti, Ryan Adams
-10. Stochastic Generative Hashing, Bo Dai, Ruiqi Guo, Sanjiv Kumar, Niao He, Le Song
+10. Stochastic Generative Hashing, Bo Dai, Ruiqi Guo, Sanjiv Kumar, Niao He, Le Song, ICML17
 11. Robust Structured Estimation with Single-Index Models, ICML17
 12. Learning to Act by Predicting the Future, ICLR17
 13. Improving Generative Adversarial Networks with Denoising Feature Matching, ICLR17
 14. Boosted Generative Models, ICLR17
 15. The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR17
+16. Robust Probabilistic Modeling with Bayesian Data Reweighting, ICML17
+17. Deep Generative Models for Relational Data with Side Information, ICML17
+18. Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, Jiwon Kim ; PMLR 70:1857-1865
+19. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks, Lars Mescheder, Sebastian Nowozin, Andreas Geiger ; PMLR 70:2391-2400
+20. McGan: Mean and Covariance Feature Matching GAN, Youssef Mroueh, Tom Sercu, Vaibhava Goel ; PMLR 70:2527-2535
+21. Parallel Multiscale Autoregressive Density Estimation, Scott Reed, Aäron Oord, Nal Kalchbrenner, Sergio Gómez Colmenarejo, Ziyu Wang, Yutian Chen, Dan Belov, Nando Freitas ; PMLR 70:2912-2921
+22. Adversarial Feature Matching for Text Generation, Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin ; PMLR 70:4006-4015
+23. Learning Hierarchical Features from Deep Generative Models, Shengjia Zhao, Jiaming Song, Stefano Ermon ; PMLR 70:4091-4099
+24. Wasserstein Generative Adversarial Networks, ICML17
+25. Generalization and Equilibrium in Generative Adversarial Nets (GANs), ICML17
+
 
 <hr>
 
@@ -206,6 +287,11 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 17. Distral: Robust Multitask Reinforcement Learning, https://arxiv.org/pdf/1707.04175.pdf
 18. Reinforcement Learning with Unsupervised Auxiliary Tasks, ICLR17
 19. Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic, ICLR17
+20. DARLA: Improving Zero-Shot Transfer in Reinforcement Learning, ICML17
+21. Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli ; PMLR 70:2661-2670
+22. Count-Based Exploration with Neural Density Models, Georg Ostrovski, Marc G. Bellemare, Aäron Oord, Rémi Munos ; PMLR 70:2721-2730
+23. Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction, Wen Sun, Arun Venkatraman, Geoffrey J. Gordon, Byron Boots, J. Andrew Bagnell ; PMLR 70:3309-3318
+
 
 
 <hr>
@@ -222,7 +308,7 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 <hr>
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 236px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 236px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:130px; right:10px;" href="#Foud">I: Foundations</a>
 <a style="position: fixed; bottom:155px; right:10px;" href="#Stru">II: Structures</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#App">III: Apps</a>
