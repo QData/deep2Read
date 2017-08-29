@@ -21,6 +21,7 @@ when you find my typos or have comments. The covered materials are by no means a
  <h3><b>
   <th>No.</th>
   <th>Date</th>
+  <th>Week</th>
   <th>Title and Information</th>
   </b>
   </h3>
@@ -33,6 +34,7 @@ when you find my typos or have comments. The covered materials are by no means a
 <tr>
 <td>{{ counter }}</td>
 <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
+<td>{{ post.desc }}</td>
 <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
 </tr>
 
