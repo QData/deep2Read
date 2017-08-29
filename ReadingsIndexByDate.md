@@ -7,7 +7,8 @@ desc: "Our Reviews of Deep Learning Readings by Date-Read"
 
 <div class="posts">
 
-  {% for post in site.posts  %}
+{% assign sorted = site.posts  | sort: 'date' %}
+{% for post in sorted %}
 
   <div class="post">
     <h1 class="post-title">

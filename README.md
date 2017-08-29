@@ -56,6 +56,6 @@ gem 'github-pages', group: :jekyll_plugins
 ```
 15. push into your git-site, using the site's -> "setting" -> section "GitHub Pages" to setup and publish the web as GitPage
 
-16. add post tagging using codes from [here]([PostTagging](https://www.jokecamp.com/blog/listing-jekyll-posts-by-tag/)
+16. add post tagging using codes from [PostTagging](https://www.jokecamp.com/blog/listing-jekyll-posts-by-tag/)
 
 17. add more interesting liquid programming using [Tips](https://gist.github.com/smutnyleszek/9803727)
