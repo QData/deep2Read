@@ -29,9 +29,8 @@ desc: "Potential Readings of Deep Learning We Plan to Finish in 2017-Fall"
 ## Foundations
 0. [DeepLearningSummerSchool17](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)
 1. Andrew Ng - Nuts and Bolts of Applying Deep Learning : https://www.youtube.com/watch?v=F1ka6a13S9I  :
-2. Ganguli - Theoretical Neuroscience and Deep Learning.pdf DLSS17 https://drive.google.com/file/d/0B6NHiPcsmak1dkZMbzc2YWRuaGM/view
-3. Richards - Deep_Learning_in_the_Brain.pd https://drive.google.com/file/d/0B2A1tnmq5zQdcFNkWU1vdDJiT00/view and
-https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
+2. Ganguli - Theoretical Neuroscience and Deep Learning DLSS16 http://videolectures.net/deeplearning2016_ganguli_theoretical_neuroscience/
+3. Ganguli - Theoretical Neuroscience and Deep Learning.pdf DLSS17 https://drive.google.com/file/d/0B6NHiPcsmak1dkZMbzc2YWRuaGM/view
 4. Sharp Minima Can Generalize For Deep Nets, Laurent Dinh (Univ. Montreal), Razvan Pascanu, Samy Bengio (Google Brain), Yoshua Bengio (Univ. Montreal)
 5. Automated Curriculum Learning for Neural Networks, Alex Graves, Marc G. Bellemare, Jacob Menick, Koray Kavukcuoglu, Remi Munos
 6. Learning to learn without gradient descent by gradient descent, Yutian Chen, Matthew Hoffman, Sergio Gomez, Misha Denil, Timothy Lillicrap, Matthew Botvinick , Nando de Freitas
@@ -77,6 +76,8 @@ https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 46. Learning Deep Parsimonious Representations, NIPS16
 47. Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information, NIPS16
 48. A Bayesian method for reducing bias in neural representational similarity analysis, NIPS16
+49. Richards - Deep_Learning_in_the_Brain.pd https://drive.google.com/file/d/0B2A1tnmq5zQdcFNkWU1vdDJiT00/view and
+https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
 
 
 <hr>
@@ -155,14 +156,13 @@ Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola ; PMLR 70:2024-2033
 67. Binarized Neural Networks, NIPS16
 68. Interaction Networks for Learning about Objects, Relations and Physics, NIPS16
 69. Optimal Architectures in a Solvable Model of Deep Networks, NIPS16
-70. Conditional Image Generation with Pixel CNN Decoders, NIPS16
 
 
 <hr>
 
 <p><a name="App"></a></p>
 ## Reliable and Benchmarking and Applications
-1. Ganguli - Theoretical Neuroscience and Deep Learning DLSS16 http://videolectures.net/deeplearning2016_ganguli_theoretical_neuroscience/
+1. Conditional Image Generation with Pixel CNN Decoders, NIPS16
 2. Dhruv - Visual Dialog - RLSS 2017 https://drive.google.com/file/d/0BzUSSMdMszk6RndSbkEzcnRFMGs/view and
 https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 3. Input Switched Affine Networks: An RNN Architecture Designed for Interpretability, Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-Dickstein, David Sussillo
@@ -282,7 +282,7 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 <p><a name="Gen"></a></p>
 
 ## Generative
-0. GAN tutorial by Ian Goodfellow (NIPS 2016):  https://arxiv.org/abs/1701.00160
+0. GAN tutorial by Ian Goodfellow (NIPS 2016):  https://arxiv.org/abs/1701.00160  https://www.youtube.com/watch?v=AJVyzd0rqdc
 1. Goodfellow - Generative Models I - DLSS 2017 https://drive.google.com/file/d/0ByUKRdiCDK7-bTgxTGoxYjQ4NW8/view
 2. Courville - Generative Models II - DLSS 2017. https://drive.google.com/file/d/0B_wzP_JlVFcKQ21udGpTSkh0aVk/view
 3. Makhzani and Frey - PixelGAN Autoencoders.pdf https://drive.google.com/file/d/0B6NHiPcsmak1SFdRN2lmS3FnekE/view
