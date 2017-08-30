@@ -310,6 +310,8 @@ Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, Jiwon Kim ; PMLR 70:1857-18
 24. Wasserstein Generative Adversarial Networks, ICML17
 25. Generalization and Equilibrium in Generative Adversarial Nets (GANs), ICML17
 26. Exponential Family Embeddings, NIPS16
+27. Wasserstein GAN, ICML17
+
 
 <hr>
 
