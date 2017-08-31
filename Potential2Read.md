@@ -27,7 +27,8 @@ desc: "Potential Readings of Deep Learning We Plan to Finish in 2017-Fall"
 
 
 ## Foundations
-0. [DeepLearningSummerSchool17](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/)
+0. [DeepLearningSummerSchool17](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) +
+   videolectures @ http://videolectures.net/deeplearning2017_montreal/
 1. Andrew Ng - Nuts and Bolts of Applying Deep Learning : https://www.youtube.com/watch?v=F1ka6a13S9I  :
 2. Ganguli - Theoretical Neuroscience and Deep Learning DLSS16 http://videolectures.net/deeplearning2016_ganguli_theoretical_neuroscience/
 3. Ganguli - Theoretical Neuroscience and Deep Learning.pdf DLSS17 https://drive.google.com/file/d/0B6NHiPcsmak1dkZMbzc2YWRuaGM/view
@@ -224,6 +225,7 @@ https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
 59. Blind Attacks on Machine Learners, Alex Beatson*, Princeton University; Zhaoran Wang, Princeton University; Han Liu, NIPS16
 60. Composing graphical models with neural networks for structured representations and fast inference, NIPS16
 61. Spatiotemporal Residual Networks for Video Action Recognition, NIPS16
+62. Learning Important Features Through Propagating Activation Differences, ICML17
 
 <hr>
 
