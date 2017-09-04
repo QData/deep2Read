@@ -37,20 +37,24 @@ desc: "Information for UVA CS 6501-002 (Fall 2017)"
 
 ### Assignments
 + Collab page to submit reading assignment before every class
-+ Pull request to submit lectures about the assigned papers @ [Course GitHub](https://github.com/QData/deep2Read)
-+ Each week, we will assign 2 to 3 reading materials (video lectures or papers or research lecture slides )
++ Sharelatex to submit lectures about the assigned papers
++ Each class, we will assign 3 to 3 reading materials (video lectures or papers or research lecture slides )
+
 + Template of the summary: Students are picked up randomly to present their summary of the reading
+0. Full reference of the paper
 1. Motivations / Why needed ? / Why important ?
 2. Previous solutions
 3. Key insights
 4. Key equations
 5. Key conclusions
+6. Goals achieved: / Under what restrictions or assumptions;
+
 
 
 ### Course Grading Policy
   The grade will be calculated as follows:
-+ 70% for the participation and in-class paper presentations/discussions
-+ 30% for the reading assignments (we have a total of 30 classes in the Fall)
++ 60% for the participation and in-class paper presentations/discussions
++ 40% for the reading assignments (we have a total of 30 classes in the Fall)
 
 
 ### Logistics Information
