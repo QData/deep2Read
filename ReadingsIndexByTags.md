@@ -36,7 +36,9 @@ Click on a tag to see relevant list of readings.
 </tr>
 
 {% assign counter = 1 %}
-{% for post in posts %}
+
+{% assign sortedp = posts  | sort: 'date' %}
+{% for post in sortedp %}
   {% if post.tags contains t %}
 
   <tr>
