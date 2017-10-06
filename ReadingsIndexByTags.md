@@ -82,6 +82,6 @@ Click on a tag to see relevant list of readings.
 {% endfor %}
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 36px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 36px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
