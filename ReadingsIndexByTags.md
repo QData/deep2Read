@@ -36,7 +36,6 @@ Click on a tag to see relevant list of readings.
 </tr>
 
 {% assign counter = 1 %}
-
 {% assign sortedp = posts  | sort: 'date' %}
 {% for post in sortedp %}
   {% if post.tags contains t %}
@@ -50,8 +49,31 @@ Click on a tag to see relevant list of readings.
   {% assign counter=counter | plus:1 %}
   {% endif %}
 {% endfor %}
-
 </table>
+
+<!--- for each tag, present its posts in orders -->
+
+<div class="posts">
+
+{% assign sorted = posts  | sort: 'date' %}
+{% for post in sorted %}
+  {% if post.tags contains t %}
+
+<hr>
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    <span class="post-date">- {{ post.date | date_to_string }} </span>
+    {{ post.content }}
+  </div>
+
+  {% endif %}
+{% endfor %}
+
+</div>
 
 ---
 
