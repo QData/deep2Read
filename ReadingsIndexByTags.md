@@ -22,7 +22,7 @@ Click on a tag to see relevant list of readings.
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h2><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/ReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t  }}</a></h2>
+<h1><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/ReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t  }}</a></h1>
 
 <!--- for each tag, get a table of index -->
 <table id="datatab3" summary="Table of readings" border="1">
@@ -76,5 +76,6 @@ Click on a tag to see relevant list of readings.
 </div>
 
 ---
+***
 
 {% endfor %}
