@@ -3,6 +3,7 @@ layout: page
 title: Readings ByTag
 desc: "Deep Learning Readings Organized by Tags"
 ---
+<p><a name="topPage"></a></p>
 
 
 Click on a tag to see relevant list of readings.
@@ -79,3 +80,8 @@ Click on a tag to see relevant list of readings.
 ***
 
 {% endfor %}
+
+
+<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 36px; background-color: #FFCF79;">
+<a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+</div>
