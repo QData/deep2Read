@@ -21,10 +21,17 @@ desc: "Potential Readings of Deep Learning We Plan to Finish in 2017-Fall"
 
 
 
+
 <hr>
 
 <p><a name="Foud"></a></p>
 
+## Deep-Learning-Papers-Reading-Roadmap
+
+1. [A great roadmap of deep learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md#deep-learning-papers-reading-roadmap)
+
+2. state-of-the-art-result-for-machine-learning-problems
+[URL](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 
 ## Foundations
 0. [DeepLearningSummerSchool17](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) +
