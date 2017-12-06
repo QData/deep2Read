@@ -72,4 +72,4 @@ send mail to the instructor.
 
 <hr>
 ### Statistics of Site Visits:
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&d=lk5lgCFVNFwhfU4RgUCly4M5aJv-xfDWJM6iBpzeZS4"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ROF9aP7vLMLqfs5eUAce51HSUDvdlHsI-Am4-aaho94&cl=ffffff&w=a"></script>
