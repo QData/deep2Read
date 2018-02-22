@@ -4,8 +4,37 @@ title: Course Information
 desc: "Information for UVA CS 6501-002 (Fall 2017)"
 ---
 
+
+
+## About this website:
+
++ As a group, we need to improve our knowledge of the fast-growing field of deep learning
++ To educate new members with basic tutorials, and to help existing members understand advanced topics.
++ This website includes a (growing) list of tutorials and papers we survey for such a purpose.
++ We hope this website is helpful to people who share similar research interests or are interested with learning advanced topics about deep learning.
++ Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
++ BTW: The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn in our reading group.
+
+
+
+## History
+
++ This website was started from the following seminar course at UVA I taught in Fall 2017.
+
+
 <hr>
-### Course Basics:
+<hr>
+
+
+
+### 2017 Fall Course Basics: and General  Description
+
++ This is an advanced graduate-level machine learning course.
++ The course takes the form of seminar and focuses on paper readings.</li>
++ This course offers opportunities for students to get into research topics about the
+ state-of-the-art advanced deep learning.
+ + No text book
+ + Sit-in: No.  This course is for registered students only.
 
 + TuTh 2:00PM - 3:15PM
 + Rice 032
@@ -16,15 +45,6 @@ desc: "Information for UVA CS 6501-002 (Fall 2017)"
 + EMail: [yanjun@virginia.edu](mailto:yanjun@virginia.edu)
 + Rice Hall 503 , 243-3089
 + Office hours: Thursday 3:30pm-4:30pm.
-
-### General  Description
-
-+ This is an advanced graduate-level machine learning course.
-+ The course takes the form of seminar and focuses on paper readings.</li>
-+ This course offers opportunities for students to get into research topics about the
- state-of-the-art advanced deep learning.
- + No text book
- + Sit-in: No.  This course is for registered students only.
 
 
 ### Prerequisite:
