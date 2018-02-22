@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Information
+title: About
 desc: "Information for UVA CS 6501-002 (Fall 2017)"
 ---
 
