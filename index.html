@@ -1,10 +1,9 @@
 ---
 layout: default
 title: Home
-desc: 'Information for UVA Qdata Group's Deep2Read Page'
 ---
 
-<h1> Website for 2017-Fall-UVA-CS 6501-002 Advanced Deep Learning </h1>
+<h1> Website for UVA Qdata Group's Deep Learning Reading Group </h1>
 <br>
 <div>
 This website includes a (growing) list of papers and lectures we read about deep learning and related.
@@ -28,7 +27,7 @@ when you find my typos or have comments. The covered materials are by no means a
 </tr>
 
 {% assign counter = 1 %}
-{% assign sorted = site.posts  | sort: 'date' %}
+{% assign sorted = site.posts  | sort: 'date' | reverse %}
 {% for post in sorted %}
 
 <tr>
