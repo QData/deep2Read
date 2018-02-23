@@ -8,7 +8,7 @@ desc: "Our Reviews of Deep Learning Readings by Date-Read"
 
 <div class="posts">
 
-{% assign sorted = site.posts  | sort: 'date' %}
+{% assign sorted = site.posts  | sort: 'date' | reverse %}
 {% for post in sorted %}
 
 <hr>

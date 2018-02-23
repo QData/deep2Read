@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MySurvey
-desc: "My Survey"
+desc: "Our Surveys for UVA Qdata Group's Deep2Read Journal Clubs"
 ---
 
 <hr>

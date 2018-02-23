@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-desc: "Information for UVA CS 6501-002 (Fall 2017)"
+desc: "Information for UVA Qdata Group's Deep2Read Page"
 ---
 
 
@@ -91,5 +91,3 @@ send mail to the instructor.
 ### The Course  Schedule Reference : [The official Academic Calendar at UVA Registrar](http://www.virginia.edu/registrar/calendar.html)
 
 <hr>
-### Statistics of Site Visits:
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=ROF9aP7vLMLqfs5eUAce51HSUDvdlHsI-Am4-aaho94&cl=ffffff&w=a"></script>
