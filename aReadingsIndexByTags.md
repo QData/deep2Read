@@ -32,6 +32,7 @@ Click on a tag to see relevant list of readings.
   <th>No.</th>
   <th>Date</th>
   <th>Title and Information</th>
+  <th>PaperYear</th>
   </b>
   </h3>
 </tr>
@@ -45,6 +46,7 @@ Click on a tag to see relevant list of readings.
   <td>{{ counter }}</td>
   <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+  <td>{{ post.desc }}</td>
   </tr>
 
   {% assign counter=counter | plus:1 %}
