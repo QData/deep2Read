@@ -12,12 +12,13 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
+    <nav class="sidebar-nav">
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
 
-      {% assign pages_list = site.pages %}
+      {% assign pages_list = site.pages | sort:"order"  %}
       {% for node in pages_list %}
         {% if node.title != null %}
           {% if node.layout == "page" %}
@@ -25,6 +26,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+      
       <br>
       <a class="sidebar-nav-item" href="http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm"
       target="_blank" >Notes2Learn MachineLearning</a>
@@ -33,6 +35,7 @@
       <hr>
       <a class="sidebar-nav-item" href="https://github.com/QData/deep2Read" target="_blank" >This Site GitHub</a>
       <a class="sidebar-nav-item" href="http://www.cs.virginia.edu/yanjun/" target="_blank" >UVA Qdata Lab</a>
+            <a class="sidebar-nav-item" href="https://github.com/qdata/" target="_blank" >GitHub Qdata</a>
       <p>&copy;  <a href="https://twitter.com/Qdatalab" data-widget-id="459649185759764482">Tweets by @Qdatalab</a></p>
 
     </nav>

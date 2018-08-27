@@ -2,6 +2,7 @@
 layout: page
 title: Readings ByTag
 desc: "Deep Learning Readings Organized by Tags"
+order: 1
 ---
 <p><a name="topPage"></a></p>
 
