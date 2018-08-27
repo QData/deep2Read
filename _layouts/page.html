@@ -6,8 +6,11 @@ layout: default
 
   <h1 class="page-title">{{ page.desc }}</h1>
   {{ content }}
+ 
 
-  
+  {% assign content = post.content | strip_newlines %}
+  {% if content == ""  %}
+
   <h1 class="page-title">{{ page.title }} (Index of Posts):</h1>
 
   {% for tag in site.tags %}
@@ -26,7 +29,6 @@ layout: default
     {% endif %}
   {% endfor %}
   </ul>
-
   <hr>
 
   {% endif %}
@@ -56,7 +58,6 @@ layout: default
       {{ post.content }}
     </div>
 
-
     {% endif %}
 
     <hr>
@@ -66,5 +67,6 @@ layout: default
   {% endif %}
   {% endfor %}
 
+{% endif %}
 
 </div>
