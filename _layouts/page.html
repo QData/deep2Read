@@ -10,7 +10,7 @@ layout: default
 
   {% assign content = post.content | strip_newlines %}
   {% if content == ""  %}
-
+  <hr> 
   <h1 class="page-title">{{ page.title }} (Index of Posts):</h1>
 
   {% for tag in site.tags %}

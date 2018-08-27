@@ -2,7 +2,7 @@
 layout: page
 title: Basic Readings
 desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
-order: 5
+order: 1
 ---
 
 <p><a name="topPage"></a></p>
