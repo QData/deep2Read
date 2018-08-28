@@ -13,7 +13,7 @@ layout: default
   <hr> 
   <h1 class="page-title">{{ page.title }} (Index of Posts):</h1>
 
-  {% for tag in site.tags %}
+  {% for tag in site.categories %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
 
@@ -21,7 +21,7 @@ layout: default
 
   <ul>
   {% for post in posts %}
-    {% if post.tags contains t %}
+    {% if post.categories contains t %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
@@ -37,14 +37,14 @@ layout: default
 
 
 
-  {% for tag in site.tags %}
+  {% for tag in site.categories %}
     {% assign t = tag | first %}
     {% assign posts = tag | last %}
 
     {% if page.title == t %}
 
   {% for post in posts %}
-    {% if post.tags contains t %}
+    {% if post.categories contains t %}
 
     <div class="post">
       <h1 class="post-title">
