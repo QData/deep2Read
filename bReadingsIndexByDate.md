@@ -2,7 +2,7 @@
 layout: page
 title: Readings ByReadDate
 desc: "Our Reviews of Deep Learning Readings by Date-Read"
-order: 6
+order: 12
 ---
 
 <p><a name="topPage"></a></p>
