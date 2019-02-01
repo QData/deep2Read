@@ -17,6 +17,7 @@ order: 55
 <li><a href="#Opt">Topic IV: Optimization </a> </li>
 <li><a href="#Gen">Topic V: Generative  </a> </li>
 <li><a href="#RL">Topic VI: Reinforcement </a> </li>
+<li><a href="#Graphs">Topic VII: Graphs </a> </li>
 </ul>
 </font>
 
@@ -24,6 +25,37 @@ order: 55
 
 
 <hr>
+
+
+
+<p><a name="Graphs"></a></p>
+
+## Deep-Learning-Papers-Reading-for-Graphs 
+
+1. An Experimental Study of Neural Networks for Variable Graphs
+  - 
++ RECS: Robust Graph Embedding Using Connection Subgraphs
++ LASAGNE: Locality And Structure Aware Graph Node Embedding
++ Adversarially Regularized Graph Autoencoder for Graph Embedding
++  All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks
++ LanczosNet: Multi-Scale Deep Graph Convolutional Networks
++ GM-PLL: Graph Matching based Partial Label Learning
++ Graph HyperNetworks for Neural Architecture Search
++ Graph Neural Networks with convolutional ARMA filters
++ Encoding Robust Representation for Graph Generation
++ A Functional Representation for Graph Matching
++ MRF Optimization by Graph Approximation
++ Neural Graph Machines: Learning Neural Networks Using Graphs
++ Credit Assignment Techniques in Stochastic Computation Graphs
++  Graphical Generative Adversarial Networks
++  End-to-end differentiable physics for learning and control
++  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks
++  Reference-less Quality Estimation of Text Simplification Systems
++ Graphical GAN
++ SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
++ Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
+
+
 
 <p><a name="Foud"></a></p>
 
@@ -371,12 +403,14 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 <hr>
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 236px; background-color: #FFCF79;">
+
+<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 251px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:130px; right:10px;" href="#Foud">I: Foundations</a>
 <a style="position: fixed; bottom:155px; right:10px;" href="#Stru">II: Structures</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#App">III: Apps</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#Opt">IV: Optimiza.</a>
 <a style="position: fixed; bottom:230px; right:10px;" href="#Gen">V: Generative</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#RL">VI: RL</a>
+<a style="position: fixed; bottom:280px; right:10px;" href="#Graphs">VII: Graphs</a>
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>

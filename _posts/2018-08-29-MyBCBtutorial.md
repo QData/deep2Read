@@ -11,4 +11,4 @@ categories: 2018Reads
 | Presenter | Papers | Information| OurPresentation |
 | -----: | ----------: | :----- | :----- |
 | Dr. Qi | Making Deep Learning Understandable for Analyzing Sequential Data about Gene Regulation |         |  [PDF]({{site.baseurl}}/MoreTalksTeam/20180229-deepBio-BCBtutorial.pdf) |
-|
+
