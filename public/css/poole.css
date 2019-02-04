@@ -212,8 +212,8 @@ pre code {
 
 /* Quotes */
 blockquote {
-  padding: .5rem 1rem;
-  margin: .5rem 0;
+  padding: .5rem .5rem;
+  margin: .1rem 0;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 }
@@ -222,8 +222,10 @@ blockquote p:last-child {
 }
 @media (min-width: 38em) {
   blockquote {
-    padding-right: 1rem;
+      max-width: 100%;
+   padding-right: 0.1rem;
     padding-left: 1.05rem;
+
   }
 }
 
