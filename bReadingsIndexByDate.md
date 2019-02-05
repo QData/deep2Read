@@ -22,8 +22,8 @@ order: 72
 
     <span class="post-date">- {{ post.date | date_to_string }} </span> -->
 
-    <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}</h3>
       </a> - {{ post.date | date_to_string }}
 
     {{ post.content }}
