@@ -23,5 +23,4 @@ tags:
 > ####  DeepWalk - Turning Graphs into Features via Network Embeddings 
 
 
-
 > ####  Gated Graph neural networks
