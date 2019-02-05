@@ -43,7 +43,7 @@ layout: default
 
     {% if page.title == t %}
 
-  {% for post in posts %}
+  {% for post in posts reversed %}
     {% if post.categories contains t %}
 
     <div class="post">

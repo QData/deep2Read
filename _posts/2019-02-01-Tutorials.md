@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Tutorials - Deep Learning Advances on Graphs 
+title: Tutorials II - Deep Learning Advances on Graphs 
 desc: 2019-W2
 categories: 2019sCourse
 tags:
-- 0Survey
+- 6Graphs
 ---
 
 | Presenter | Papers | Information| OurPresentation |
@@ -17,11 +17,11 @@ tags:
 
 
 
-> ####  
+> ####  Geometric Deep Learning on Graphs and Manifolds - #NIPS2017
 
 
-> ####  
+> ####  DeepWalk - Turning Graphs into Features via Network Embeddings 
 
 
 
-> ####  
+> ####  Gated Graph neural networks
