@@ -14,7 +14,6 @@ categories: 2018Reads
 | GaoJi | Summary Of Several Autoencoder models  | [PDF]() |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/JiAutoencoderNNs.pdf) | 
 | GaoJi | Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models, Jesse Engel, Matthew Hoffman, Adam Roberts  | [PDF](https://arxiv.org/abs/1711.05772) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/JIConditionalGEN.pdf) | 
 | GaoJi |  Summary of A Few Recent Papers about Discrete Generative models, SeqGAN, MaskGAN, BEGAN, BoundaryGAN| [PDF]() |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/JIDiscreteGAN.pdf) | 
-|  | Geometrical Insights for Implicit Generative Modeling, L Bottou, M Arjovsky, D Lopez-Paz, M Oquab  | [PDF](https://arxiv.org/pdf/1712.07822.pdf) |
 
 
 > ####  

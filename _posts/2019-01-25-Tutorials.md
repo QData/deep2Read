@@ -4,7 +4,7 @@ title: Tutorials I - Deep Learning Advances on Graphs
 desc: 2019-W1
 categories: 2019sCourse
 tags:
-- 6Graphs
+- 7Graphs
 ---
 
 | Presenter | Papers | Information| OurPresentation |
