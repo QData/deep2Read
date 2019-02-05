@@ -20,7 +20,7 @@ layout: default
     {% if page.title == t %}
 
   <ul>
-  {% for post in posts %}
+  {% for post in posts reversed %}
     {% if post.categories contains t %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
