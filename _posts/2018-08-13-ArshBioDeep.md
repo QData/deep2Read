@@ -17,3 +17,13 @@ categories: 2018Reads
 |  Arshdeep| The CRISPR tool kit for genome editing and beyond, Mazhar Adli  | [PDF](https://www.nature.com/articles/s41467-018-04252-2) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-07062018-CRISPR-Review.pdf) | 
 | Arshdeep |  deepCRISPR: optimized CRISPR guide RNA design by deep learning | [PDF](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1459-4) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-07162018-DeepCRISPR.pdf) | 
 | Arshdeep | Deep learning sequence-based ab initio prediction of variant effects on ex pression and disease risk  | [PDF](https://www.nature.com/articles/s41588-018-0160-6) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-07272018-AbinitioPrediction-SeqtoGeneExp.pdf) | 
+
+
+> ####  
+
+
+> ####  
+
+
+
+> ####  
