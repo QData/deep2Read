@@ -67,7 +67,7 @@ Click on a tag to see relevant list of readings.
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  <li><a href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t }}</a></li>
+  <li><a href="{{ site.baseurl }}/#{{t | replace:" ","-" }}">{{ t }}</a></li>
 {% endfor %}
 </ul>
 
@@ -78,7 +78,7 @@ Click on a tag to see relevant list of readings.
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
-<h1><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t  }}</a></h1>
+<h1><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/#{{t | replace:" ","-" }}">{{ t  }}</a></h1>
 
 <!--- for each tag, get a table of index -->
 <table id="datatab3" summary="Table of readings" border="1">
