@@ -62,11 +62,12 @@ order: 10
 + Each class, we will assign 4 to 6 reading materials (video lectures or papers or research lecture slides )
 
 + Each student is expected to have three sets of assigntments: 
-  	- Weekly project summary should be updated per week right before project meetings with Prof. Qi; 
-  	- Assigned presentation slides: please use the BEAMER template shared through the course overleaf project. Please make sure the presentation slides are ready before every Friday 8am;  ([One Example Slide Presenation]({{site.baseurl}}/talks/20171130-Ji.pdf))
-	- Assigned scribe notes: please use the latex template shared through the course overleaf project. Please make sure the scribe notes are ready one week after. ([One Example Scribe note](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/3-notes-valentino-misener.pdf))
+  	
++ (a) Weekly project summary should be updated per week right before project meetings with Prof. Qi; 
++ (b) Assigned presentation slides: please use the BEAMER template shared through the course overleaf project. Please make sure the presentation slides are ready before every Friday 8am;  ([One Example Slide Presenation]({{site.baseurl}}/talks/20171130-Ji.pdf))
++ (c) Assigned scribe notes: please use the latex template shared through the course overleaf project. Please make sure the scribe notes are ready one week after. ([One Example Scribe note](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/3-notes-valentino-misener.pdf))
 
-+ For both presentation and the scribe notes, please use the following structure as reference: 
++ For both the paper presentations and the scribe notes, please use the following structure as reference: 
 
 0. Full reference of the paper
 1. Motivations / Why needed ? / Why important ?
