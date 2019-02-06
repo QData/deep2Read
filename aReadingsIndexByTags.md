@@ -24,6 +24,7 @@ Click on a tag to see relevant list of readings.
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 
+
 <h1><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t  }}</a></h1>
 
 <!--- for each tag, get a table of index -->
