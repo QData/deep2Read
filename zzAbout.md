@@ -19,50 +19,57 @@ order: 10
 
 
 
-## History
-
-+ This website was started from the following seminar course at UVA I taught in Fall 2017.
-
-
-<hr>
 <hr>
 
 
+### Course Basics: and General Description
 
-### 2017 Fall Course Basics: and General  Description
-
-+ This is an advanced graduate-level machine learning course.
-+ The course takes the form of seminar and focuses on paper readings.</li>
++ This is an advanced graduate-level deep learning course.
++ The course takes the form of half-seminar and half-project. The form of seminar focuses on paper readings.
 + This course offers opportunities for students to get into research topics about the
  state-of-the-art advanced deep learning.
  + No text book
  + Sit-in: No.  This course is for registered students only.
 
-+ TuTh 2:00PM - 3:15PM
-+ Rice 032
+## History
+
++ This website was started from the seminar course at UVA I taught in Fall 2017 and Spring 2019.
++ This course offers opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
 
 ### Instructor
 
 + [Prof. Yanjun Qi](http://www.cs.virginia.edu/yanjun/)
 + EMail: [yanjun@virginia.edu](mailto:yanjun@virginia.edu)
 + Rice Hall 503 , 243-3089
-+ Office hours: Thursday 3:30pm-4:30pm.
++ Office hours: Wed 9:30am-12:30pm.
 
 
 ### Prerequisite:
-+ Instructor's Permission for enrollment is required for this
- course.
++ Instructor's Permission for enrollment is required for this course.
 + Required courses as prerequisite: Graduate-level machine
  learning; Introduction of Deep Learning and Graduate-level Optimization are preferred.
 + Familiar reading of [Basic Deep Learning]({{ site.baseurl }}{% link Basic2LearnDeep.md %})  are preferred.
 
 
-### Assignments
-+ Collab page to submit reading assignment before every class
-+ Sharelatex to submit lectures about the assigned papers
-+ Each class, we will assign 3 to 3 reading materials (video lectures or papers or research lecture slides )
+### Course Grading Policy
+  The grade will be calculated as follows:
++ 60% for the in-class paper presentations/discussions/ note taking
++ 40% for the project 
 
-+ Template of the summary: Students are picked up randomly to present their summary of the reading
+
+### Assignments
++ Sharelatex/overleaf to submit lectures about the assigned papers
++ Each class, we will assign 4 to 6 reading materials (video lectures or papers or research lecture slides )
+
++ Each student is expected to have three sets of assigntments: 
+  	- Weekly project summary should be updated per week right before project meetings with Prof. Qi; 
+  	- Assigned presentation slides: please use the BEAMER template shared through the course overleaf project. Please make sure the presentation slides are ready before every Friday 8am; 
+		+ ([One Example Slide Presenation]({{site.baseurl}}/talks/20171130-Ji.pdf))
+	- Assigned scribe notes: please use the latex template shared through the course overleaf project. Please make sure the scribe notes are ready one week after.  
+		+ ([One Example Scribe note](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/3-notes-valentino-misener.pdf))
+
++ For both presentation and the scribe notes, please use the following structure as reference: 
+
 0. Full reference of the paper
 1. Motivations / Why needed ? / Why important ?
 2. Previous solutions
@@ -73,17 +80,9 @@ order: 10
 
 
 
-### Course Grading Policy
-  The grade will be calculated as follows:
-+ 60% for the participation and in-class paper presentations/discussions
-+ 40% for the reading assignments (we have a total of 30 classes in the Fall)
-
-
 ### Logistics Information
 + Announcements are being emailed to the course mailing list.
 + A welcome note will be sent to the mailing  list early in the semester.
-+ If you do not receive the welcome message by Sept 1, 2017, please
-send mail to the instructor.
 + Errata and answers to questions are being discussed and answered
    on the course emailist.
 
@@ -92,4 +91,3 @@ send mail to the instructor.
 
 ### The Course  Schedule Reference : [The official Academic Calendar at UVA Registrar](http://www.virginia.edu/registrar/calendar.html)
 
-<hr>
