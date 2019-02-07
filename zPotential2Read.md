@@ -27,33 +27,64 @@ order: 55
 <hr>
 
 
-
 <p><a name="Graphs"></a></p>
 
 ## Deep-Learning-Papers-Reading-for-Graphs 
+(ICLR19/NeurIPS18/References of two papers/ MaxWeilling, Jure, )
 
-1. An Experimental Study of Neural Networks for Variable Graphs
-  - 
-+ RECS: Robust Graph Embedding Using Connection Subgraphs
-+ LASAGNE: Locality And Structure Aware Graph Node Embedding
-+ Adversarially Regularized Graph Autoencoder for Graph Embedding
-+  All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks
-+ LanczosNet: Multi-Scale Deep Graph Convolutional Networks
-+ GM-PLL: Graph Matching based Partial Label Learning
-+ Graph HyperNetworks for Neural Architecture Search
-+ Graph Neural Networks with convolutional ARMA filters
-+ Encoding Robust Representation for Graph Generation
-+ A Functional Representation for Graph Matching
-+ MRF Optimization by Graph Approximation
-+ Neural Graph Machines: Learning Neural Networks Using Graphs
-+ Credit Assignment Techniques in Stochastic Computation Graphs
-+  Graphical Generative Adversarial Networks
-+  End-to-end differentiable physics for learning and control
-+  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks
-+  Reference-less Quality Estimation of Text Simplification Systems
-+ Graphical GAN
-+ SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
-+ Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
+#### Basics: 
+0. Relational inductive biases, deep learning, and graph networks, 2018
+1. Graph Neural Networks: A Review of Methods and Applications https://arxiv.org/pdf/1812.08434.pdf
+2. Modeling relational data with graph convolutional networks
+3. An Experimental Study of Neural Networks for Variable Graphs
+4. How Powerful are Graph Neural Networks?
+
+#### Basic graph represenation learning: 
+1. RECS: Robust Graph Embedding Using Connection Subgraphs
+2. LASAGNE: Locality And Structure Aware Graph Node Embedding
+3. Adversarially Regularized Graph Autoencoder for Graph Embedding
+4. All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks
+5. LanczosNet: Multi-Scale Deep Graph Convolutional Networks
+6. Graph Neural Networks with convolutional ARMA filters
+
+#### GNN extend: 
+1. GM-PLL: Graph Matching based Partial Label Learning
+2. Graph Matching Networks for Learning the Similarity of Graph Structured Objects, 2019
+3. A Functional Representation for Graph Matching
+
+
+#### Generate: 
+1. Neural scene representation and rendering, science 2018 
+2. Relational Deep Reinforcement Learning, 2018
+3. Generating sentences from a continuous space, 2015
+4. Encoding Robust Representation for Graph Generation
+5. Graphical Generative Adversarial Networks
+6. Graphical GAN
+
+
+#### with GM:
+1. Neural Graph Machines: Learning Neural Networks Using Graphs
+2. Graph HyperNetworks for Neural Architecture Search
+3. MRF Optimization by Graph Approximation
+4. Credit Assignment Techniques in Stochastic Computation Graphs
+5.  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks
+3. SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
+
+
+#### Applications: 
+1. End-to-end differentiable physics for learning and control
+2. Learning to represent programs with graphs
+3. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
+4. video2net: Extracting dynamic interaction networks from multi-person discussion videos  / https://www.cs.stanford.edu/~srijan/pubs/paper-video2net.pdf
+5. Theory and Application of Network Biology Towards Precision Medicine
+6. Data-driven view of disease biology
+
+
+#### Robustness 
+1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
+2. Faithful and Customizable Explanations of Black Box Models
+H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
+3. Adversarial Examples as an Input-Fault Tolerance Problem
 
 
 
