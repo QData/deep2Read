@@ -8,8 +8,8 @@ categories: 2017Reads
 ---
 
 
-| Presenter | Papers | Information| OurPresentation |
-| -----: | ----------: | :----- | :----- |
+| Presenter | Papers | Paper URL| OurPresentation |
+| -----: | :--------------------------- | :----- | :----- |
 | GaoJi |  A few useful things to know about machine learning | [PDF](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/17Ji_MachineLearning.pdf) | 
 | GaoJi | A few papers related to testing learning, e.g., Understanding Black-box Predictions via Influence Functions  | [PDF](https://arxiv.org/abs/1703.04730) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/17Ji_AfewPapersTestML.pdf) | 
 | GaoJi |  Automated White-box Testing of Deep Learning Systems | [PDF](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/17Ji_DeepXplore.pdf) | 
