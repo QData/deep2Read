@@ -30,7 +30,7 @@ order: 55
 <p><a name="Graphs"></a></p>
 
 ## Deep-Learning-Papers-Reading-for-Graphs 
-(ICLR19/NeurIPS18/References of two papers/ MaxWeilling, Jure, )
+(ICLR19/NeurIPS18/Top GNN teams)
 
 #### Basics: 
 0. Relational inductive biases, deep learning, and graph networks, 2018
