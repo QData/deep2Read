@@ -30,14 +30,14 @@ order: 55
 <p><a name="Graphs"></a></p>
 
 ## Deep-Learning-Papers-Reading-for-Graphs 
-(ICLR19/NeurIPS18/Top GNN teams)
 
 #### Basics: 
-0. Relational inductive biases, deep learning, and graph networks, 2018
+0. Relational inductive biases, deep learning, and graph networks, et al, Oriol Vinyals, Yujia Li, Razvan Pascanu, 2018
 1. Graph Neural Networks: A Review of Methods and Applications https://arxiv.org/pdf/1812.08434.pdf
-2. Modeling relational data with graph convolutional networks
-3. An Experimental Study of Neural Networks for Variable Graphs
-4. How Powerful are Graph Neural Networks?
+2. Modeling relational data with graph convolutional networks, 2017, Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling
+3. An Experimental Study of Neural Networks for Variable Graphs, 
+workshop 2018 ICLR 
+4. How Powerful are Graph Neural Networks? / Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka, 2018 
 
 #### Basic graph represenation learning: 
 1. RECS: Robust Graph Embedding Using Connection Subgraphs
@@ -47,11 +47,27 @@ order: 55
 5. LanczosNet: Multi-Scale Deep Graph Convolutional Networks
 6. Graph Neural Networks with convolutional ARMA filters
 
-#### GNN extend: 
+#### GNN extend/beyond: 
 1. GM-PLL: Graph Matching based Partial Label Learning
 2. Graph Matching Networks for Learning the Similarity of Graph Structured Objects, 2019
 3. A Functional Representation for Graph Matching
-
+4. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
+5. Sample Efficient Semantic Segmentation using Rotation Equivariant Convolutional Networks J Linmans, J Winkens, BS Veeling, TS Cohen, M Welling
+arXiv preprint arXiv:1807.00583
+7. Emerging Convolutions for Generative Normalizing Flows
+E Hoogeboom, R Berg, M Welling, arXiv preprint arXiv:1901.11137
+6.  2018, Rotation Equivariant CNNs for Digital Pathology
+BS Veeling, J Linmans, J Winkens, T Cohen, M Welling
+arXiv preprint arXiv:1806.03962
+8. 3d steerable cnns: Learning rotationally equivariant features in volumetric data
+M Weiler, M Geiger, M Welling, W Boomsma, T Cohen
+Advances in Neural Information Processing Systems, 10402-10413
+9. Convolutional networks for spherical signals
+T Cohen, M Geiger, J Köhler, M Welling
+arXiv preprint arXiv:1709.04893
+10. Graph Convolutional Matrix Completion
+R van den Berg, TN Kipf, M Welling
+stat 1050, 7
 
 #### Generate: 
 1. Neural scene representation and rendering, science 2018 
@@ -59,25 +75,35 @@ order: 55
 3. Generating sentences from a continuous space, 2015
 4. Encoding Robust Representation for Graph Generation
 5. Graphical Generative Adversarial Networks
-6. Graphical GAN
-
+6. Graphical Generative Adversarial Networks C Li, M Welling, J Zhu, B Zhang
+arXiv preprint arXiv:1804.03429
+7. 2019, Recurrent Inference Machines for Reconstructing Heterogeneous MRI Data
+K Lønning, P Putzky, JJ Sonke, L Reneman, MWA Caan, M Welling
 
 #### with GM:
 1. Neural Graph Machines: Learning Neural Networks Using Graphs
 2. Graph HyperNetworks for Neural Architecture Search
 3. MRF Optimization by Graph Approximation
 4. Credit Assignment Techniques in Stochastic Computation Graphs
-5.  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks
-3. SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
+5.  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks, R Selvan, T Kipf, M Welling, JH Pedersen, J Petersen, M de Bruijne
+arXiv preprint arXiv:1811.08674
+6. SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
+7. Combinatorial Bayesian Optimization using Graph Representations
+C Oh, JM Tomczak, E Gavves, M Welling
+arXiv preprint arXiv:1902.00448
 
 
 #### Applications: 
 1. End-to-end differentiable physics for learning and control
 2. Learning to represent programs with graphs
-3. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
 4. video2net: Extracting dynamic interaction networks from multi-person discussion videos  / https://www.cs.stanford.edu/~srijan/pubs/paper-video2net.pdf
 5. Theory and Application of Network Biology Towards Precision Medicine
-6. Data-driven view of disease biology
+6. Attention, Learn to Solve Routing Problems!
+W Kool, H van Hoof, M Welling
+7. Extraction of Airways using Graph Neural Networks
+R Selvan, T Kipf, M Welling, JH Pedersen, J Petersen, M de Bruijne
+arXiv preprint arXiv:1804.04436
+8. Deep Learning with Permutation-invariant Operator for Multi-instance Histopathology Classification, JM Tomczak, M Ilse, M Welling, arXiv preprint arXiv:1712.00310
 
 
 #### Robustness 
@@ -85,7 +111,7 @@ order: 55
 2. Faithful and Customizable Explanations of Black Box Models
 H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
 3. Adversarial Examples as an Input-Fault Tolerance Problem
-
+4. Adversarial Attack on Graph Structured Data
 
 
 <p><a name="Foud"></a></p>
