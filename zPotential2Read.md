@@ -38,8 +38,11 @@ order: 55
 3. An Experimental Study of Neural Networks for Variable Graphs, 
 workshop 2018 ICLR 
 4. How Powerful are Graph Neural Networks? / Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka, 2018 
+5. A Comprehensive Survey on Graph Neural Networks 2018, https://arxiv.org/pdf/1901.00596.pdf
+
 
 #### Basic graph represenation learning: 
+0. GraphSAGE / GatedGNN / ChebNet 
 1. RECS: Robust Graph Embedding Using Connection Subgraphs
 2. LASAGNE: Locality And Structure Aware Graph Node Embedding
 3. Adversarially Regularized Graph Autoencoder for Graph Embedding
@@ -54,11 +57,11 @@ workshop 2018 ICLR
 4. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
 5. Sample Efficient Semantic Segmentation using Rotation Equivariant Convolutional Networks J Linmans, J Winkens, BS Veeling, TS Cohen, M Welling
 arXiv preprint arXiv:1807.00583
-7. Emerging Convolutions for Generative Normalizing Flows
-E Hoogeboom, R Berg, M Welling, arXiv preprint arXiv:1901.11137
 6.  2018, Rotation Equivariant CNNs for Digital Pathology
 BS Veeling, J Linmans, J Winkens, T Cohen, M Welling
 arXiv preprint arXiv:1806.03962
+7. Emerging Convolutions for Generative Normalizing Flows
+E Hoogeboom, R Berg, M Welling, arXiv preprint arXiv:1901.11137
 8. 3d steerable cnns: Learning rotationally equivariant features in volumetric data
 M Weiler, M Geiger, M Welling, W Boomsma, T Cohen
 Advances in Neural Information Processing Systems, 10402-10413
@@ -74,7 +77,7 @@ stat 1050, 7
 2. Relational Deep Reinforcement Learning, 2018
 3. Generating sentences from a continuous space, 2015
 4. Encoding Robust Representation for Graph Generation
-5. Graphical Generative Adversarial Networks
+5. 
 6. Graphical Generative Adversarial Networks C Li, M Welling, J Zhu, B Zhang
 arXiv preprint arXiv:1804.03429
 7. 2019, Recurrent Inference Machines for Reconstructing Heterogeneous MRI Data
@@ -96,6 +99,7 @@ arXiv preprint arXiv:1902.00448
 #### Applications: 
 1. End-to-end differentiable physics for learning and control
 2. Learning to represent programs with graphs
+3. 
 4. video2net: Extracting dynamic interaction networks from multi-person discussion videos  / https://www.cs.stanford.edu/~srijan/pubs/paper-video2net.pdf
 5. Theory and Application of Network Biology Towards Precision Medicine
 6. Attention, Learn to Solve Routing Problems!
@@ -111,8 +115,10 @@ arXiv preprint arXiv:1804.04436
 2. Faithful and Customizable Explanations of Black Box Models
 H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
 3. Adversarial Examples as an Input-Fault Tolerance Problem
-4. Adversarial Attack on Graph Structured Data
-
+4. Adversarial Attack on Graph Structured Data https://arxiv.org/abs/1806.02371
+5. Adversarial Attacks on Neural Networks for Graph Data, https://dl.acm.org/citation.cfm?id=3220078 (edited) 
+6. Android Malware Detection using Large-scale Network Representation Learning,  https://arxiv.org/abs/1806.04847
+7. “Deep Program Reidentification: A Graph Neural Network Solution” https://arxiv.org/abs/1812.04064
 
 <p><a name="Foud"></a></p>
 
