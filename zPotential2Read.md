@@ -49,6 +49,9 @@ workshop 2018 ICLR
 4. All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks
 5. LanczosNet: Multi-Scale Deep Graph Convolutional Networks
 6. Graph Neural Networks with convolutional ARMA filters
+7. Geniepath: Graph neural networks with adaptive receptive paths
+Z Liu, C Chen, L Li, J Zhou, X Li, L Song, Y Qi
+arXiv preprint arXiv:1802.00910
 
 #### GNN extend/beyond: 
 1. GM-PLL: Graph Matching based Partial Label Learning
@@ -71,17 +74,33 @@ arXiv preprint arXiv:1709.04893
 10. Graph Convolutional Matrix Completion
 R van den Berg, TN Kipf, M Welling
 stat 1050, 7
+11. Relaxed Quantization for Discretized Neural Networks
+12. Probabilistic Binary Neural Networks, JWT Peters, M Welling
+arXiv preprint arXiv:1809.03368
+13. Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning, C Qu, S Mannor, H Xu, Y Qi, L Song, J Xiong
+arXiv preprint arXiv:1901.09326
+14. Double Neural Counterfactual Regret Minimization
+H Li, K Hu, Z Ge, T Jiang, Y Qi, L Song
+arXiv preprint arXiv:1812.10607		2018
+15. Neural Model-Based Reinforcement Learning for Recommendation
+X Chen, S Li, H Li, S Jiang, Y Qi, L Song
+arXiv preprint arXiv:1812.10613
+16. Deep hyperspherical learning
+W Liu, YM Zhang, X Li, Z Yu, B Dai, T Zhao, L Song
+Advances in Neural Information Processing Systems, 3950-3960
 
 #### Generate: 
 1. Neural scene representation and rendering, science 2018 
 2. Relational Deep Reinforcement Learning, 2018
 3. Generating sentences from a continuous space, 2015
 4. Encoding Robust Representation for Graph Generation
-5. 
+5. Syntax-Directed Variational Autoencoder for Molecule Generation
+H Dai, Y Tian, B Dai, S Skiena, L Song, International Conference on Machine Learning
 6. Graphical Generative Adversarial Networks C Li, M Welling, J Zhu, B Zhang
 arXiv preprint arXiv:1804.03429
 7. 2019, Recurrent Inference Machines for Reconstructing Heterogeneous MRI Data
 K Lønning, P Putzky, JJ Sonke, L Reneman, MWA Caan, M Welling
+
 
 #### with GM:
 1. Neural Graph Machines: Learning Neural Networks Using Graphs
@@ -94,12 +113,15 @@ arXiv preprint arXiv:1811.08674
 7. Combinatorial Bayesian Optimization using Graph Representations
 C Oh, JM Tomczak, E Gavves, M Welling
 arXiv preprint arXiv:1902.00448
-
+8. Learning Steady-States of Iterative Algorithms over Graphs
+H Dai, Z Kozareva, B Dai, A Smola, L Song
+International Conference on Machine Learning, 1114-1122
 
 #### Applications: 
 1. End-to-end differentiable physics for learning and control
 2. Learning to represent programs with graphs
-3. 
+3. KG^ 2: Learning to Reason Science Exam Questions with Contextual Knowledge Graph Embeddings Y Zhang, H Dai, K Toraman, L Song
+arXiv preprint arXiv:1805.12393
 4. video2net: Extracting dynamic interaction networks from multi-person discussion videos  / https://www.cs.stanford.edu/~srijan/pubs/paper-video2net.pdf
 5. Theory and Application of Network Biology Towards Precision Medicine
 6. Attention, Learn to Solve Routing Problems!
@@ -108,7 +130,13 @@ W Kool, H van Hoof, M Welling
 R Selvan, T Kipf, M Welling, JH Pedersen, J Petersen, M de Bruijne
 arXiv preprint arXiv:1804.04436
 8. Deep Learning with Permutation-invariant Operator for Multi-instance Histopathology Classification, JM Tomczak, M Ilse, M Welling, arXiv preprint arXiv:1712.00310
-
+9. Sequence2Vec: a novel embedding approach for modeling transcription factor binding affinity landscape H Dai, R Umarov, H Kuwahara, Y Li, L Song, X Gao
+Bioinformatics 33 (22), 3575-3583
+10. Learning combinatorial optimization algorithms over graphs
+H Dai, EB Khalil, Y Zhang, B Dilkina, L Song
+arXiv preprint arXiv:1704.01665
+11. Neural network-based graph embedding for cross-platform binary code similarity detection, X Xu, C Liu, Q Feng, H Yin, L Song, D Song
+Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
 
 #### Robustness 
 1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
@@ -119,7 +147,12 @@ H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
 5. Adversarial Attacks on Neural Networks for Graph Data, https://dl.acm.org/citation.cfm?id=3220078 (edited) 
 6. Android Malware Detection using Large-scale Network Representation Learning,  https://arxiv.org/abs/1806.04847
 7. “Deep Program Reidentification: A Graph Neural Network Solution” https://arxiv.org/abs/1812.04064
-
+8. Heterogeneous Graph Neural Networks for Malicious Account Detection
+Z Liu, C Chen, X Yang, J Zhou, X Li, L Song
+Proceedings of the 27th ACM International Conference on Information and …
+9. L-Shapley and C-Shapley: Efficient model interpretation for structured data
+J Chen, L Song, MJ Wainwright, MI Jordan
+arXiv preprint arXiv:1808.02610
 <p><a name="Foud"></a></p>
 
 ## Deep-Learning-Papers-Reading-Roadmap
