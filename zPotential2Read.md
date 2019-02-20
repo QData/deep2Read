@@ -32,6 +32,8 @@ order: 55
 ## Deep-Learning-Papers-Reading-for-Graphs 
 
 #### Basics: 
+0. GraphSAGE / GatedGNN / 
+0. ChebNet, Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering 
 0. Relational inductive biases, deep learning, and graph networks, et al, Oriol Vinyals, Yujia Li, Razvan Pascanu, 2018
 1. Graph Neural Networks: A Review of Methods and Applications https://arxiv.org/pdf/1812.08434.pdf
 2. Modeling relational data with graph convolutional networks, 2017, Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling
@@ -39,10 +41,21 @@ order: 55
 workshop 2018 ICLR 
 4. How Powerful are Graph Neural Networks? / Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka, 2018 
 5. A Comprehensive Survey on Graph Neural Networks 2018, https://arxiv.org/pdf/1901.00596.pdf
+6. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
+Qimai Li, Zhichao Han, Xiao-Ming Wu, 
+7. How Powerful are Graph Neural Networks?
+9. K Xu, W Hu, J Leskovec, S Jegelka - arXiv preprint arXiv:1810.00826, 2018
+Scarselli, F., Gori, M., Tsoi, A. C., Hagenbuchner, M., and Monfardini, G. The graph neural network model. IEEE Transactions on Neural Networks, 20(1):61–80, 2009.
+10.  Convolutional neural networks over tree structures for programming language processing. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, 2016.
+11. AN EXPERIMENTAL STUDY OF NEURAL NETWORKS FOR VARIABLE GRAPHS, 
+12. Semi-Supervised Classification with Graph Convolutional Networks
+Authors: Thomas N. Kipf, Max Welling
+13. Graph Attention Networks, Authors: Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+14. Learning Convolutional Neural Networks for Graphs, http://proceedings.mlr.press/v48/niepert16.pdf
+15. Inductive representation learning on large graphs, NIPS16
 
 
 #### Basic graph represenation learning: 
-0. GraphSAGE / GatedGNN / ChebNet 
 1. RECS: Robust Graph Embedding Using Connection Subgraphs
 2. LASAGNE: Locality And Structure Aware Graph Node Embedding
 3. Adversarially Regularized Graph Autoencoder for Graph Embedding
@@ -52,6 +65,15 @@ workshop 2018 ICLR
 7. Geniepath: Graph neural networks with adaptive receptive paths
 Z Liu, C Chen, L Li, J Zhou, X Li, L Song, Y Qi
 arXiv preprint arXiv:1802.00910
+8. Link Prediction Based on Graph Neural Networks arXiv:1802.09691 
+9. Deep Graph Infomax, P Veličković, W Fedus, WL Hamilton, P Liò, Y Bengio… - arXiv preprint arXiv 2018
+10. ICML18, Anonymous Walk Embeddings,  Authors: Sergey Ivanov, Evgeny Burnaev
+11. Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
+Authors: Federico Monti, Michael Bronstein, Xavier Bresson 
+12. Diffusion-convolutional neural networks, NeuroIPS16
+13. Convolutional networks on graphs for learning molecular fingerprints, NeuroIPS15
+
+
 
 #### GNN extend/beyond: 
 1. GM-PLL: Graph Matching based Partial Label Learning
@@ -72,8 +94,7 @@ Advances in Neural Information Processing Systems, 10402-10413
 T Cohen, M Geiger, J Köhler, M Welling
 arXiv preprint arXiv:1709.04893
 10. Graph Convolutional Matrix Completion
-R van den Berg, TN Kipf, M Welling
-stat 1050, 7
+R van den Berg, TN Kipf, M Welling stat 1050, 7
 11. Relaxed Quantization for Discretized Neural Networks
 12. Probabilistic Binary Neural Networks, JWT Peters, M Welling
 arXiv preprint arXiv:1809.03368
@@ -88,8 +109,25 @@ arXiv preprint arXiv:1812.10613
 16. Deep hyperspherical learning
 W Liu, YM Zhang, X Li, Z Yu, B Dai, T Zhao, L Song
 Advances in Neural Information Processing Systems, 3950-3960
+17. Graph Edit Distance Computation via Graph Neural Networks
+Yunsheng Bai, Hao Ding, Song Bian, Ting Chen, Yizhou Sun, Wei Wang
+18. Hierarchical Graph Representation Learning with Differentiable Pooling
+Authors: Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec
+19. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
+Authors: Jie Chen, Tengfei Ma, Cao Xiao
+Abstract: The graph convolutional networks (GCN) recently proposed by Kipf and Welling are an effective graph model for semi-supervised learning. Such a model, however, is transductive in nature because parameters are learned through convolutions with both training and test data
+20. Representation Learning on Graphs with Jumping Knowledge Networks
+Authors: Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka
+Abstract: Recent deep learning approaches for representation learning on graphs follow a neighborhood aggregation procedure. We analyze some important properties of these models, and propose a strategy to overcome those. In particular, the range of "neighboring"
+21. Gauge Equivariant Convolutional Networks and the Icosahedral CNN
+TS Cohen, M Weiler, B Kicanaoglu, M Welling - arXiv preprint arXiv:1902.04615, 2019
+The idea of equivariance to symmetry transformations provides one of the first 
+22. Learning Invariant Representations Of Planar Curves 
+Authors: Gautam Pai, Aaron Wetzler, Ron Kimmel
 
 #### Generate: 
+0. Learning Bayesian Networks is NP-Complete
+by DM Chickering - ‎1996 - ‎Cited by 1069
 1. Neural scene representation and rendering, science 2018 
 2. Relational Deep Reinforcement Learning, 2018
 3. Generating sentences from a continuous space, 2015
@@ -100,7 +138,30 @@ H Dai, Y Tian, B Dai, S Skiena, L Song, International Conference on Machine Lear
 arXiv preprint arXiv:1804.03429
 7. 2019, Recurrent Inference Machines for Reconstructing Heterogeneous MRI Data
 K Lønning, P Putzky, JJ Sonke, L Reneman, MWA Caan, M Welling
-
+8. Deep Reinforcement Learning for NLP, ACL18
+9. DEFactor: Differentiable Edge Factorization-based Probabilistic Graph Generation 
+R Assouel, M Ahmed, MH Segler, A Saffari, Y Bengio - arXiv preprint arXiv …, 2018
+10. Edge-exchangeable graphs and sparsity, NIPS16, 
+Authors: Diana Cai, Trevor Campbell, Tamara Broderick
+Abstract: Many popular network models rely on the assumption of (vertex) exchangeability, in which the distribution of the graph is invariant to relabelings of the vertices. However, the Aldous-Hoover theorem guarantees that these graphs are dense or empty with probability one, whereas many real-world graphs are sparse. We present an alternative notion of exchangeability for random graphs, which we call edge exchangeability,
+11. Junction Tree Variational Autoencoder for Molecular Graph Generation
+Authors: Wengong Jin, Regina Barzilay, Tommi Jaakkola
+12. Towards Variational Generation of Small Graphs
+Authors: Martin Simonovsky, Nikos Komodakis
+13. GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML2018
+Authors: Jiaxuan You, Rex Ying, Xiang Ren, William Hamilton, Jure Leskovec 
+14. Pixels to Graphs by Associative Embedding
+Authors: Alejandro Newell, Jia Deng
+Abstract: Graphs are a useful abstraction of image content. Not only can graphs represent details about individual objects in a scene but they can capture the interactions between pairs of objects. We present a method for training a convolutional neural network such that it takes in an input image and produces a full graph definition.
+15. Syntax-Directed Variational Autoencoder for Structured Data
+Authors: Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song
+16. NetGAN: Generating Graphs via Random Walks, ICML2018
+Authors: Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann
+17. Graphons, mergeons, and so on!
+Authors: Justin Eldridge, Mikhail Belkin, Yusu Wang
+Abstract: In this work we develop a theory of hierarchical clustering for graphs. Our modelling assumption is that graphs are sampled from a graphon, which is a powerful and general model for generating graphs and analyzing large networks.
+18. Convolutional Imputation of Matrix Networks
+Authors: Qingyun Sun, Mengyuan Yan, David Donoho, boyd
 
 #### with GM:
 1. Neural Graph Machines: Learning Neural Networks Using Graphs
@@ -116,8 +177,26 @@ arXiv preprint arXiv:1902.00448
 8. Learning Steady-States of Iterative Algorithms over Graphs
 H Dai, Z Kozareva, B Dai, A Smola, L Song
 International Conference on Machine Learning, 1114-1122
+9. A Hilbert space embedding for distributions. In Proceedings of the International Conference on Algorithmic Learning Theory, volume 4754, pp. 13–31. Springer, 2007.
+10. Hilbert space embeddings of conditional distributions. In Proceedings of the International Conference on Machine Learning, 2009.
+11. Nonparametric tree graphical models. In 13th Workshop on Artificial Intelligence and Statistics, volume 9 of JMLR workshop and conference proceedings, pp. 765–772, 2010
+12. Kernel belief propagation. In Proc. Intl. Con- ference on Artificial Intelligence and Statistics, volume 10 of JMLR workshop and conference proceedings, 2011.
+13. Injective Hilbert space embeddings of probability measures. In Proceedings of Annual Conference. Computational Learning Theory, pp. 111–122, 2008. 
+14. Jebara, T., Kondor, R., and Howard, A. Probability product kernels. J. Mach. Learn. Res., 5:819–844, 2004.
+15. Kernel-based just-in-time learning for passing expectation propagation messages. In Proceedings of the Thirty-First Conference on Uncertainty in Artificial Intelligence, UAI 2015, July 12-16, 2015, Amsterdam, The Netherlands, pp. 405–414, 2015
+16. Deeply learning the messages in message passing inference. In Advances in Neural Information Processing Systems, 2015.
+17. Minka, T. The EP energy function and minimization schemes. See www. stat. cmu. edu/minka/papers/learning. html, August, 2001.
+18. Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing
+Authors: Davide Bacciu, Federico Errica, Alessio Micheli
+Abstract: We introduce the Contextual Graph Markov Model, an approach combining ideas from generative models and neural networks for the processing of graph data.
+19. Inference in probabilistic graphical models by Graph Neural Networks
+Authors: KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow
+Abstract: A useful computation when acting in a complex environment is to infer the marginal probabilities or most probable states of task-relevant variables. 
+20. Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing
+Authors: Davide Bacciu, Federico Errica, Alessio Micheli
+Abstract: We introduce the Contextual Graph Markov Model, an approach combining ideas from generative models and neural networks for the processing of graph data. 
 
-#### Applications: 
+#### Applications and more: 
 1. End-to-end differentiable physics for learning and control
 2. Learning to represent programs with graphs
 3. KG^ 2: Learning to Reason Science Exam Questions with Contextual Knowledge Graph Embeddings Y Zhang, H Dai, K Toraman, L Song
@@ -137,8 +216,16 @@ H Dai, EB Khalil, Y Zhang, B Dilkina, L Song
 arXiv preprint arXiv:1704.01665
 11. Neural network-based graph embedding for cross-platform binary code similarity detection, X Xu, C Liu, Q Feng, H Yin, L Song, D Song
 Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+12. Convolutional neural network based on SMILES representation of compounds for detecting chemical motif
+M Hirohara, Y Saito, Y Koda, K Sato, Y Sakakibara - BMC Bioinformatics, 2018
+13. Heterogeneous Graph Neural Networks for Malicious Account Detection
+Z Liu, C Chen, X Yang, J Zhou, X Li, L Song -
+14. Diffusion-Based Approximate Value Functions
+Authors: Martin Klissarov, Doina Precup 
 
-#### Robustness 
+
+
+#### Robustness and more
 1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
 2. Faithful and Customizable Explanations of Black Box Models
 H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
@@ -153,6 +240,22 @@ Proceedings of the 27th ACM International Conference on Information and …
 9. L-Shapley and C-Shapley: Efficient model interpretation for structured data
 J Chen, L Song, MJ Wainwright, MI Jordan
 arXiv preprint arXiv:1808.02610
+10. Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations
+11. A causal framework for explaining the predictions of black-box sequence-to-sequence models, EMNLP17
+12. Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs, Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari
+13. Interpretable Convolutional Neural Networks
+Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu
+14. Towards Efficient Large-Scale Graph Neural Network Computing
+Lingxiao Ma, Zhi Yang, Youshan Miao, Jilong Xue, Ming Wu, Lidong Zhou, Yafei Dai
+10/19/2018
+15. Stochastic Training of Graph Convolutional Networks with Variance Reduction
+Authors: Jianfei Chen, Jun Zhu, Le Song
+16. Mean Field Multi-Agent Reinforcement Learning
+Authors: Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, Jun Wang
+Abstract: Existing multi-agent reinforcement learning methods are limited typically to a small number of agents. When the agent number increases largely, the learning becomes intractable due to the curse of the dimensionality and the exponential growth of agent interactions
+
+
+
 <p><a name="Foud"></a></p>
 
 ## Deep-Learning-Papers-Reading-Roadmap
