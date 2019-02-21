@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Potential Readings
-desc: "Potential Readings of Deep Learning We Read from 2017-Fall"
+desc: "Potential Readings of Deep Learning We Read from Fall-2017 to Spring-2019"
 order: 55
 ---
 
@@ -29,7 +29,7 @@ order: 55
 
 <p><a name="Graphs"></a></p>
 
-## Deep-Learning-Papers-Reading-for-Graphs 
+## Potential Deep-Learning-Papers-Reading-for-Graphs we read in 2019-Spring
 
 #### Basics: 
 0. GraphSAGE / GatedGNN / 
@@ -266,9 +266,12 @@ Authors: Alexander G. Anderson, Cory P. Berg
 28. Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks 
 29.  Espresso: Efficient Forward Propagation for Binary Deep Neural Networks  
 
+
+
+
 <p><a name="Foud"></a></p>
 
-## Deep-Learning-Papers-Reading-Roadmap
+## Deep-Learning-Papers-Reading-Roadmap we read in Fall-2017
 
 1. [A great roadmap of deep learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md#deep-learning-papers-reading-roadmap)
 
