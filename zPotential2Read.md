@@ -43,16 +43,14 @@ workshop 2018 ICLR
 5. A Comprehensive Survey on Graph Neural Networks 2018, https://arxiv.org/pdf/1901.00596.pdf
 6. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
 Qimai Li, Zhichao Han, Xiao-Ming Wu, 
-7. How Powerful are Graph Neural Networks?
-9. K Xu, W Hu, J Leskovec, S Jegelka - arXiv preprint arXiv:1810.00826, 2018
+7. K Xu, W Hu, J Leskovec, S Jegelka - arXiv preprint arXiv:1810.00826, 2018
 Scarselli, F., Gori, M., Tsoi, A. C., Hagenbuchner, M., and Monfardini, G. The graph neural network model. IEEE Transactions on Neural Networks, 20(1):61–80, 2009.
-10.  Convolutional neural networks over tree structures for programming language processing. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, 2016.
-11. AN EXPERIMENTAL STUDY OF NEURAL NETWORKS FOR VARIABLE GRAPHS, 
-12. Semi-Supervised Classification with Graph Convolutional Networks
+8.  Convolutional neural networks over tree structures for programming language processing. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, 2016.
+9. Semi-Supervised Classification with Graph Convolutional Networks
 Authors: Thomas N. Kipf, Max Welling
-13. Graph Attention Networks, Authors: Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
-14. Learning Convolutional Neural Networks for Graphs, http://proceedings.mlr.press/v48/niepert16.pdf
-15. Inductive representation learning on large graphs, NIPS16
+10. Graph Attention Networks, Authors: Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+11. Learning Convolutional Neural Networks for Graphs, http://proceedings.mlr.press/v48/niepert16.pdf
+12. Inductive representation learning on large graphs, NIPS16
 
 
 #### Basic graph represenation learning: 
@@ -72,7 +70,8 @@ arXiv preprint arXiv:1802.00910
 Authors: Federico Monti, Michael Bronstein, Xavier Bresson 
 12. Diffusion-convolutional neural networks, NeuroIPS16
 13. Convolutional networks on graphs for learning molecular fingerprints, NeuroIPS15
-
+14. Geometric deep learning: going beyond euclidean data, 2017
+15. Dynamic graph cnn for learning on point clouds, 2018
 
 
 #### GNN extend/beyond: 
@@ -98,8 +97,7 @@ R van den Berg, TN Kipf, M Welling stat 1050, 7
 11. Relaxed Quantization for Discretized Neural Networks
 12. Probabilistic Binary Neural Networks, JWT Peters, M Welling
 arXiv preprint arXiv:1809.03368
-13. Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning, C Qu, S Mannor, H Xu, Y Qi, L Song, J Xiong
-arXiv preprint arXiv:1901.09326
+13. Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning, C Qu, S Mannor, H Xu, Y Qi, L Song, J Xiong, arXiv preprint arXiv:1901.09326
 14. Double Neural Counterfactual Regret Minimization
 H Li, K Hu, Z Ge, T Jiang, Y Qi, L Song
 arXiv preprint arXiv:1812.10607		2018
@@ -114,8 +112,7 @@ Yunsheng Bai, Hao Ding, Song Bian, Ting Chen, Yizhou Sun, Wei Wang
 18. Hierarchical Graph Representation Learning with Differentiable Pooling
 Authors: Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec
 19. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
-Authors: Jie Chen, Tengfei Ma, Cao Xiao
-Abstract: The graph convolutional networks (GCN) recently proposed by Kipf and Welling are an effective graph model for semi-supervised learning. Such a model, however, is transductive in nature because parameters are learned through convolutions with both training and test data
+Authors: Jie Chen, Tengfei Ma, Cao Xiao, Abstract: The graph convolutional networks (GCN) recently proposed by Kipf and Welling are an effective graph model for semi-supervised learning. Such a model, however, is transductive in nature because parameters are learned through convolutions with both training and test data
 20. Representation Learning on Graphs with Jumping Knowledge Networks
 Authors: Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka
 Abstract: Recent deep learning approaches for representation learning on graphs follow a neighborhood aggregation procedure. We analyze some important properties of these models, and propose a strategy to overcome those. In particular, the range of "neighboring"
@@ -192,9 +189,6 @@ Abstract: We introduce the Contextual Graph Markov Model, an approach combining 
 19. Inference in probabilistic graphical models by Graph Neural Networks
 Authors: KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow
 Abstract: A useful computation when acting in a complex environment is to infer the marginal probabilities or most probable states of task-relevant variables. 
-20. Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing
-Authors: Davide Bacciu, Federico Errica, Alessio Micheli
-Abstract: We introduce the Contextual Graph Markov Model, an approach combining ideas from generative models and neural networks for the processing of graph data. 
 
 #### Applications and more: 
 1. End-to-end differentiable physics for learning and control
@@ -222,10 +216,16 @@ M Hirohara, Y Saito, Y Koda, K Sato, Y Sakakibara - BMC Bioinformatics, 2018
 Z Liu, C Chen, X Yang, J Zhou, X Li, L Song -
 14. Diffusion-Based Approximate Value Functions
 Authors: Martin Klissarov, Doina Precup 
+15. Mean Field Multi-Agent Reinforcement Learning
+Authors: Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, Jun Wang
+Abstract: Existing multi-agent reinforcement learning methods are limited typically to a small number of agents. When the agent number increases largely, the learning becomes intractable due to the curse of the dimensionality and the exponential growth of agent interactions
+16. Protein–ligand scoring with convolutional neural networks
+17. Visualizing convolutional neural network protein-ligand scoring
+18. KDEEP: Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks, 2018
+19. D3R Grand Challenge 2: blind prediction of protein–ligand poses, affinity rankings, and relative binding free energies
 
 
-
-#### Robustness and more
+#### Robustness and scalable
 1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
 2. Faithful and Customizable Explanations of Black Box Models
 H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
@@ -240,21 +240,31 @@ Proceedings of the 27th ACM International Conference on Information and …
 9. L-Shapley and C-Shapley: Efficient model interpretation for structured data
 J Chen, L Song, MJ Wainwright, MI Jordan
 arXiv preprint arXiv:1808.02610
-10. Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations
+10. Stochastic Training of Graph Convolutional Networks with Variance Reduction
+Authors: Jianfei Chen, Jun Zhu, Le Song
 11. A causal framework for explaining the predictions of black-box sequence-to-sequence models, EMNLP17
 12. Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs, Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari
 13. Interpretable Convolutional Neural Networks
 Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu
 14. Towards Efficient Large-Scale Graph Neural Network Computing
 Lingxiao Ma, Zhi Yang, Youshan Miao, Jilong Xue, Ming Wu, Lidong Zhou, Yafei Dai
-10/19/2018
-15. Stochastic Training of Graph Convolutional Networks with Variance Reduction
-Authors: Jianfei Chen, Jun Zhu, Le Song
-16. Mean Field Multi-Agent Reinforcement Learning
-Authors: Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, Jun Wang
-Abstract: Existing multi-agent reinforcement learning methods are limited typically to a small number of agents. When the agent number increases largely, the learning becomes intractable due to the curse of the dimensionality and the exponential growth of agent interactions
-
-
+15. Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations
+16. DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices
+17. Squeezing deep learning into mobile and embedded devices, ND Lane, S Bhattacharya, A Mathur, P Georgiev, C Forlivesi, F Kawsar
+18. Towards Efficient Large-Scale Graph Neural Network Computing, Lingxiao Ma†∗, Zhi Yang†∗, Youshan Miao‡, Jilong Xue‡, Ming Wu‡, Lidong Zhou‡, Yafei Dai, https://arxiv.org/pdf/1810.08403.pdf
+19. Cavs: An Efficient Runtime System for Dynamic Neural Networks
+1,2Shizhen Xu†, 1,3Hao Zhang†, 1,3Graham Neubig, 3Wei Dai, 1Jin Kyu Kim, 2Zhijie Deng, 3Qirong Ho, 2Guangwen Yang, 3Eric P. Xing
+20. A Comparison of Distributed Machine Learning Platforms (2017)
+21. GeePS: scalable deep learning on distributed GPUs with a GPU-specialized parameter server (2016)
+22. AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks (2017)
+23. GraphLab / GraphX  / Pregel 
+24. Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis
+25. Towards Efficient Large-Scale Graph Neural Network Computing (2018)
+26.  The High-Dimensional Geometry of Binary Neural Networks
+Authors: Alexander G. Anderson, Cory P. Berg  
+27.   Learning Discrete Weights Using the Local Reparameterization Trick 
+28. Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks 
+29.  Espresso: Efficient Forward Propagation for Binary Deep Neural Networks  
 
 <p><a name="Foud"></a></p>
 
