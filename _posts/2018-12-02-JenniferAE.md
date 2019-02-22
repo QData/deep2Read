@@ -14,4 +14,4 @@ categories: 2018Reads
 | Jennifer |  Jennifer18-AdversarialPlayground | [PDF](https://arxiv.org/abs/1801.02774) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Jennifer18-AdversarialPlayground.pdf) | 
 | Jennifer |  Jennifer18-Black-boxDeepWordbug | [PDF](https://arxiv.org/abs/1703.09387) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Jennifer18-Black-boxDeepWordbug.pdf) | 
 | Jennifer |  Jennifer18-CleverHans | [PDF](https://openreview.net/pdf?id=S18Su--CW) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Jennifer18-CleverHans.pdf) | 
-
+| Ji | Ji-f18-New papers about adversarial attack | [PDF]({{site.baseurl}}/MoreTalksTeam/Ji-f18-NewAEs.pdf) | 
