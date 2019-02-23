@@ -10,9 +10,9 @@ tags:
 
 | Presenter | Papers | Paper URL| Our Presentation |
 | -----: | ---------------------------: | :----- | :----- |
-| Bill | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation | [PDF](https://arxiv.org/abs/1609.08144) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.02.09_GoogleNMT.pdf) | 
+| Bill | Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation [^1]| [PDF](https://arxiv.org/abs/1609.08144) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.02.09_GoogleNMT.pdf) | 
 | Bill |  Measuring the tendency of CNNs to Learn Surface Statistical Regularities Jason Jo, Yoshua Bengio | [PDF](https://arxiv.org/abs/1711.11561) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.02.16_CNNRegularity.pdf) | 
-| Bill | Generating Sentences by Editing Prototypes, Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang  | [PDF](https://arxiv.org/abs/1709.08878) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.01.25_PrototypeEdit.pdf) | 
+| Bill | Generating Sentences by Editing Prototypes, Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang [^2]  | [PDF](https://arxiv.org/abs/1709.08878) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.01.25_PrototypeEdit.pdf) | 
 | Bill | On the importance of single directions for generalization, Ari S. Morcos, David G.T. Barrett, Neil C. Rabinowitz, Matthew Botvinick  | [PDF](https://arxiv.org/abs/1803.06959) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Bill/18.04.28_SingleDirections.pdf) | 
 
 
@@ -23,5 +23,4 @@ tags:
 
 
 
-> ####  Generating Sentences by Editing Prototypes, Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang 
->> We propose a new generative model of sentences that first samples a prototype sentence from the training corpus and then edits it into a new sentence. Compared to traditional models that generate from scratch either left-to-right or by first sampling a latent sentence vector, our prototype-then-edit model improves perplexity on language modeling and generates higher quality outputs according to human evaluation. Furthermore, the model gives rise to a latent edit vector that captures interpretable semantics such as sentence similarity and sentence-level analogies. </sup></sub>
+[^2]: <sub><sup> Generating Sentences by Editing Prototypes, Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang / We propose a new generative model of sentences that first samples a prototype sentence from the training corpus and then edits it into a new sentence. Compared to traditional models that generate from scratch either left-to-right or by first sampling a latent sentence vector, our prototype-then-edit model improves perplexity on language modeling and generates higher quality outputs according to human evaluation. Furthermore, the model gives rise to a latent edit vector that captures interpretable semantics such as sentence similarity and sentence-level analogies. </sup></sub>
