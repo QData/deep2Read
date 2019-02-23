@@ -3,7 +3,7 @@ layout: post
 title: Survey18- My Tutorial Talk at ACM BCB18 - Interpretable Deep Learning 
 desc: 2018-me
 tags:
-- 0Survey
+- 8BioApplications
 categories: 2018Reads
 ---
 
