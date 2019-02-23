@@ -11,7 +11,7 @@ categories: 2018Reads
 
 | Presenter | Papers | Paper URL| Our Presentation |
 | -----: | ---------------------------: | :----- | :----- |
-|  Tkach|   | [PDF](https://www.nature.com/articles/s41467-018-04252-2) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-BGAN-201809.pdf) | 
-| Tkach |  | [PDF](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1459-4) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-MAliGAN-201901.pdf) | 
-|  Tkach |   | [PDF](https://www.nature.com/articles/s41467-018-04252-2) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-RNNLMandVAE-1810.pdf) | 
+|  Tkach| Boundary-Seeking Generative Adversarial Networks  | [PDF](https://arxiv.org/abs/1702.08431) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-BGAN-201809.pdf) | 
+| Tkach | Maximum-Likelihood Augmented Discrete Generative Adversarial Networks | [PDF](https://arxiv.org/abs/1702.07983) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-MAliGAN-201901.pdf) | 
+|  Tkach |  Generating	Sentences from a Continuous	Space | [PDF](https://arxiv.org/abs/1511.06349) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-RNNLMandVAE-1810.pdf) | 
 
