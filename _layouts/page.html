@@ -40,6 +40,7 @@ layout: default
   <th>No.</th>
   <th>Read Date</th>
   <th>Title and Information</th>
+    <th>We Read @</th>
   </b>
   </h3>
 </tr>
@@ -53,6 +54,7 @@ layout: default
   <td>{{ counter }}</td>
   <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+    <td>{{ post.desc }}</td>
   </tr>
   {% assign counter=counter | plus:1 %}
   {% endif %}
