@@ -85,9 +85,8 @@ Click on a tag to see relevant list of readings.
 <tr>
  <h3><b>
   <th>No.</th>
-  <th>Date</th>
   <th>Title and Information</th>
-  <th>PaperYear</th>
+  <th>Read Date</th>
   </b>
   </h3>
 </tr>
@@ -99,7 +98,7 @@ Click on a tag to see relevant list of readings.
 
   <tr>
   <td>{{ counter }}</td>
-  <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
+  <!---<td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td> -->
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
   <td>{{ post.desc }}</td>
   </tr>
