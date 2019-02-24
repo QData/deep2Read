@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survey18- My Tutorial Talk at ACM BCB18 - Interpretable Deep Learning 
+title: Survey18- My Tutorial Talk at ACM BCB18 - Interpretable Deep Learning for Genomics
 desc: 2018-me
 tags:
 - 8BioApplications
