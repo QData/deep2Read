@@ -31,6 +31,10 @@ order: 55
 
 ## Potential Deep-Learning-Papers-Reading-for-Graphs we read in 2019-Spring
 
+0. GNN code repos: https://paperswithcode.com/task/graph-embedding
+1. Similar course: https://www.math.uwaterloo.ca/~bico/co759/2018/index.html 
+
+
 #### Basics: 
 0. GraphSAGE / GatedGNN / 
 0. ChebNet, Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering 
