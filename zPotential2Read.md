@@ -269,7 +269,7 @@ Authors: Alexander G. Anderson, Cory P. Berg
 27.   Learning Discrete Weights Using the Local Reparameterization Trick 
 28. Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks 
 29.  Espresso: Efficient Forward Propagation for Binary Deep Neural Networks  
-
+30. GkmExplain   https://github.com/kundajelab/gkmexplain
 
 
 
