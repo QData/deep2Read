@@ -16,6 +16,7 @@ categories: 2018Reads
 | Arshdeep | Solving the RNA design problem with reinforcement learning, PLOSCB  [^1] | [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006176) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-06292018-RNAReinforcement.pdf) | 
 | Arshdeep | Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk [^2] | [PDF](https://www.nature.com/articles/s41588-018-0160-6) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-07272018-AbinitioPrediction-SeqtoGeneExp.pdf) | 
 | Arshdeep | Towards Gene Expression Convolutions using Gene Interaction Graphs, Francis Dutil, Joseph Paul Cohen, Martin Weiss, Georgy Derevyanko, Yoshua Bengio [^3] | [PDF](https://arxiv.org/abs/1806.06975) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-06292018-GeneInterCNN.pdf) | 
+|  Brandon| Kipoi: Accelerating the Community Exchange and Reuse of Predictive Models for Genomics | [PDF](http://kipoi.org/docs/) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Brandon18.9.14Kipoi.pdf) | 
 
 
 
