@@ -92,9 +92,9 @@ Click on a tag to see relevant list of readings.
 ***
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 36px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 160px; background-color: #FFCF79;">
 
-{% assign counter = 80 %}
+{% assign counter = 240 %}
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
