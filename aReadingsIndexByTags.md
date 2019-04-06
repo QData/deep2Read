@@ -92,13 +92,13 @@ Click on a tag to see relevant list of readings.
 ***
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 160px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 300px; background-color: #FFCF79;">
 
-{% assign counter = 240 %}
+{% assign counter = 315 %}
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  {% assign counter=counter | minus:20 %}
+  {% assign counter=counter | minus:25 %}
 <a href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}"        style="position: fixed; bottom:{{counter}}px; right:10px;">{{ t }}</a>
 {% endfor %}
 
