@@ -93,6 +93,16 @@ Click on a tag to see relevant list of readings.
 
 
 <div style="position: fixed; bottom: 76px; right:10px; width: 88px; height: 36px; background-color: #FFCF79;">
+
+{% assign counter = 80 %}
+{% assign sorted = site.tags | sort %}
+{% for tag in sorted %}
+  {% assign t = tag | first %}
+  {% assign counter=counter | minus:20 %}
+<a href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}"        style="position: fixed; bottom:{{counter}}px; right:10px;">{{ t }}</a>
+{% endfor %}
+
+
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
 
