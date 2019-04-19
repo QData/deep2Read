@@ -229,6 +229,10 @@ Abstract: Existing multi-agent reinforcement learning methods are limited typica
 19. D3R Grand Challenge 2: blind prediction of protein–ligand poses, affinity rankings, and relative binding free energies
 20. Structured sequence modeling with graph convolutional recurrent networks,” arXiv preprint arXiv:1612.07659, 2016.
 21. Structural-rnn: Deep learning on spatio-temporal graphs,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 5308–5317.
+22. Prioritizing network communities  
+23. Community detection and stochastic block models: recent developments 
+
+
 
 #### Robustness and scalable
 1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
