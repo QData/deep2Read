@@ -231,7 +231,7 @@ Abstract: Existing multi-agent reinforcement learning methods are limited typica
 21. Structural-rnn: Deep learning on spatio-temporal graphs,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 5308–5317.
 22. Prioritizing network communities  
 23. Community detection and stochastic block models: recent developments 
-
+24. Android Malware Detection using Large-scale Network Representation Learning + Deep Android Malware Detection [Pdf](https://arxiv.org/abs/1806.04847) + [PDF](https://dl.acm.org/citation.cfm?id=3029823)
 
 
 #### Robustness and scalable
