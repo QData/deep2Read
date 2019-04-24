@@ -55,7 +55,7 @@ Authors: Thomas N. Kipf, Max Welling
 10. Graph Attention Networks, Authors: Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
 11. Learning Convolutional Neural Networks for Graphs, http://proceedings.mlr.press/v48/niepert16.pdf
 12. Inductive representation learning on large graphs, NIPS16
-
+13. Higher-order clustering in networks, H Yin, AR Benson, J Leskovec, Physical Review E 97 (5), 052306 [PDF](https://cs.stanford.edu/~jure/pubs/higher_order-pre18.pdf)
 
 #### Basic graph represenation learning: 
 1. RECS: Robust Graph Embedding Using Connection Subgraphs
