@@ -316,29 +316,3 @@ color: black;
 padding: 3px 8px;
 border: solid 1px black;
 }
-
-
-/**
- * Links
- */
-a {
-  color: $brand-color;
-  text-decoration: none;
-
-  &:visited {
-    color: $brand-color;
-  }
-
-  &:hover {
-    color: $crimson-color-light;
-    text-decoration: underline;
-  }
-
-  .social-media-list &:hover {
-    text-decoration: none;
-
-    .username {
-      text-decoration: underline;
-    }
-  }
-}
