@@ -13,7 +13,7 @@ Click on a tag to see relevant list of readings.
 {% assign sorted = site.tags | sort %}
 {% for tag in sorted %}
   {% assign t = tag | first %}
-  <li><a href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}">{{ t }}</a></li>
+  <li><a href="{{ site.baseurl }}/aReadingsIndexByTags/#{{t | replace:" ","-" }}"  class="btn">{{ t }}</a></li>
 {% endfor %}
 </ul>
 
