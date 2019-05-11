@@ -317,8 +317,3 @@ padding: 3px 8px;
 border: solid 1px black;
 }
 
-a.btn {
-  -webkit-appearance: button;
-  -moz-appearance: button;
-  appearance: button;
-}
