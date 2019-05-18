@@ -66,7 +66,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 12rem;
+    width: 15rem;
     text-align: right;
     font-size: 12px;
   }
@@ -111,9 +111,9 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
+    right:  0rem;
+    bottom: 0rem;
+    left:   0rem;
   }
 }
 
@@ -125,8 +125,8 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    2rem;
-  padding-bottom: 2rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
 }
 
 .content a {
@@ -136,7 +136,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    margin-left: 15rem;
+    margin-left: 16rem;
     margin-right: 1rem;
   }
 }
