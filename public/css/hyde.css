@@ -36,7 +36,7 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media (min-width: 62em) {
@@ -87,7 +87,7 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 .sidebar-nav-item {
   display: block;
