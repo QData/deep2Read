@@ -20,7 +20,10 @@ tags:
 
 + This website was started from the seminar course "Advances in Deep Learning" I taught at UVA in Fall 2017. Later I expand the content with my team reaing group and another course I taught in Spring 2019. 
 
-+ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. ---
++ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. 
+
+<hr>
+--- ---
 layout: post
 title: Structures17- Memory-Augmented Networks 
 desc: 2017-team
