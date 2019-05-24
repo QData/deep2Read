@@ -1,6 +1,6 @@
 ---
 layout: page
 title: 2019sCourse
-desc: "Deep Learning Readings We will Cover in 2019 Spring Seminar Course / Every Friday from 9:30am-12noon in Rice 011"
+desc: "Readings About Deep Graph Neural Networks and Related We Covered in 2019 Spring Seminar Course"
 order: 0
 ---
