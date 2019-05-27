@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GNN   
+title: GNN to Understand  
 desc: 2019-W11
 categories: 2019sCourse
 tags:

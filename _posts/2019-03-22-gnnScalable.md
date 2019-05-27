@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GNN more generate  
+title: GNN and scalable and edge computing 
 desc: 2019-W9
 categories: 2019sCourse
 tags:
