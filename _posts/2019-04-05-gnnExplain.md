@@ -5,7 +5,7 @@ desc: 2019-W11
 categories: 2019sCourse
 tags:
 - 7Graphs
-gnnType: basics
+tricks: understand, attention  
 ---
 
 

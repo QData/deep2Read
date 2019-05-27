@@ -1,11 +1,11 @@
 ---
 layout: post
-title: GNN  Applications 
+title: GNN  for Graph Generation 
 desc: 2019-W8
 categories: 2019sCourse
 tags:
 - 7Graphs
-gnnType: basics
+tricks: generative, GAN, generate-graph, generate-text   
 ---
 
 
@@ -18,9 +18,5 @@ gnnType: basics
 | Generate |  Towards Variational Generation of Small Graphs  | [Pdf](https://arxiv.org/abs/1802.03480) | Tkach [Pdf]() | Arshdeep [Pdf]() | 
 | Generate |   Inference in probabilistic graphical models by Graph Neural Networks + Encoding robust representation for graph generation | [Pdf](https://arxiv.org/abs/1809.10851)+ [PDF](https://arxiv.org/abs/1803.07710) |  Arshdeep [Pdf]() |  | 
 | Generate |  Convolutional Imputation of Matrix Networks  / Graph Convolutional Matrix Completion | [Pdf](http://proceedings.mlr.press/v80/sun18d/sun18d.pdf) | Tkach [Pdf]() | Arshdeep [Pdf]() | 
-| Generate | Adversarial Text Generation via Feature-Mover's Distance | &#9745; Faizan | |
-| Generate | Content preserving text generation with attribute controls   |  &#9745; Faizan |  |  
-| Generate | Multiple-Attribute Text Rewriting, ICLR, 2019, | &#9745; Faizan | |
 | Generate |  NetGAN: Generating Graphs via Random Walks ICML18 | &#9745; Tkach | |
 | Generate |  Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation NeurIPS18 | &#9745; Tkach | |
-| Generate |  Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement | &#9745; Tkach | |

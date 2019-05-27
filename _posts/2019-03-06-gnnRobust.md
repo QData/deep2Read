@@ -1,11 +1,11 @@
 ---
 layout: post
-title: GNN Applications 
+title: GNN Robustness  
 desc: 2019-W7
 categories: 2019sCourse
 tags:
 - 7Graphs
-gnnType: basics
+tricks: permutation-invariant, scalable, GNN
 ---
 
 | Index | Papers Info | Paper URL| Our Summary Slide |Our Scribe Note |
