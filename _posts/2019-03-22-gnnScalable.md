@@ -5,7 +5,7 @@ desc: 2019-W9
 categories: 2019sCourse
 tags:
 - 7Graphs
-- 8scalable
+- 8Scalable
 tricks: generative, GAN, generate-graph, generate-text   
 ---
 
