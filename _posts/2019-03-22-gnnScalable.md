@@ -1,10 +1,11 @@
 ---
 layout: post
-title: GNN and scalable and edge computing 
+title: GNN and scalable  
 desc: 2019-W9
 categories: 2019sCourse
 tags:
 - 7Graphs
+- 8scalable
 tricks: generative, GAN, generate-graph, generate-text   
 ---
 

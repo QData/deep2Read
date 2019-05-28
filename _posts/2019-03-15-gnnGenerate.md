@@ -5,6 +5,7 @@ desc: 2019-W8
 categories: 2019sCourse
 tags:
 - 7Graphs
+- 5Generative
 tricks: generative, GAN, generate-graph, generate-text   
 ---
 

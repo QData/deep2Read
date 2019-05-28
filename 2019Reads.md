@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2018Reads
+title: 2019Reads
 desc: "Deep Learning Readings We Covered in 2018 Team Meetings"
-order: 16
+order: 14
 ---
