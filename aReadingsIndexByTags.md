@@ -92,7 +92,7 @@ Click on a tag to see relevant list of readings.
 ***
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 139px; height: 290px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 70px; right:10px; width: 139px; height: 290px; background-color: #FFCF79;">
 
 {% assign counter = 350 %}
 {% assign sorted = site.tags | sort %}
@@ -103,7 +103,7 @@ Click on a tag to see relevant list of readings.
 {% endfor %}
 
 
-<a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+<a style="position: fixed; bottom:72px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
 
 <hr>
