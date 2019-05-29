@@ -37,8 +37,7 @@ order: 28
 <!---  basics -->
 <!---  introduction of LSML -->
 
-<table id="datatab2" summary="Table of datasets" border="1">
-   <tbody>
+<table id="datatab3" summary="Table of basic readings we finished about machine learning" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4">
   <a name="introlsml"></a>
@@ -129,7 +128,7 @@ order: 28
 <!---  deep -->
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a>
-  <h3><b>Topic I: Deep Learning Topics</b></h3> 
+  <h3><b>Topic I: Deep Learning Tutorials before 2016</b></h3> 
 </td> </tr>
 <tr>
  <h3><b>
