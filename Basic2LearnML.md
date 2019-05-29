@@ -38,7 +38,8 @@ order: 28
 <!---  introduction of LSML -->
 
 <table id="datatab2" summary="Table of datasets" border="1">
- 
+   <tbody>
+
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basic Machine Learning Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -120,10 +121,6 @@ order: 28
 
 <!---  deep -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
-
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a><h3><b>Topic I: Deep Learning Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -177,6 +174,7 @@ order: 28
       <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf"  target="_blank">(PDFslide)</a> </td>
   <td>2012</td>
 </tr>
+
 <tr>
   <td>&check;Hardware Parallel</td>
   <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
@@ -465,9 +463,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 <!---  kernel  -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="kernel"></a><h3><b>Topic II: Kernel Methods Topics</b></h3> </td> </tr>
 <tr>
@@ -659,9 +654,6 @@ http://mlg.eng.cam.ac.uk/duvenaud/talks/random-kitchen-sinks-tutorial.pdf"
 <!---  optimization  -->
 
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="optm"></a><h3><b>Topic III: Optimization for ML or High-Dim/Sparsity Topics </b></h3> </td> </tr>
 <tr>
@@ -940,9 +932,6 @@ Sparse and Regularized Optimization   </td>
 
 
 <!---  GM  -->
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="gm"></a><h3><b>Topic IV: Graphical Model and Bayesian and Variational Topics </b></h3> </td> </tr>
@@ -1156,9 +1145,6 @@ Density estimation </td>
 
 <!---  assorted  -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="matrixmore"></a><h3><b>Topic V: Assorted: structured, low-rank, Metric, and more </b></h3> </td> </tr>
 <tr>
@@ -1284,9 +1270,6 @@ Density estimation </td>
 
 <!---  Fast parallel  -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="fast"></a><h3><b>Topic VI: Scalable / Parallel / Random / Streaming Related Topics</b></h3> </td> </tr>
 <tr>
@@ -1372,9 +1355,6 @@ Density estimation </td>
 
 <!---  Reinforcement  -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a><h3><b>Topic VII: Reinforcement Learning Related Topics</b></h3> </td> </tr>
 <tr>
@@ -1451,9 +1431,6 @@ Density estimation </td>
 
 <!---  more for research  -->
 
-</table>
-
-<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="rere"></a><h3><b>Topic VIII: Advanced / Recent Tutorials helpful for Research</b></h3> </td> </tr>
 <tr>
@@ -1594,11 +1571,12 @@ Density estimation </td>
 </tr>
 
 
+   </tbody>
 
 </table>
 
 
-<div style="position: fixed; bottom: 46px; right:10px; width: 98px; height: 206px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 36px; right:10px; width: 98px; height: 206px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">0:Intro.</a>
 <a style="position: fixed; bottom:210px; right:10px;" href="#deep">I:Deep </a>
 <a style="position: fixed; bottom:190px; right:10px;" href="#kernel">II:KernelSVM</a>
@@ -1613,7 +1591,7 @@ Density estimation </td>
 
 
   <!-- Anchors -->
-  <a style="position: fixed; bottom:50px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+  <a style="position: fixed; bottom:44px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 
 
 
