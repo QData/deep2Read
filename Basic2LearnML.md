@@ -38,7 +38,6 @@ order: 28
 <!---  introduction of LSML -->
 
 <table id="datatab2" summary="Table of datasets" border="1">
-
  
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basic Machine Learning Topics</b></h3> </td> </tr>
 <tr>
@@ -120,6 +119,10 @@ order: 28
  </tr>
 
 <!---  deep -->
+
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a><h3><b>Topic I: Deep Learning Topics</b></h3> </td> </tr>
 <tr>
@@ -462,6 +465,10 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 <!---  kernel  -->
 
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
+
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="kernel"></a><h3><b>Topic II: Kernel Methods Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -652,6 +659,9 @@ http://mlg.eng.cam.ac.uk/duvenaud/talks/random-kitchen-sinks-tutorial.pdf"
 <!---  optimization  -->
 
 
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="optm"></a><h3><b>Topic III: Optimization for ML or High-Dim/Sparsity Topics </b></h3> </td> </tr>
 <tr>
@@ -930,6 +940,10 @@ Sparse and Regularized Optimization   </td>
 
 
 <!---  GM  -->
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
+
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="gm"></a><h3><b>Topic IV: Graphical Model and Bayesian and Variational Topics </b></h3> </td> </tr>
 <tr>
@@ -1142,6 +1156,10 @@ Density estimation </td>
 
 <!---  assorted  -->
 
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
+
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="matrixmore"></a><h3><b>Topic V: Assorted: structured, low-rank, Metric, and more </b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -1266,6 +1284,10 @@ Density estimation </td>
 
 <!---  Fast parallel  -->
 
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
+
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="fast"></a><h3><b>Topic VI: Scalable / Parallel / Random / Streaming Related Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -1350,6 +1372,10 @@ Density estimation </td>
 
 <!---  Reinforcement  -->
 
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
+
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a><h3><b>Topic VII: Reinforcement Learning Related Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
@@ -1424,6 +1450,10 @@ Density estimation </td>
 
 
 <!---  more for research  -->
+
+</table>
+
+<table id="datatab2" summary="Table of datasets" border="1">
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="rere"></a><h3><b>Topic VIII: Advanced / Recent Tutorials helpful for Research</b></h3> </td> </tr>
 <tr>
