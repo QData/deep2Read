@@ -40,7 +40,11 @@ order: 28
 <table id="datatab2" summary="Table of datasets" border="1">
    <tbody>
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basic Machine Learning Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4">
+  <a name="introlsml"></a>
+  <h3><b>Topic 0: Basic Machine Learning Topics</b>
+  </h3> </td> 
+</tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -99,7 +103,10 @@ order: 28
 
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basics of Large-Scale Machine Learning Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a>
+  <h3><b>Topic 0: Basics of Large-Scale Machine Learning Topics</b></h3> 
+</td> 
+</tr>
 <tr>
  <td>&check;BasicLarge</td>
   <td>Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning </td>
@@ -121,7 +128,9 @@ order: 28
 
 <!---  deep -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a><h3><b>Topic I: Deep Learning Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a>
+  <h3><b>Topic I: Deep Learning Topics</b></h3> 
+</td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -464,7 +473,9 @@ An Informal Mathematical Tour of Feature Learning </td>
 <!---  kernel  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="kernel"></a><h3><b>Topic II: Kernel Methods Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="kernel"></a>
+  <h3><b>Topic II: Kernel Methods Topics</b></h3> 
+</td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -655,7 +666,9 @@ http://mlg.eng.cam.ac.uk/duvenaud/talks/random-kitchen-sinks-tutorial.pdf"
 
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="optm"></a><h3><b>Topic III: Optimization for ML or High-Dim/Sparsity Topics </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="optm"></a>
+  <h3><b>Topic III: Optimization for ML or High-Dim/Sparsity Topics </b></h3> 
+</td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -934,7 +947,9 @@ Sparse and Regularized Optimization   </td>
 <!---  GM  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="gm"></a><h3><b>Topic IV: Graphical Model and Bayesian and Variational Topics </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="gm"></a>
+  <h3><b>Topic IV: Graphical Model and Bayesian and Variational Topics </b></h3> 
+</td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -1146,7 +1161,9 @@ Density estimation </td>
 <!---  assorted  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="matrixmore"></a><h3><b>Topic V: Assorted: structured, low-rank, Metric, and more </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="matrixmore"></a>
+  <h3><b>Topic V: Assorted: structured, low-rank, Metric, and more </b></h3>
+   </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -1271,7 +1288,9 @@ Density estimation </td>
 <!---  Fast parallel  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="fast"></a><h3><b>Topic VI: Scalable / Parallel / Random / Streaming Related Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="fast"></a>
+  <h3><b>Topic VI: Scalable / Parallel / Random / Streaming Related Topics</b></h3>
+   </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -1356,7 +1375,9 @@ Density estimation </td>
 <!---  Reinforcement  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a><h3><b>Topic VII: Reinforcement Learning Related Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a>
+  <h3><b>Topic VII: Reinforcement Learning Related Topics</b></h3> 
+</td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -1432,7 +1453,9 @@ Density estimation </td>
 <!---  more for research  -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="rere"></a><h3><b>Topic VIII: Advanced / Recent Tutorials helpful for Research</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="rere"></a>
+  <h3><b>Topic VIII: Advanced / Recent Tutorials helpful for Research</b></h3>
+   </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -1571,12 +1594,9 @@ Density estimation </td>
 </tr>
 
 
-   </tbody>
-
-</table>
 
 
-<div style="position: fixed; bottom: 36px; right:10px; width: 98px; height: 206px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 36px; right:10px; width: 108px; height: 226px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">0:Intro.</a>
 <a style="position: fixed; bottom:210px; right:10px;" href="#deep">I:Deep </a>
 <a style="position: fixed; bottom:190px; right:10px;" href="#kernel">II:KernelSVM</a>
