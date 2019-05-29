@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Basic Readings
+title: Notes2Learn Basic Deep
 desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
-order: 21
+order: 25
 ---
 
 <p><a name="topPage"></a></p>
