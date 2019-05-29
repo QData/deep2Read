@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes2Learn Basic Deep
+title: Notes2Learn MachineLearning
 desc: "Basic Readings of Machine Learning We Finished Before 2016-Fall"
 order: 28
 ---
@@ -8,8 +8,9 @@ order: 28
 
 <p><a name="topPage"></a></p>
 
+<hr>
 
-## The List of tutorials we have collected for Learning Machine Learning  
+## The List of tutorials we have read for Learning Machine Learning  
 
 > I have stopped updating the following list from 2016. 
 
@@ -37,16 +38,9 @@ order: 28
 <!---  introduction of LSML -->
 
 <table id="datatab2" summary="Table of datasets" border="1">
-<tbody>
- <h3><b> <tr>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Video + Slide) </th>
-  <th>Talk Year</th>
-  </b></h3>
-</tr>
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Basic Machine Learning Topics</b></h3> </td> </tr>
+ 
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basic Machine Learning Topics</b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -105,7 +99,7 @@ order: 28
 
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Basics of Large-Scale Machine Learning Topics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a><h3><b>Topic 0: Basics of Large-Scale Machine Learning Topics</b></h3> </td> </tr>
 <tr>
  <td>&check;BasicLarge</td>
   <td>Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning </td>
@@ -656,6 +650,7 @@ http://mlg.eng.cam.ac.uk/duvenaud/talks/random-kitchen-sinks-tutorial.pdf"
 
 
 <!---  optimization  -->
+
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="optm"></a><h3><b>Topic III: Optimization for ML or High-Dim/Sparsity Topics </b></h3> </td> </tr>
@@ -1570,7 +1565,7 @@ Density estimation </td>
 
 
 
-</tbody></table>
+</table>
 
 
 <div style="position: fixed; bottom: 46px; right:10px; width: 98px; height: 206px; background-color: #FFCF79;">

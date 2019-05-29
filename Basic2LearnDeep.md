@@ -7,7 +7,14 @@ order: 25
 
 <p><a name="topPage"></a></p>
 
+
+
 <hr>
+
+## The List of deep learning tutorials we have read for Learning deep learning  
+
+> I have stopped updating the following list from 2017 Fall. 
+
 
 <!--<h1>Sections of Our Learning MachineLearning Topics</h1>-->
 
