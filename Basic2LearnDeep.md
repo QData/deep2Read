@@ -71,7 +71,7 @@ order: 25
 <!---  deep basics -->
 
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deepBasic"></a><h3><b>Topic I: Deep Learning Basics</b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deepBasic"></a><h3><b>Topic II: Deep Learning Basics</b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -797,12 +797,12 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 226px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 96px; right:10px; width: 118px; height: 186px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Courses</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:Basics</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>
 <a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">VI:Structure</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#deepOpt">V:Optim</a>
 <a style="position: fixed; bottom:280px; right:10px;" href="#reinfo">VI:RL</a>
-<a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+<a style="position: fixed; bottom:120px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>

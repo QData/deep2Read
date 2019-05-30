@@ -41,7 +41,7 @@ order: 28
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4">
   <a name="introlsml"></a>
-  <h3><b>Topic 0: Basic Machine Learning Topics</b>
+  <h3><b>Topic I: Basic Machine Learning Topics</b>
   </h3> </td> 
 </tr>
 <tr>
@@ -103,7 +103,7 @@ order: 28
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="introlsml"></a>
-  <h3><b>Topic 0: Basics of Large-Scale Machine Learning Topics</b></h3> 
+  <h3><b>Topic I: Basics of Large-Scale Machine Learning Topics</b></h3> 
 </td> 
 </tr>
 <tr>
@@ -830,13 +830,19 @@ Density estimation </td>
 </tr>
 
 
+<tr> <td align="center"  colspan="4"></a>
+   See Our Site: <a href="https://qdata.github.io/deep2Read/">https://qdata.github.io/deep2Read/</a> 
+</td> </tr>
 
+
+<!---
 <tr>
  <td>&check;DeepBasic</td>
   <td>Nando de Freitas: Course: Deep learning at Oxford 2015 </td>
   <td><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" target="_blank">(ListVideo)</a></td>
   <td>2015</td>
  </tr>
+
 
 
 <tr>
@@ -1158,6 +1164,8 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2016</td>
 </tr>
 
+
+-->
 
 <!---  assorted  -->
 
