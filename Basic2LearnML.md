@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Notes2Learn MachineLearning
+title: 2015BasicLearning
 desc: "Basic Readings of Machine Learning We Finished Before 2016-Fall"
 order: 28
 ---
@@ -1605,8 +1605,8 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<div style="position: fixed; bottom: 36px; right:10px; width: 108px; height: 226px; background-color: #FFCF79;">
-<a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">I:Intro.</a>
+<div style="position: fixed; bottom: 36px; right:10px; width: 118px; height: 226px; background-color: #FFCF79;">
+<a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">I:IntroML</a>
 <a style="position: fixed; bottom:210px; right:10px;"   href="#kernel">II:KernelSVM </a>
 <a style="position: fixed; bottom:190px; right:10px;" href="#optm">III:OptimHigh</a>
 <a style="position: fixed; bottom:170px; right:10px;" href="#gm">IV:GMBayes</a>
