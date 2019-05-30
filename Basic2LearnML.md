@@ -19,15 +19,15 @@ order: 28
 <font face="Arial,Helvetica">
 <font size="+1">
 <ul>
-  <li><a href="#introlsml">topic 0: Intro. Large Scale Machine Learning Topics</a> </li>
-  <li><a href="#deep">topic I: Deep Learning Topics </a> </li>
+  <li><a href="#introlsml">topic I: Intro. Large Scale Machine Learning Topics</a> </li>
   <li><a href="#kernel">topic II: Kernel Methods and SVM Topics</a> </li>
   <li><a href="#optm">topic III: Optimization for ML and High-Dim Topics</a> </li>
   <li><a href="#gm">topic IV: Graphical Model + Bayesian+Variational Topics </a> </li>
- <li><a href="#matrixmore">topic V: Assorted: structured, low-rank, Metric, and more  </a> </li>
- <li><a href="#fast">topic VI: Assorted: scalable, random, parallel, and more  </a> </li>
- <li><a href="#reinfo">topic VII: Reinforcement Learning related topics </a> </li>
- <li><a href="#rere">topic VIII: Advanced Tutorials helpful to Research </a> </li>
+  <li><a href="#deep">topic V: Deep Learning Topics </a> </li>
+ <li><a href="#matrixmore">topic VI: Assorted: structured, low-rank, Metric, and more  </a> </li>
+ <li><a href="#fast">topic VII: Assorted: scalable, random, parallel, and more  </a> </li>
+ <li><a href="#reinfo">topic VIII: Reinforcement Learning related topics </a> </li>
+ <li><a href="#rere">topic VIIII: Advanced Tutorials helpful to Research </a> </li>
 </ul>
 </font>
 </font>
@@ -125,348 +125,6 @@ order: 28
   <td>2014</td>
  </tr>
 
-<!---  deep -->
-
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a>
-  <h3><b>Topic I: Deep Learning Tutorials before 2016</b></h3> 
-</td> </tr>
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
-
-
-
-<tr>
- <td>&check;DeepBasic</td>
-  <td>Nando de Freitas: Course: Deep learning at Oxford 2015 </td>
-  <td><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" target="_blank">(ListVideo)</a></td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part1 - deepNN supervised) </td>
-     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10745_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10739.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part2 - deepNN unsupervised) </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10607_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10739.pdf"  target="_blank">(PDFslide)</a> </td>
-
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;DeepStructured</td>
-    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part3 - deepNN graph transformer network) </td>
-      <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10795_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10745.pdf"  target="_blank">(PDFslide)</a> + <a href="http://www.cs.nyu.edu/~yann/talks/lecun-20110505-lip6.pdf" target="_blank">(PDF2)</a></td>
-
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;DeepGM</td>
-  <td>DeepLearningSummerSchool12: Geoffrey Hinton: Introduction to Deep Learning , Deep Belief Nets (Parts 1 / Relevant Paper: <a href="https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf" target="_blank"> A fast learning algorithm for deep belief nets </a>) </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10596_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;Hardware Parallel</td>
-  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-  <td>MLSS2005: Yann Lecun,  Tutorial of Energy-based models </td>
-  <td><a href="http://videolectures.net/mlss05us_lecun_ebmli/?q=Yann%20Lecun" target="_blank">(Video)</a>
-  <b>+</b><a href="http://videolectures.net/site/normal_dl/tag=10950/Yann_LeCun_Energy-based_models_02.pdf" target="_blank">(Slide)</a>
-   </td>
-  <td>2005</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-    <td>Geoffry Hinton: Learning Energy-Based Models of High-Dimensional Data </td>
-     <td>  <a href="https://vimeo.com/52516280" target="_blank">(Video)</a> <b>+</b> <a href="http://www.cs.toronto.edu/~hinton/talks/EBMtalk.ppt" target="_blank">(PDFslide)</a></td>
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;DeepScaling</td>
-    <td>KDD14:  Yoshua Bengio, Scaling Up Deep Learning </td>
-    <td>  <a href="http://videolectures.net/kdd2014_bengio_deep_learning/" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=894697/kdd2014_bengio_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2014</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>Yoshua Bengio (University of Montreal): Representation Learning with auto-encoder / decoder variants </td>
-     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10549_240.mp4&vfd=gss2012" target="_blank">(Video)</a>
-     </td>
-  <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-    <td>EML07: Yoshua Bengio (University of Montreal): Speeding Up Stochastic Gradient Descent </td>
-     <td>  <a href="http://videolectures.net/eml07_bengio_ssg/" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=12209/eml07_bengio_ssg_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2007</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>Matt Zeiler ( Founder and CEO of Clarifai Inc, ) : Visualizing and Understanding Deep Neural Networks
-    </td>
-    <td>  <a href="https://www.youtube.com/watch?v=ghEmQSxT6tw" target="_blank">(Video)</a>
-    </td>
-  <td>2015</td>
-</tr>
-
-
-
-<tr>
-  <td>&check;DeepTheory</td>
-    <td>DeepLearningSummerSchool12: Nando de Freitas (University of British Columbia)
-An Informal Mathematical Tour of Feature Learning </td>
-    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10794_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10794.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2012</td>
-</tr>
-
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>KDD14:  Ruslan Salakhutdinov, Deep Learning </td>
-    <td>  <a href="http://videolectures.net/kdd2014_salakhutdinov_deep_learning/" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=894707/kdd2014_salakhutdinov_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2014</td>
-</tr>
-
-
-<tr>
-  <td>&check;RNN</td>
-  <td>Nando de Freitas: Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs
-</td>
-  <td> <a href="https://www.youtube.com/watch?v=56TYLaQN4N8" target="_blank">(Video)
-  </a> <b>+ </b> <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/lecture11.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;DeepGenerative</td>
-  <td> Hugo Larochelle: DLSS15: Deep Learning for Distribution Estimation
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_larochelle_deep_learning/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983656/deeplearning2015_larochelle_deep_learning_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;DeepTheory</td>
-  <td> Yoshua Bengio: DLSS15: Deep  Learning:Theoretical Motivations
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983679/deeplearning2015_bengio_theoretical_motivations_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-<tr>
-  <td>&check;DeepGenerative</td>
-  <td> Yoshua Bengio: DLSS15: Deep Generative Models
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_bengio_generative_models/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983667/deeplearning2015_bengio_generative_models_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
-<tr>
-  <td>&check;DeepOptim</td>
-  <td>DLSS15:  Ian Goodfellow: Tutorial on Neural Network Optimization Problems
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_network_optimization/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983675/deeplearning2015_goodfellow_network_optimization_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
-<tr>
-  <td>&check;Deep</td>
-  <td>DLSS15:  Ian Goodfellow: Deep  Adversarial Examples
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_adversarial_examples/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983671/deeplearning2015_goodfellow_adversarial_examples_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
-
-
-<tr>
-  <td>&check;DeepOptim</td>
-  <td>DLSS15:  Adam Coates: Deep Learning (hopefully faster)
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_coates_deep_learning/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983682/deeplearning2015_coates_deep_learning_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-  <td>DLSS15: Leon Bottou: Multilayer Neural Networks
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_bottou_neural_networks/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983658/deeplearning2015_bottou_neural_networks_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;DeepNLP</td>
-  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)
-  </a><a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
-  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>DeepRBM</td>
-  <td>DLSS15: multiple tutorials related to RBM
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_courville_graphical_models/" target="_blank">(Video-DeepGM)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_lee_boltzmann_machines/" target="_blank">(Video-RBM) </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_salakhutdinov_deep_learning/" target="_blank">(Video-deepRBM)  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
-
-
-<tr>
-  <td>DeepRBM</td>
-  <td>DLSS15: Aaron Courville, Variational Autoencoder and Extensions
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_vincent_autoencoders/" target="_blank">(Video-autoencoder)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=variational" target="_blank">(Video-variational) </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16: Alex Wiltschko, Twitter, Inc : Introduction to Torch </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_wiltschko_torch/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051680/deeplearning2016_wiltschko_torch_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DeepLearningSummerSchool16:Ryan Olson, NVIDIA Corporation, GPU programming for Deep Learning </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051688/deeplearning2016_bernauer_olson_deep_learning_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Edward Grefenstette, Google, Inc. : Beyond Seq2Seq with Augmented RNNs </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_grefenstette_augmented_rnn/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051689/deeplearning2016_grefenstette_augmented_rnn_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Sumit Chopra, Facebook  Reasoning, Attention and Memory
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_chopra_attention_memory/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051694/deeplearning2016_chopra_attention_memory_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16: Shakir Mohamed, Google, Inc, Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_mohamed_generative_models/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051862/deeplearning2016_mohamed_generative_models_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
-
-
-<tr>
-  <td>&check;Deep</td>
-    <td>DSLL16:  Yoshua Bengio, Department of Computer Science and Operations Research, University of Montreal;  A Brief Review of Recurrent Neural Networks
-    </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_bengio_neural_networks/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051676/deeplearning2016_bengio_neural_networks_01.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
 
 
 <!---  kernel  -->
@@ -1157,11 +815,355 @@ Density estimation </td>
  </tr>
 
 
+<!---  deep -->
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep"></a>
+  <h3><b>Topic V: Deep Learning Tutorials before 2016</b></h3> 
+</td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+
+<tr>
+ <td>&check;DeepBasic</td>
+  <td>Nando de Freitas: Course: Deep learning at Oxford 2015 </td>
+  <td><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" target="_blank">(ListVideo)</a></td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part1 - deepNN supervised) </td>
+     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10745_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10739.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part2 - deepNN unsupervised) </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10607_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10739.pdf"  target="_blank">(PDFslide)</a> </td>
+
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;DeepStructured</td>
+    <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part3 - deepNN graph transformer network) </td>
+      <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10795_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10745.pdf"  target="_blank">(PDFslide)</a> + <a href="http://www.cs.nyu.edu/~yann/talks/lecun-20110505-lip6.pdf" target="_blank">(PDF2)</a></td>
+
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;DeepGM</td>
+  <td>DeepLearningSummerSchool12: Geoffrey Hinton: Introduction to Deep Learning , Deep Belief Nets (Parts 1 / Relevant Paper: <a href="https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf" target="_blank"> A fast learning algorithm for deep belief nets </a>) </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10596_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10596.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;Hardware Parallel</td>
+  <td>DeepLearningSummerSchool12: Marc'Aurelio Ranzato (Google Inc.), Large Scale Deep Learning  </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10783_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10783.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;Deep</td>
+  <td>MLSS2005: Yann Lecun,  Tutorial of Energy-based models </td>
+  <td><a href="http://videolectures.net/mlss05us_lecun_ebmli/?q=Yann%20Lecun" target="_blank">(Video)</a>
+  <b>+</b><a href="http://videolectures.net/site/normal_dl/tag=10950/Yann_LeCun_Energy-based_models_02.pdf" target="_blank">(Slide)</a>
+   </td>
+  <td>2005</td>
+</tr>
+
+<tr>
+  <td>&check;Deep</td>
+    <td>Geoffry Hinton: Learning Energy-Based Models of High-Dimensional Data </td>
+     <td>  <a href="https://vimeo.com/52516280" target="_blank">(Video)</a> <b>+</b> <a href="http://www.cs.toronto.edu/~hinton/talks/EBMtalk.ppt" target="_blank">(PDFslide)</a></td>
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;DeepScaling</td>
+    <td>KDD14:  Yoshua Bengio, Scaling Up Deep Learning </td>
+    <td>  <a href="http://videolectures.net/kdd2014_bengio_deep_learning/" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=894697/kdd2014_bengio_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2014</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>Yoshua Bengio (University of Montreal): Representation Learning with auto-encoder / decoder variants </td>
+     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10549_240.mp4&vfd=gss2012" target="_blank">(Video)</a>
+     </td>
+  <td>2012</td>
+</tr>
+
+<tr>
+  <td>&check;Deep</td>
+    <td>EML07: Yoshua Bengio (University of Montreal): Speeding Up Stochastic Gradient Descent </td>
+     <td>  <a href="http://videolectures.net/eml07_bengio_ssg/" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=12209/eml07_bengio_ssg_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2007</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>Matt Zeiler ( Founder and CEO of Clarifai Inc, ) : Visualizing and Understanding Deep Neural Networks
+    </td>
+    <td>  <a href="https://www.youtube.com/watch?v=ghEmQSxT6tw" target="_blank">(Video)</a>
+    </td>
+  <td>2015</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;DeepTheory</td>
+    <td>DeepLearningSummerSchool12: Nando de Freitas (University of British Columbia)
+An Informal Mathematical Tour of Feature Learning </td>
+    <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10794_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://helper.ipam.ucla.edu/publications/gss2012/gss2012_10794.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2012</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>KDD14:  Ruslan Salakhutdinov, Deep Learning </td>
+    <td>  <a href="http://videolectures.net/kdd2014_salakhutdinov_deep_learning/" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=894707/kdd2014_salakhutdinov_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2014</td>
+</tr>
+
+
+<tr>
+  <td>&check;RNN</td>
+  <td>Nando de Freitas: Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs
+</td>
+  <td> <a href="https://www.youtube.com/watch?v=56TYLaQN4N8" target="_blank">(Video)
+  </a> <b>+ </b> <a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/lecture11.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;DeepGenerative</td>
+  <td> Hugo Larochelle: DLSS15: Deep Learning for Distribution Estimation
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_larochelle_deep_learning/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983656/deeplearning2015_larochelle_deep_learning_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;DeepTheory</td>
+  <td> Yoshua Bengio: DLSS15: Deep  Learning:Theoretical Motivations
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983679/deeplearning2015_bengio_theoretical_motivations_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+<tr>
+  <td>&check;DeepGenerative</td>
+  <td> Yoshua Bengio: DLSS15: Deep Generative Models
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_bengio_generative_models/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983667/deeplearning2015_bengio_generative_models_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
+  <td>&check;DeepOptim</td>
+  <td>DLSS15:  Ian Goodfellow: Tutorial on Neural Network Optimization Problems
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_network_optimization/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983675/deeplearning2015_goodfellow_network_optimization_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
+  <td>&check;Deep</td>
+  <td>DLSS15:  Ian Goodfellow: Deep  Adversarial Examples
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_adversarial_examples/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983671/deeplearning2015_goodfellow_adversarial_examples_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+
+
+<tr>
+  <td>&check;DeepOptim</td>
+  <td>DLSS15:  Adam Coates: Deep Learning (hopefully faster)
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_coates_deep_learning/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983682/deeplearning2015_coates_deep_learning_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+  <td>DLSS15: Leon Bottou: Multilayer Neural Networks
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_bottou_neural_networks/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983658/deeplearning2015_bottou_neural_networks_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;DeepNLP</td>
+  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)
+  </a><a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
+  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>DeepRBM</td>
+  <td>DLSS15: multiple tutorials related to RBM
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_courville_graphical_models/" target="_blank">(Video-DeepGM)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_lee_boltzmann_machines/" target="_blank">(Video-RBM) </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_salakhutdinov_deep_learning/" target="_blank">(Video-deepRBM)  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+
+
+<tr>
+  <td>DeepRBM</td>
+  <td>DLSS15: Aaron Courville, Variational Autoencoder and Extensions
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_vincent_autoencoders/" target="_blank">(Video-autoencoder)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=variational" target="_blank">(Video-variational) </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16: Alex Wiltschko, Twitter, Inc : Introduction to Torch </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_wiltschko_torch/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051680/deeplearning2016_wiltschko_torch_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DeepLearningSummerSchool16:Ryan Olson, NVIDIA Corporation, GPU programming for Deep Learning </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_bernauer_olson_deep_learning/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051688/deeplearning2016_bernauer_olson_deep_learning_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Edward Grefenstette, Google, Inc. : Beyond Seq2Seq with Augmented RNNs </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_grefenstette_augmented_rnn/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051689/deeplearning2016_grefenstette_augmented_rnn_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Sumit Chopra, Facebook  Reasoning, Attention and Memory
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_chopra_attention_memory/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051694/deeplearning2016_chopra_attention_memory_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16: Shakir Mohamed, Google, Inc, Building Machines that Imagine and Reason: Principles and Applications of Deep Generative Models
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_mohamed_generative_models/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051862/deeplearning2016_mohamed_generative_models_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>DSLL16:  Yoshua Bengio, Department of Computer Science and Operations Research, University of Montreal;  A Brief Review of Recurrent Neural Networks
+    </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_bengio_neural_networks/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051676/deeplearning2016_bengio_neural_networks_01.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
+
+
 <!---  assorted  -->
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="matrixmore"></a>
-  <h3><b>Topic V: Assorted: structured, low-rank, Metric, and more </b></h3>
+  <h3><b>Topic VI: Assorted: structured, low-rank, Metric, and more </b></h3>
    </td> </tr>
 <tr>
  <h3><b>
@@ -1288,7 +1290,7 @@ Density estimation </td>
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="fast"></a>
-  <h3><b>Topic VI: Scalable / Parallel / Random / Streaming Related Topics</b></h3>
+  <h3><b>Topic VII: Scalable / Parallel / Random / Streaming Related Topics</b></h3>
    </td> </tr>
 <tr>
  <h3><b>
@@ -1375,7 +1377,7 @@ Density estimation </td>
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="reinfo"></a>
-  <h3><b>Topic VII: Reinforcement Learning Related Topics</b></h3> 
+  <h3><b>Topic VIII: Reinforcement Learning Related Topics</b></h3> 
 </td> </tr>
 <tr>
  <h3><b>
@@ -1453,7 +1455,7 @@ Density estimation </td>
 
 
 <tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="rere"></a>
-  <h3><b>Topic VIII: Advanced / Recent Tutorials helpful for Research</b></h3>
+  <h3><b>Topic VIIII: Advanced / Recent Tutorials helpful for Research</b></h3>
    </td> </tr>
 <tr>
  <h3><b>
@@ -1596,16 +1598,17 @@ Density estimation </td>
 
 
 <div style="position: fixed; bottom: 36px; right:10px; width: 108px; height: 226px; background-color: #FFCF79;">
-<a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">0:Intro.</a>
-<a style="position: fixed; bottom:210px; right:10px;" href="#deep">I:Deep </a>
-<a style="position: fixed; bottom:190px; right:10px;" href="#kernel">II:KernelSVM</a>
-<a style="position: fixed; bottom:170px; right:10px;" href="#optm">III:OptimHigh</a>
-<a style="position: fixed; bottom:150px; right:10px;" href="#gm">IV:GMBayes</a>
-<a style="position: fixed; bottom:130px; right:10px;" href="#matrixmore">V:MatrixEx</a>
-<a style="position: fixed; bottom:110px; right:10px;" href="#fast">VI:Scalable</a>
-<a style="position: fixed; bottom:90px; right:10px;" href="#reinfo">VII:Reinforce</a>
-<a style="position: fixed; bottom:70px; right:10px;" href="#rere">VIII:Research</a>
+<a style="position: fixed; bottom:230px; right:10px;" href="#introlsml">I:Intro.</a>
+<a style="position: fixed; bottom:210px; right:10px;"   href="#kernel">II:KernelSVM </a>
+<a style="position: fixed; bottom:190px; right:10px;" href="#optm">III:OptimHigh</a>
+<a style="position: fixed; bottom:170px; right:10px;" href="#gm">IV:GMBayes</a>
+<a style="position: fixed; bottom:150px; right:10px;" href="#deep">V:Deep</a>
+<a style="position: fixed; bottom:130px; right:10px;" href="#matrixmore">VI:MatrixEx</a>
+<a style="position: fixed; bottom:110px; right:10px;" href="#fast">VII:Scalable</a>
+<a style="position: fixed; bottom:90px; right:10px;" href="#reinfo">VIII:Reinforce</a>
+<a style="position: fixed; bottom:70px; right:10px;" href="#rere">VIIII:Research</a>
 </div>
+
 
 
 

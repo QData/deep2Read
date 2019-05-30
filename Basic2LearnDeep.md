@@ -20,9 +20,8 @@ order: 25
 
 <font face="Arial,Helvetica">
 <ul>
-<li><a href="#deep0">Topic 0: Deep Learning Intro Courses </a> </li>
-<li><a href="#deepBasic">Topic I: Deep Learning Basics </a> </li>
-<li><a href="#deepApp">Topic II: Basic Applications and Benchmarking of Deep Learning Tools</a> </li>
+<li><a href="#deep0">Topic I: Deep Learning Intro Courses </a> </li>
+<li><a href="#deepBasic">Topic II: Deep Learning Basics and Benchmarking </a> </li>
 <li><a href="#deepSec">Topic III: Basics of Adversarial / Deep Generative Models </a> </li>
 <li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
 <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
@@ -40,7 +39,7 @@ order: 25
 
 <!---  course basics -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic 0: Deep Learning Basic Courses </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic I: Deep Learning Basic Courses </b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -86,9 +85,9 @@ order: 25
 
 <tr>
  <td>&check;DeepBasic</td>
-  <td>the list of video lectures related to DEEP Learning we have learned @ </td>
+  <td>the list of video lectures related to DEEP Learning we have learned before </td>
   <td><a href="http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm#deep" target="_blank">(ListVideo)</a></td>
-  <td>2015-now</td>
+  <td>2015-16</td>
  </tr>
 
 
@@ -285,21 +284,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-
-
-<!---  application and benchmarking  -->
-
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepApp"></a><h3><b>Topic II: Application and Benchmarking and Understanding Deep learning papers</b></h3> </td> </tr>
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
-
-
   <tr>
   <td>&check;bench</td>
   <td>paper: Comparative Study of Deep Learning Software Frameworks
@@ -374,55 +358,12 @@ An Informal Mathematical Tour of Feature Learning </td>
  </tr>
 
 
-
- <tr>
-  <td>&check;App</td>
-  <td>Paper: Learning to rank with (a lot of) word features
- </td>
-  <td><a href="http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf" target="_blank">(PDF)</a></td>
-  <td>2010</td>
-</tr>
-
-  <tr>
-  <td>&check;App</td>
-  <td>Paper:
-Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Weston, Leon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa
- </td>
-  <td><a href="https://arxiv.org/abs/1103.0398" target="_blank">(PDF)</a></td>
-  <td>2011</td>
-</tr>
-
-<tr>
- <td>&check;App</td>
- <td>Paper: A Neural Algorithm of Artistic Style
-</td>
- <td><a href="https://arxiv.org/abs/1508.06576" target="_blank">(PDF)</a></td>
- <td>2015</td>
-</tr>
-
-<tr>
- <td>&check;Understanding</td>
- <td>Paper: Understanding Black-box Predictions via Influence Functions
-</td>
- <td><a href="https://arxiv.org/abs/1703.04730" target="_blank">(PDF)</a></td>
- <td>2017</td>
-</tr>
-
-<tr>
- <td>&check;Test</td>
- <td>Paper: DeepXplore: Automated Whitebox Testing of Deep Learning Systems
-</td>
- <td><a href="https://arxiv.org/abs/1705.06640" target="_blank">(PDF)</a></td>
- <td>2010</td>
-</tr>
-
-
 <!---  robust  -->
 
 
 <tr>
 <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepSec"></a>
-<h3><b>Topic III: Adversarial and Deep Generative Papers we read </b></h3> </td> </tr>
+<h3><b>Topic III: Adversarial and Deep Generative Adversarial Basic Papers we read </b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -856,10 +797,9 @@ Natural Language Processing (almost) from Scratch / Ronan Collobert, Jason Westo
 
 
 
-<div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 236px; background-color: #FFCF79;">
-<a style="position: fixed; bottom:130px; right:10px;" href="#deep0">0:Courses</a>
-<a style="position: fixed; bottom:155px; right:10px;" href="#deepBasic">I:Basics</a>
-<a style="position: fixed; bottom:180px; right:10px;" href="#deepApp">II:Apps</a>
+<div style="position: fixed; bottom: 76px; right:10px; width: 118px; height: 226px; background-color: #FFCF79;">
+<a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Courses</a>
+<a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:Basics</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>
 <a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">VI:Structure</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#deepOpt">V:Optim</a>
