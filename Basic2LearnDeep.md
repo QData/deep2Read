@@ -118,6 +118,30 @@ order: 25
   <td>2012</td>
 </tr>
 
+
+
+
+<tr>
+  <td>&check;Deep</td>
+  <td>DLSS15: Leon Bottou: Multilayer Neural Networks
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_bottou_neural_networks/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983658/deeplearning2015_bottou_neural_networks_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>Yoshua Bengio (University of Montreal): Representation Learning with auto-encoder / decoder variants </td>
+     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10549_240.mp4&vfd=gss2012" target="_blank">(Video)</a>
+     </td>
+  <td>2012</td>
+</tr>
+
+
 <tr>
   <td>&check;DeepGM</td>
   <td>DeepLearningSummerSchool12: Geoffrey Hinton: Introduction to Deep Learning , Deep Belief Nets (Parts 1 / Relevant Paper: <a href="https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf" target="_blank"> A fast learning algorithm for deep belief nets </a>) </td>
@@ -151,13 +175,6 @@ order: 25
 </tr>
 
 
-<tr>
-  <td>&check;Deep</td>
-    <td>Yoshua Bengio (University of Montreal): Representation Learning with auto-encoder / decoder variants </td>
-     <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10549_240.mp4&vfd=gss2012" target="_blank">(Video)</a>
-     </td>
-  <td>2012</td>
-</tr>
 
 <tr>
   <td>&check;Deep</td>
@@ -249,19 +266,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-
-<tr>
-  <td>&check;Deep</td>
-  <td>DLSS15: Leon Bottou: Multilayer Neural Networks
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_bottou_neural_networks/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983658/deeplearning2015_bottou_neural_networks_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
-
 <tr>
   <td>DeepRBM</td>
   <td>DLSS15: multiple tutorials related to RBM
@@ -273,14 +277,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-
-<tr>
-  <td>DeepRBM</td>
-  <td>DLSS15: Aaron Courville, Variational Autoencoder and Extensions
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_vincent_autoencoders/" target="_blank">(Video-autoencoder)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=variational" target="_blank">(Video-variational) </a>  </td>
-  <td>2015</td>
- </tr>
 
 
 
@@ -408,24 +404,7 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2017</td>
 </tr>
 
-  <tr>
-  <td>&check;Robust</td>
-  <td>Paper: Intriguing properties of neural networks / Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
- </td>
-  <td><a href="https://arxiv.org/abs/1312.6199" target="_blank">(PDF)</a>
-  </td>
-  <td>2013</td>
-</tr>
-
-
-<tr>
-  <td>&check;Robust</td>
-  <td>Paper:  Explaining and Harnessing Adversarial Examples / Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
- </td>
-  <td><a href="https://arxiv.org/abs/1412.6572" target="_blank">(PDF)</a></td>
-  <td>2014</td>
-</tr>
-
+ 
 
 <tr>
   <td>&check;DeepGenerative</td>
@@ -450,13 +429,30 @@ An Informal Mathematical Tour of Feature Learning </td>
 </tr>
 
 
+ <tr>
+  <td>&check;Robust</td>
+  <td>Paper: Intriguing properties of neural networks / Christian Szegedy, Wojciech Zaremba, Ilya Sutskever, Joan Bruna, Dumitru Erhan, Ian Goodfellow, Rob Fergus
+ </td>
+  <td><a href="https://arxiv.org/abs/1312.6199" target="_blank">(PDF)</a>
+  </td>
+  <td>2013</td>
+</tr>
+
+
+<tr>
+  <td>&check;Robust</td>
+  <td>Paper:  Explaining and Harnessing Adversarial Examples / Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
+ </td>
+  <td><a href="https://arxiv.org/abs/1412.6572" target="_blank">(PDF)</a></td>
+  <td>2014</td>
+</tr>
 
 
 
 
 <!---  structure  -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Deep learning Models with varying Structures </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"> <a name="deepStr"></a><h3><b>Topic IV: Basic Deep learning Models with varying Structures </b></h3> </td> </tr>
 
 <tr>
  <h3><b>
@@ -528,7 +524,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
  <tr>
-  <td>s2sLSTM</td>
+  <td>&check;pointerLSTM</td>
   <td>Paper: Pointer Networks /Oriol Vinyals, Meire Fortunato, Navdeep Jaitly
  </td>
   <td><a href="https://arxiv.org/abs/1506.03134" target="_blank">(PDF)</a></td>
@@ -545,14 +541,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
- <tr>
-  <td>&check;s2sLSTM</td>
-  <td>Paper: Matching Networks for One Shot Learning / Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
- </td>
-  <td><a href="https://arxiv.org/abs/1606.04080" target="_blank">(PDF)</a></td>
-  <td>2016</td>
-</tr>
-
+ 
 <tr>
   <td>&check;Deep</td>
     <td>DSLL16: Edward Grefenstette, Google, Inc. : Beyond Seq2Seq with Augmented RNNs </td>
@@ -565,7 +554,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
-  <td>&check;Deep</td>
+  <td>&check;Attention</td>
     <td>DSLL16: Sumit Chopra, Facebook  Reasoning, Attention and Memory
     </td>
      <td>
@@ -577,7 +566,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
-  <td>&check;Deep</td>
+  <td>&check;Recurrent</td>
     <td>DSLL16:  Yoshua Bengio, Department of Computer Science and Operations Research, University of Montreal;  A Brief Review of Recurrent Neural Networks
     </td>
      <td>
@@ -587,10 +576,17 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2016</td>
 </tr>
 
+<tr>
+  <td>&check;OneShot</td>
+  <td>Paper: Matching Networks for One Shot Learning / Oriol Vinyals, Charles Blundell, Timothy Lillicrap, Koray Kavukcuoglu, Daan Wierstra
+ </td>
+  <td><a href="https://arxiv.org/abs/1606.04080" target="_blank">(PDF)</a></td>
+  <td>2016</td>
+</tr>
 
 
 <tr>
-<td>&check;Memory</td>
+<td>&check;OneShot</td>
 <td>Paper: One-shot Learning with Memory-Augmented Neural Networks / Adam Santoro, Sergey Bartunov, Matthew Botvinick, Daan Wierstra, Timothy Lillicrap
 </td>
 <td><a href="https://arxiv.org/abs/1605.06065" target="_blank">(PDF)</a>(ICML16)
@@ -600,7 +596,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 <tr>
 
 
-<td>&check;ParaNet</td>
+<td>&check;HyperNetworks</td>
 <td>Paper: HyperNetworks / David Ha, Andrew Dai, Quoc V. Le / ICLR 2017
 </td>
 <td><a href="https://arxiv.org/abs/1609.09106" target="_blank">(PDF)</a>
@@ -608,54 +604,14 @@ An Informal Mathematical Tour of Feature Learning </td>
 <td>2016</td>
 </tr>
 
-<tr>
-<td>&check;ParaNet</td>
-<td>Paper: Image Question Answering usingConvolutional Neural Network with Dynamic Parameter Prediction / Hyeonwoo Noh, Paul Hongsuck, Seo Bohyung Han / CVPR 2016
-</td>
-<td><a href="https://arxiv.org/abs/1511.05756" target="_blank">(PDF)</a>
-</td>
-<td>2015</td>
-</tr>
-
 
 <tr>
-<td>&check;ParaNet</td>
-<td>Paper: Learning Feed-Forward One-Shot Learners
+  <td>DeepRBM</td>
+  <td>DLSS15: Aaron Courville, Variational Autoencoder and Extensions
 </td>
-<td><a href="https://arxiv.org/abs/1606.05233" target="_blank">(PDF)</a>
-</td>
-<td>2016</td>
-</tr>
-
-
-<tr>
-<td>&check;ParaNet</td>
-<td>Paper: Learning to Learn by gradient descent by gradient descent
-</td>
-<td><a href="https://arxiv.org/abs/1606.04474" target="_blank">(PDF)</a>
-</td>
-<td>2016</td>
-
-
-</tr>
-<tr>
-<td>&check;ParaNet</td>
-<td>Paper: Dynamic Filter Networks
-</td>
-<td><a href="https://arxiv.org/abs/1605.09673" target="_blank">(PDF)</a>
-</td>
-<td>2016</td>
-</tr>
-<tr>
-
-<td>&check;ParaNet</td>
-<td>Paper: Diet Networks: Thin Parameters for Fat Genomics
-</td>
-<td><a href="https://arxiv.org/abs/1611.09340" target="_blank">(PDF)</a>
-</td>
-<td>2016</td>
-</tr>
-
+  <td> <a href="http://videolectures.net/deeplearning2015_vincent_autoencoders/" target="_blank">(Video-autoencoder)  </a> <b>+ </b> <a href="http://videolectures.net/deeplearning2015_courville_autoencoder_extension/?q=variational" target="_blank">(Video-variational) </a>  </td>
+  <td>2015</td>
+ </tr>
 
 
 <!---  opt  -->
