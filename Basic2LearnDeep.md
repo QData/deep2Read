@@ -23,7 +23,7 @@ order: 25
 <li><a href="#deep0">Topic I: Deep Learning Intro Courses </a> </li>
 <li><a href="#deepBasic">Topic II: Deep Learning Basics and Benchmarking </a> </li>
 <li><a href="#deepSec">Topic III: Basics of Adversarial / Deep Generative Models </a> </li>
-<li><a href="#deepStr">Topic IV: Basic Theory (Structures/Training/...) of Deep Models </a> </li>
+<li><a href="#deepStr">Topic IV: Basic Variations (Structures/Training/...) of Deep Models </a> </li>
 <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
 <li><a href="#reinfo">Topic VI: Basic Deep Reinforcement Learning  </a> </li>
 </ul>
@@ -797,11 +797,11 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<div style="position: fixed; bottom: 96px; right:10px; width: 118px; height: 186px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 96px; right:10px; width: 118px; height: 206px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Courses</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:Basics</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>
-<a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">VI:Structure</a>
+<a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">IV:Structure</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#deepOpt">V:Optim</a>
 <a style="position: fixed; bottom:280px; right:10px;" href="#reinfo">VI:RL</a>
 <a style="position: fixed; bottom:120px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
