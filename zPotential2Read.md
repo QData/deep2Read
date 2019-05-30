@@ -2,7 +2,7 @@
 layout: page
 title: Potential Readings
 desc: "Potential Readings of Deep Learning We Read from Fall-2017 to Spring-2019"
-order: 22
+order: 29
 ---
 
 <hr>

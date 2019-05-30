@@ -12,5 +12,6 @@ keywords: learning2rank
 | -----: | ---------------------------: | :----- | :----- |
 | QA | Learning to rank with (a lot of) word features | [PDF](http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf) |  |
 | NLP | Natural Language Processing (almost) from Scratch | [PDF](https://arxiv.org/abs/1103.0398) |  |
+| Metric | ICML07 Best Paper - Information-Theoretic Metric Learning | [PDF]() |  |
 
 
