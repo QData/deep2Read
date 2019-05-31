@@ -3,7 +3,7 @@ layout: post
 title: Application16- Application Reads we finished in 2016 Team Meetings 
 desc: 2017-team
 tags:
-- 9MedApplications
+- 9MedApp
 categories: 2017Reads
 keywords: learning2rank 
 ---
