@@ -92,7 +92,7 @@ Click on a tag to see relevant list of readings.
 ***
 
 
-<div style="position: fixed; bottom: 70px; right:10px; width: 139px; height: 290px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 70px; right:10px; width: 119px; height: 290px; background-color: #FFCF79;">
 
 {% assign counter = 350 %}
 {% assign sorted = site.tags | sort %}
