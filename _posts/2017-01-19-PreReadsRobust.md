@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Structures16- Reads we finished in 2016 Team Meetings 
+title: Robust16- Basic Deep NN and Robustness 
 desc: 2017-team
 tags:
-- 2Structures
+- 3Reliable
 categories: 2017Reads
 keywords: learning2rank 
 ---

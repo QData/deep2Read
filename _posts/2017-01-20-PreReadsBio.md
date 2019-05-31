@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Structures16- Reads we finished in 2016 Team Meetings 
+title: Application16- Application Reads we finished in 2016 Team Meetings 
 desc: 2017-team
 tags:
-- 2Structures
+- 9MedApplications
 categories: 2017Reads
 keywords: learning2rank 
 ---
@@ -16,6 +16,6 @@ keywords: learning2rank
 | Bio | Efficient counting of k-mers in DNA sequences using a Bloom filter. Melsted P, Pritchard JK. BMC Bioinformatics. 2011 | [PDF]() |  |
 | Bio | Fast String Kernels using Inexact Matching for Protein Sequence, JMLR 2004 | [PDF]() |  |
 | Bio | NIPS09: Locality-Sensitive Binary Codes from Shift-Invariant Kernels | [PDF]() |  |
-| Temporal | Segmenting Time Series: A Survey and Novel Approach, | [PDF](http://www.ics.uci.edu/~pazzani/Publications/survey.pdf) |  |
+| MedSignal | Segmenting Time Series: A Survey and Novel Approach, | [PDF](http://www.ics.uci.edu/~pazzani/Publications/survey.pdf) |  |
 
 

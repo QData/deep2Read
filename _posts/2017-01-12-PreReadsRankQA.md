@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Structures16- Reads we finished in 2016 Team Meetings 
+title: Structures16- Basic DNN Embedding for Ranking/QA/NLP
 desc: 2017-team
 tags:
 - 2Structures
 categories: 2017Reads
 keywords: learning2rank 
 ---
+
 
 | Presenter | Papers | Paper URL| OurPresentation |
 | -----: | ---------------------------: | :----- | :----- |

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Readings ByTag
-desc: "Deep Learning Readings Organized by Tags"
+desc: "Deep Learning Readings Organized by Tags (2017 to Now)"
 order: 11
 ---
 <p><a name="topPage"></a></p>

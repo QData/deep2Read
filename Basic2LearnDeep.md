@@ -753,7 +753,7 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<div style="position: fixed; bottom: 100px; right:10px; width: 118px; height: 200px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 110px; right:10px; width: 118px; height: 200px; background-color: #FFCF79;">
 <a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Courses</a>
 <a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:Basics</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>

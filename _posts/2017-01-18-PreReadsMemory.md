@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structures16- Reads we finished in 2016 Team Meetings 
+title: Structures16- Basic Deep NN with Memory 
 desc: 2017-team
 tags:
 - 2Structures

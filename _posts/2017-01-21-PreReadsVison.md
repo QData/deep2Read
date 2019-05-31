@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structures16- Reads we finished in 2016 Team Meetings 
+title: Structures16- Basic DNN Reads for Vision we finished in 2016 Team Meetings 
 desc: 2017-team
 tags:
 - 2Structures
