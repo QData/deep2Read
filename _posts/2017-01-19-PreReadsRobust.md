@@ -12,7 +12,7 @@ keywords: learning2rank
 
 | Presenter | Papers | Paper URL| OurPresentation |
 | -----: | ---------------------------: | :----- | :----- |
-| AE |Intriguing properties of neural networks /  | [PDF]() |  |
-| AE | Explaining and Harnessing Adversarial Examples | [PDF]() |  |
+| AE |Intriguing properties of neural networks /  | [PDF](https://arxiv.org/abs/1312.6199) |  |
+| AE | Explaining and Harnessing Adversarial Examples | [PDF](https://arxiv.org/abs/1412.6572) |  |
 | Understand | Understanding Black-box Predictions via Influence Functions | [PDF](https://arxiv.org/abs/1703.04730) |  |
-| Train | Curriculum learning [PDF](https://dl.acm.org/citation.cfm?id=1553380) |  | 
+| Understand | Deep inside convolutional networks: Visualising image classification models and saliency maps | [PDF](https://arxiv.org/abs/1312.6034) |  |
