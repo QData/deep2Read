@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robust16- Basic Deep NN and Robustness 
+title: Basic16- Basic Deep NN and Robustness 
 desc: 2017-team
 tags:
 - 3Reliable

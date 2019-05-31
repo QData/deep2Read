@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structures16- Basic Deep NN with Memory 
+title: Basic16- Basic Deep NN with Memory we finished before 2017 
 desc: 2017-team
 tags:
 - 2Structures

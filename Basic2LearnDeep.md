@@ -84,15 +84,6 @@ order: 25
 
 
 <tr>
- <td>&check;DeepBasic</td>
-  <td>the list of video lectures related to DEEP Learning we have learned before </td>
-  <td><a href="http://www.cs.virginia.edu/yanjun/list2LearnLearning.htm#deep" target="_blank">(ListVideo)</a></td>
-  <td>2015-16</td>
- </tr>
-
-
-
-<tr>
   <td>&check;Deep</td>
     <td>DeepLearningSummerSchool12: Yann LeCun (New York University), Deep Learning, Graphical Models, Energy-Based Models, Structured Prediction (Part1 - deepNN supervised) </td>
      <td>  <a href="http://helper.ipam.ucla.edu/wowzavideo.aspx?vfn=10745_240.mp4&vfd=gss2012" target="_blank">(Video)</a> <b>+</b>
@@ -251,17 +242,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
-<tr>
-  <td>&check;Deep</td>
-  <td>DLSS15:  Ian Goodfellow: Deep  Adversarial Examples
-</td>
-  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_adversarial_examples/" target="_blank">(Video)
-  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983671/deeplearning2015_goodfellow_adversarial_examples_01.pdf" target="_blank">(Slide)
-  </a>  </td>
-  <td>2015</td>
- </tr>
-
-
 
 
 
@@ -371,6 +351,18 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <tr>
+  <td>&check;Deep</td>
+  <td>DLSS15:  Ian Goodfellow: Deep  Adversarial Examples
+</td>
+  <td> <a href="http://videolectures.net/deeplearning2015_goodfellow_adversarial_examples/" target="_blank">(Video)
+  </a> <b>+ </b> <a href="http://videolectures.net/site/normal_dl/tag=983671/deeplearning2015_goodfellow_adversarial_examples_01.pdf" target="_blank">(Slide)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
+
+
+<tr>
   <td>&check;GAN</td>
   <td>Paper:  Generative Adversarial Networks / Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
  </td>
@@ -427,6 +419,19 @@ An Informal Mathematical Tour of Feature Learning </td>
       <a href="http://videolectures.net/site/normal_dl/tag=1051862/deeplearning2016_mohamed_generative_models_01.pdf"  target="_blank">(PDFslide)</a> </td>
   <td>2016</td>
 </tr>
+
+
+<tr>
+  <td>&check;Deep</td>
+    <td>Paper: A Neural Algorithm of Artistic Style 
+    </td>
+     <td>
+      <a href="https://arxiv.org/abs/1508.06576" target="_blank">(Arxiv)</a> <b>+</b>
+      <a href="https://github.com/Kautenja/a-neural-algorithm-of-artistic-style"  target="_blank">(Github)</a> </td>
+  <td>2016</td>
+</tr>
+
+
 
 
  <tr>
