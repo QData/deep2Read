@@ -20,8 +20,8 @@ order: 25
 
 <font face="Arial,Helvetica">
 <ul>
-<li><a href="#deep0">Topic I: Deep Learning Intro Courses </a> </li>
-<li><a href="#deepBasic">Topic II: Deep Learning Basics and Benchmarking </a> </li>
+<li><a href="#deep0">Topic I: Deep Learning Basics </a> </li>
+<li><a href="#deepBasic">Topic II: Deep Learning Scale-Up and Benchmarking </a> </li>
 <li><a href="#deepSec">Topic III: Basics of Adversarial / Deep Generative Models </a> </li>
 <li><a href="#deepStr">Topic IV: Basic Variations (Structures/Training/...) of Deep Models </a> </li>
 <li><a href="#deepOpt">Topic V: Basic Optimization for Deep Learning  </a> </li>
@@ -39,7 +39,7 @@ order: 25
 
 <!---  course basics -->
 
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic I: Deep Learning Basic Courses </b></h3> </td> </tr>
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deep0"></a><h3><b>Topic I: Deep Learning Basics </b></h3> </td> </tr>
 <tr>
  <h3><b>
   <th>Tag</th>
@@ -69,17 +69,6 @@ order: 25
 
 
 <!---  deep basics -->
-
-
-<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deepBasic"></a><h3><b>Topic II: Deep Learning Basics</b></h3> </td> </tr>
-<tr>
- <h3><b>
-  <th>Tag</th>
-  <th>Title and Information</th>
-  <th>URLs (Paper/Video/Slide) </th>
-  <th>Year</th>
-  </b></h3>
-</tr>
 
 
 
@@ -155,14 +144,6 @@ order: 25
     <td>Geoffry Hinton: Learning Energy-Based Models of High-Dimensional Data </td>
      <td>  <a href="https://vimeo.com/52516280" target="_blank">(Video)</a> <b>+</b> <a href="http://www.cs.toronto.edu/~hinton/talks/EBMtalk.ppt" target="_blank">(PDFslide)</a></td>
   <td>2012</td>
-</tr>
-
-<tr>
-  <td>&check;DeepScaling</td>
-    <td>KDD14:  Yoshua Bengio, Scaling Up Deep Learning </td>
-    <td>  <a href="http://videolectures.net/kdd2014_bengio_deep_learning/" target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=894697/kdd2014_bengio_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2014</td>
 </tr>
 
 
@@ -242,6 +223,20 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
+<tr>
+  <td>&check;App</td>
+  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared</td>
+  <td>
+  <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) </a>
+  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)  </a>
+  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
+  </a>
+  <b>+ </b>
+  <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
+  </a>  </td>
+  <td>2015</td>
+ </tr>
+
 
 
 
@@ -256,6 +251,38 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 
+
+
+<tr> <td align="center" bgcolor="#CFF04B" colspan="4"><a name="deepBasic"></a><h3><b>Topic II: Deep Learning Scaling and Benchmarking</b></h3> </td> </tr>
+<tr>
+ <h3><b>
+  <th>Tag</th>
+  <th>Title and Information</th>
+  <th>URLs (Paper/Video/Slide) </th>
+  <th>Year</th>
+  </b></h3>
+</tr>
+
+
+<tr>
+  <td>&check;DeepScaling</td>
+    <td>KDD14:  Yoshua Bengio, Scaling Up Deep Learning </td>
+    <td>  <a href="http://videolectures.net/kdd2014_bengio_deep_learning/" target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=894697/kdd2014_bengio_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2014</td>
+</tr>
+
+
+
+<tr>
+  <td>&check;Tools</td>
+    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
+     <td>
+      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
+      target="_blank">(Video)</a> <b>+</b>
+      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
+  <td>2016</td>
+</tr>
 
 
 
@@ -277,16 +304,6 @@ An Informal Mathematical Tour of Feature Learning </td>
 </tr>
 
 
-
-<tr>
-  <td>&check;Tools</td>
-    <td>DeepLearningSummerSchool16: Jeffrey Dean, Google, Inc. : Large Scale Deep Learning with TensorFlow </td>
-     <td>
-      <a href="http://videolectures.net/deeplearning2016_dean_deep_learning/"
-      target="_blank">(Video)</a> <b>+</b>
-      <a href="http://videolectures.net/site/normal_dl/tag=1051684/deeplearning2016_dean_deep_learning.pdf"  target="_blank">(PDFslide)</a> </td>
-  <td>2016</td>
-</tr>
 
 
 <tr>
@@ -319,18 +336,24 @@ An Informal Mathematical Tour of Feature Learning </td>
   <td>2016</td>
 </tr>
 
+
 <tr>
-  <td>&check;App</td>
-  <td>DLSS15: Christopher Manning: NLP and Deep Learning 2: Compositional Deep Learning;<br> Graham Taylor, Deep Learning to compared</td>
-  <td>
-  <a href="http://videolectures.net/deeplearning2015_manning_language_vectors/" target="_blank">(Video1) </a>
-  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/" target="_blank">(Video2)  </a>
-  <a href="http://videolectures.net/deeplearning2015_manning_deep_learning/deeplearning2015_manning_deep_learning_01.pdf" target="_blank">(Slide)
-  </a>
-  <b>+ </b>
-  <a href="http://videolectures.net/deeplearning2015_taylor_learning_compare/" target="_blank">(VideoLearn2Compare)
-  </a>  </td>
-  <td>2015</td>
+ <td>&check;BasicLarge</td>
+  <td>Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning </td>
+  <td><a href="http://www.sanjivk.com/EECS6898/Intro_compressed.pdf" target="_blank">(PDFSlide)</a></td>
+  <td>2010</td>
+ </tr>
+<tr>
+ <td>&check;BasicLarge</td>
+  <td> Alex Smola - Berkeley SML: Scalable Machine Learning:  Syllabus </td>
+  <td><a href="http://alex.smola.org/teaching/berkeley2012/syllabus.html" target="_blank">(SyllabusURL)</a></td>
+  <td>2012</td>
+ </tr>
+<tr>
+ <td>&check;BasicLarge</td>
+  <td>William Cohen - CMU Machine Learning with Large Datasets 10-605: Syllabus </td>
+  <td><a href="http://curtis.ml.cmu.edu/w/courses/index.php/Syllabus_for_Machine_Learning_with_Large_Datasets_10-605_in_Spring_2014" target="_blank">(SyllabusURL)</a></td>
+  <td>2014</td>
  </tr>
 
 
@@ -759,8 +782,8 @@ An Informal Mathematical Tour of Feature Learning </td>
 
 
 <div style="position: fixed; bottom: 110px; right:10px; width: 118px; height: 200px; background-color: #FFCF79;">
-<a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Courses</a>
-<a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:Basics</a>
+<a style="position: fixed; bottom:155px; right:10px;" href="#deep0">I:Basics</a>
+<a style="position: fixed; bottom:180px; right:10px;" href="#deepBasic">II:ScaleUp</a>
 <a style="position: fixed; bottom:205px; right:10px;" href="#deepSec">III:Generative</a>
 <a style="position: fixed; bottom:230px; right:10px;" href="#deepStr">IV:Structure</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#deepOpt">V:Optim</a>

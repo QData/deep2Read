@@ -6,7 +6,7 @@ tags:
 - 2Structures
 - 9MedApp
 categories: 2017Reads
-keywords: learning2rank 
+keywords: basic,QA 
 ---
 
 

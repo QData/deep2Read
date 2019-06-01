@@ -106,6 +106,7 @@ order: 28
   <h3><b>Topic I: Basics of Large-Scale Machine Learning Topics</b></h3> 
 </td> 
 </tr>
+
 <tr>
  <td>&check;BasicLarge</td>
   <td>Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning </td>

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Basic16- BioMed Application Reads we finished before 2017 
+title: Basic BioMed Application Reads we finished before 2017 
 desc: 2017-team
 tags:
 - 9MedApp
 categories: 2017Reads
-keywords: learning2rank 
+keywords: basic 
 ---
 
 
