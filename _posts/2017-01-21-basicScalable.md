@@ -8,7 +8,7 @@ categories: 2017Reads
 ---
 
 | Presenter | Papers | Paper URL|  Our Slides |
-| -----: | ---------------------------: | :----- | :----- |
+| -----: | -------------------------------------: | :----- | :----- |
 | Muthu |  Deep Compression: Compressing Deep Neural Networks (ICLR 2016) [^1]| [PDF](https://arxiv.org/abs/1510.00149) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-Compression.pdf) | 
 | BasicML | Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning 2010 | [PDF](http://www.sanjivk.com/EECS6898/Intro_compressed.pdf) | | 
 

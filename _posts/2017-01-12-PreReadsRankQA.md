@@ -11,7 +11,7 @@ keywords: basic,QA
 
 
 | Presenter | Papers | Paper URL| Our Slides |
-| -----: | ---------------------------: | :----- | :----- |
+| -----: | -------------------------------------: | :----- | :----- |
 | Relation | Translating embeddings for modeling multi-relational data | [PDF](http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-rela) | |
 | Relation | A semantic matching energy function for learning with multi-relational data | [PDF](https://link.springer.com/article/10.1007/s10994-013-5363-6)  |   |
 | QA | Learning to rank with (a lot of) word features | [PDF](http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf) |  |

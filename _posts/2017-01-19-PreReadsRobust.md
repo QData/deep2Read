@@ -11,7 +11,7 @@ keywords: basic, robust
 
 
 | Presenter | Papers | Paper URL| Our Slides |
-| -----: | ---------------------------: | :----- | :----- |
+| -----: | -------------------------------------: | :----- | :----- |
 | AE |Intriguing properties of neural networks /  | [PDF](https://arxiv.org/abs/1312.6199) |  |
 | AE | Explaining and Harnessing Adversarial Examples | [PDF](https://arxiv.org/abs/1412.6572) |  |
 | Understand | Understanding Black-box Predictions via Influence Functions | [PDF](https://arxiv.org/abs/1703.04730) |  |
