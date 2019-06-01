@@ -9,7 +9,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 |  Arshdeep| Constrained Graph Variational Autoencoders for Molecule Design  | [PDF](https://arxiv.org/abs/1805.09076) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh18-CVAEgraph.pdf) | 
 | Arshdeep | Learning Deep Generative Models of Graphs | [PDF](https://arxiv.org/abs/1803.03324) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh18-DGenerateGraph.pdf) | 

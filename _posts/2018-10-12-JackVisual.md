@@ -8,7 +8,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 |  Jack| A Unified Approach to Interpreting Model Predictions | [PDF](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) |  [PDF]({{site.baseurl}}/MoreTalksTeam/20181026-Jack-UnifiedApproachInterpretingModelPredictions.pdf) |
 |  Jack| "Why Should I Trust You?": Explaining the Predictions of Any Classifier | [PDF](https://arxiv.org/abs/1602.04938) |  [PDF]({{site.baseurl}}/MoreTalksTeam/20181026-Jack-WhyShouldITrustYou.pdf) | 

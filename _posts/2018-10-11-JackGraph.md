@@ -9,7 +9,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 |  Arshdeep| Relational inductive biases, deep learning, and graph networks  | [PDF](https://arxiv.org/abs/1806.01261) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh18-relationBias.pdf) | 
 |  Arshdeep|  Discriminative Embeddings of Latent Variable Models for Structured Data | [PDF](https://arxiv.org/abs/1603.05629) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh18-structure2vec.pdf) | 

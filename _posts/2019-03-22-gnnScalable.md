@@ -21,8 +21,3 @@ tricks: generative, GAN, generate-graph, generate-text
 | Scalable | LanczosNet: Multi-Scale Deep Graph Convolutional Networks  | [Pdf](https://openreview.net/forum?id=BkedznAqKQ) | Ryan [Pdf]() | Arshdeep [Pdf]() |
 | Scalable | Dynamic Scheduling For Dynamic Control Flow in Deep Learning Systems   | [PDF](http://www.cs.cmu.edu/~jinlianw/papers/dynamic_scheduling_nips18_sysml.pdf) |  |  
 | Scalable |   Cavs: An Efficient Runtime System for Dynamic Neural Networks    [Pdf](https://www.usenix.org/system/files/conference/atc18/atc18-xu-shizhen.pdf) | &#9745; Derrick | |
-| Edge |  MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications | [PDF]()   | Ryan | 
-| Edge | XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks | [PDF]()   | &#9745;  Ryan  | 
-| Edge | DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices  | [Pdf](https://ix.cs.uoregon.edu/~jiao/papers/ipsn16.pdf) | Eamon [Pdf]() | Derrick [Pdf]() | 
-| Edge |  Loss-aware Binarization of Deep Networks, ICLR17 | [PDF](https://arxiv.org/abs/1611.01600)   | Ryan [Pdf]() | Derrick [Pdf]() | 
-| Edge |  Espresso: Efficient Forward Propagation for Binary Deep Neural Networks    | [Pdf](https://arxiv.org/abs/1705.07175) | Eamon [Pdf]() | Derrick [Pdf]() | 

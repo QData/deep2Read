@@ -8,7 +8,7 @@ categories: 2017Reads
 ---
 
 
-| Presenter | Papers | Paper URL| OurPresentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 | GaoJi |  A few useful things to know about machine learning | [PDF](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/17Ji_MachineLearning.pdf) | 
 | GaoJi | A few papers related to testing learning, e.g., Understanding Black-box Predictions via Influence Functions  | [PDF](https://arxiv.org/abs/1703.04730) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/17Ji_AfewPapersTestML.pdf) | 

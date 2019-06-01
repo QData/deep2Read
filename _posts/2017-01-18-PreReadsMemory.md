@@ -9,7 +9,7 @@ keywords: basic, memory,
 ---
 
 
-| Presenter | Papers | Paper URL| OurPresentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 | Memory | End-To-End Memory Networks  | [PDF](https://arxiv.org/abs/1503.08895) |  |
 | Memory | Neural Turing Machines | [PDF](https://arxiv.org/abs/1410.5401) |  |

@@ -7,7 +7,7 @@ tags:
 categories: 2018Reads
 ---
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 |  Arshdeep| The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, Chris J. Maddison, Andriy Mnih, Yee Whye Teh [^1] | [PDF](https://arxiv.org/abs/1611.00712) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/DEEP-07162018-Gumbel-Softmax.pdf) | 
 | Arshdeep | Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions [^2] | [PDF](https://arxiv.org/abs/1804.01694) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/GAN-07132018-FBGAN.pdf) | 

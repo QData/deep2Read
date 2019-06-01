@@ -10,7 +10,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 | Arshdeep |  DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning.  | [PDF](https://www.ncbi.nlm.nih.gov/pubmed/30035154) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BRAIN-07242018-BlogPostsDeepLesionChestXRay.pdf) | 
 | Arshdeep | Solving the RNA design problem with reinforcement learning, PLOSCB  [^1] | [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006176) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-06292018-RNAReinforcement.pdf) | 

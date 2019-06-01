@@ -8,7 +8,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 | Jennifer |  Adversarial Attacks Against Medical Deep Learning Systems | [PDF](https://arxiv.org/abs/1804.05296)  |  [PDF]({{site.baseurl}}/MoreTalksTeam/Jennifer18-AdversarialAttacksAgainstMedicalDeepLearningSystems.pdf) | 
 | Jennifer |  Adversarial-Playground: A Visualization Suite Showing How Adversarial Examples Fool Deep Learning | [PDF](https://arxiv.org/abs/1708.00807) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Jennifer18-AdversarialPlayground.pdf) | 

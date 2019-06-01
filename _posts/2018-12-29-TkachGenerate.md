@@ -9,7 +9,7 @@ categories: 2018Reads
 ---
 
 
-| Presenter | Papers | Paper URL| Our Presentation |
+| Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
 |  Tkach| Boundary-Seeking Generative Adversarial Networks  | [PDF](https://arxiv.org/abs/1702.08431) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-BGAN-201809.pdf) | 
 | Tkach | Maximum-Likelihood Augmented Discrete Generative Adversarial Networks | [PDF](https://arxiv.org/abs/1702.07983) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-MAliGAN-201901.pdf) | 
