@@ -3,7 +3,7 @@ layout: post
 title: Basic BioMed Application Reads we finished before 2017 
 desc: 2017-team
 tags:
-- 9MedApp
+- 9DiscreteApp
 categories: 2017Reads
 keywords: basic 
 ---

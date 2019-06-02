@@ -5,7 +5,7 @@ desc: 2018-team
 tags:
 - 3Reliable
 - 6Reinforcement
-- 9MedApp
+- 9DiscreteApp
 categories: 2018Reads
 ---
 
