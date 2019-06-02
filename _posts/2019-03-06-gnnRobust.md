@@ -8,8 +8,8 @@ tags:
 tricks: permutation-invariant, scalable, GNN
 ---
 
-| Index | Papers Info | Paper URL| Our Summary Slide |Our Scribe Note |
-| -----: | -------------------------------: | :----- | :----- | :----- | 
+| Presenter | Papers | Paper URL| Our Slides |
+| -----: | -------------------------------------: | :----- | :----- |
 | Robust | Adversarial Attacks on Graph Structured Data  | [Pdf](https://arxiv.org/abs/1806.02371) | Faizan [Pdf]() | GaoJi [Pdf]() | 
 | Robust |   KDD’18 Adversarial Attacks on Neural Networks for Graph Data  | [Pdf](https://www.kdd.org/kdd2018/accepted-papers/view/adversarial-attacks-on-neural-networks-for-graph-data) | Faizan [Pdf]() | GaoJi [Pdf]()|
 | Robust |   Attacking Binarized Neural Networks    | [Pdf](https://openreview.net/forum?id=HkTEFfZRb) | Faizan [Pdf]() | GaoJi [Pdf]() | 

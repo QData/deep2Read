@@ -9,8 +9,8 @@ tricks: understand, attention
 ---
 
 
-| Index | Papers Info | Paper URL| Our Summary Slide |Our Scribe Note |
-| -----: | -------------------------------: | :----- | :----- | :----- | 
+| Presenter | Papers | Paper URL| Our Slides |
+| -----: | -------------------------------------: | :----- | :----- |
 | Understand |   Faithful and Customizable Explanations of Black Box Models    | [Pdf](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_143.pdf) | Derrick [Pdf]() |  | 
 | Understand |  A causal framework for explaining the predictions of black-box sequence-to-sequence models, EMNLP17     | [Pdf](https://arxiv.org/abs/1707.01943) | GaoJi [Pdf]() | Bill [Pdf]() | 
 | Understand |  How Powerful are Graph Neural Networks? / Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | [Pdf](https://arxiv.org/abs/1810.00826) + [Pdf](https://arxiv.org/abs/1801.07606) | GaoJi [Pdf]() | Jack [Pdf]() | 

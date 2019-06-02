@@ -10,8 +10,8 @@ tricks: generative, GAN, generate-graph, generate-text
 ---
 
 
-| Index | Papers Info | Paper URL| Our Summary Slide |Our Scribe Note |
-| -----: | -------------------------------: | :----- | :----- | :----- | 
+| Presenter | Papers | Paper URL| Our Slides |
+| -----: | -------------------------------------: | :----- | :----- |
 | Generate |  Junction Tree Variational Autoencoder for Molecular Graph Generation  | [Pdf](https://arxiv.org/abs/1802.04364) | Tkach [Pdf]() | Arshdeep [Pdf]() | 
 | Generate |  Maximum-Likelihood Augmented Discrete Generative Adversarial Networks  | [PDF](https://arxiv.org/abs/1702.07983) | Tkach [PDF]({{site.baseurl}}/MoreTalksTeam/Tkach-MAliGAN-201901.pdf) |  GaoJi [Pdf]() |
 | Generate |  Graphical Generative Adversarial Networks  |  [PDF](https://arxiv.org/abs/1804.03429)  |  Arshdeep [Pdf]() | Tkach [Pdf]() | 

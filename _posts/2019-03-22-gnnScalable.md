@@ -9,8 +9,8 @@ tags:
 tricks: generative, GAN, generate-graph, generate-text   
 ---
 
-| Index | Papers Info | Paper URL| Our Summary Slide |Our Scribe Note |
-| -----: | -------------------------------: | :----- | :----- | :----- | 
+| Presenter | Papers | Paper URL| Our Slides |
+| -----: | -------------------------------------: | :----- | :----- |
 | Scalable |  FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | [Pdf](https://arxiv.org/abs/1801.10247) | Ryan [Pdf]() | Arshdeep [Pdf]() | 
 | Scalable | MILE: A Multi-Level Framework for Scalable Graph Embedding  | [Pdf](https://arxiv.org/abs/1802.09612) | Ryan [Pdf]() | Derrick [Pdf]() |
 | Scalable | Hierarchical graph representation learning with differentiable pooling  | [PDF](https://arxiv.org/abs/1806.08804)   | Eamon [Pdf]() | Ryan [Pdf]() | 
