@@ -21,8 +21,11 @@ keywords: basic, robust
 | Data | Basic Survey of ImageNet - LSVRC competition | [URL](http://www.image-net.org/) | [PDF]({{site.baseurl}}/MoreTalksTeam/Jack/20160722ImageNet-LSVRC-2010-2015.pdf) | 
 | Understand | Understanding Black-box Predictions via Influence Functions | [PDF](https://arxiv.org/abs/1703.04730) |  |
 | Understand | Deep inside convolutional networks: Visualising image classification models and saliency maps | [PDF](https://arxiv.org/abs/1312.6034) |  |
-| Understand | BeenKim, Interpretable Machine Learning, ICML17 Tutorial | [PDF](https://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf) |  |
+| Understand | BeenKim, Interpretable Machine Learning, ICML17 Tutorial [^1]| [PDF](https://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf) |  |
 
+
+
+[^1] Notes about Interpretable Machine Learning
 
 #### Notes of Interpretability in Machine Learning from Been Kim Tutorial 
 by Brandon Liu

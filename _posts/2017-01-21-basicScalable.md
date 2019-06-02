@@ -10,15 +10,16 @@ categories: 2017Reads
 
 | Presenter | Papers | Paper URL|  Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
-| scalable ML | Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning 2010 [^1]| [PDF](http://www.sanjivk.com/EECS6898/) | |
-| scalable ML | Alex Smola - Berkeley SML: Scalable Machine Learning:  Syllabus 2012 [^2]  | [PDF 2014](http://alex.smola.org/teaching/berkeley2012/syllabus.html) + [PDF](http://alex.smola.org/teaching/aaai2014/AAAI2014.pdf)|  |
+|  scalable  | Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning 2010 [^1]| [PDF](http://www.sanjivk.com/EECS6898/) | |
+| data scalable | Alex Smola - Berkeley SML: Scalable Machine Learning:  Syllabus 2012 [^2]  | [PDF 2014](http://alex.smola.org/teaching/berkeley2012/syllabus.html) + [PDF](http://alex.smola.org/teaching/aaai2014/AAAI2014.pdf)|  |
 | Binary | Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 | | | 
-| Tobin | Binary embeddings with structured hashed projections [^3] | [PDF](https://arxiv.org/abs/1511.05212) | [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Tobin-BinaryEmbedding.pdf) |
-| Muthu |  Deep Compression: Compressing Deep Neural Networks (ICLR 2016) [^4s]| [PDF](https://arxiv.org/abs/1510.00149) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-Compression.pdf) | 
+| Model | Binary embeddings with structured hashed projections [^3] | [PDF](https://arxiv.org/abs/1511.05212) | [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Tobin-BinaryEmbedding.pdf) |
+| Model |  Deep Compression: Compressing Deep Neural Networks (ICLR 2016) [^4]| [PDF](https://arxiv.org/abs/1510.00149) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-Compression.pdf) | 
 
 
-[^1]: 
-### Syllabus
+[^1]:  Syllabus from Sanjiv Kuman Course 
+
+```
 + Randomized Algorithms
 + Matrix Approximations I (low-rank approximation, decomposition)
 + Matrix Approximations II (sparse matrices, matrix completion)
@@ -29,10 +30,12 @@ categories: 2017Reads
 + Kernel Methods II (fast testing)
 + Dimensionality Reduction (linear and nonlinear methods)
 + Sparse Methods/Streaming (sparse coding...)
+```
 
 
+[^2]:  Syllabus from Smola Course 
 
-[^2]: 
+
 ### SML: Systems
 + Hardware: Processor, RAM, buses, GPU, disk, SSD, network, switches, racks, server centers / Bandwidth, latency and faults
 + Basic parallelization paradigms:  Trees, stars, rings, queues / Hashing (consistent, proportional) / Distributed hash tables and P2P 
