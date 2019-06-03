@@ -17,7 +17,7 @@ categories: 2017Reads
 | Model |  Deep Compression: Compressing Deep Neural Networks (ICLR 2016) [^4]| [PDF](https://arxiv.org/abs/1510.00149) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-Compression.pdf) | 
 
 
-[^1]:  Syllabus from Sanjiv Kuman Course 
+####  Syllabus from Sanjiv Kuman Course 
 
 ```
 + Randomized Algorithms
@@ -33,22 +33,21 @@ categories: 2017Reads
 ```
 
 
-[^2]:  Syllabus from Smola Course 
+####  Syllabus from Smola Course 
 
-
-### SML: Systems
+###### SML: Systems
 + Hardware: Processor, RAM, buses, GPU, disk, SSD, network, switches, racks, server centers / Bandwidth, latency and faults
 + Basic parallelization paradigms:  Trees, stars, rings, queues / Hashing (consistent, proportional) / Distributed hash tables and P2P 
 + Storage: RAID / Google File System / HadoopFS / Distributed (key, value) storage
 + Processing:  MapReduce / Dryad / S4 / stream processing
 + Structured access beyond SQL:  BigTable / Cassandra
 
-### SML: Data Streams
+###### SML: Data Streams
 + Random subsets: Hash functions / Approximate moments / Alon-Matias-Szegedy sketch
 + Heavy hitter detection: Lossy counting / Space saving
 + Randomized statistics: Flajolet counter / Bloom filter and logarithmic randomized techniques / CountMin sketch
 
-### SML: optimization: 
+###### SML: optimization: 
 + Batch methods:  Distributed subgradient / Bundle methods
 + Online methods: Unconstrained subgradient / Gradient projections / Parallel optimization
 + Efficient Kernel algorithms: Dual space (using α) / Reduced dimensionality (low rank expanions) / Function space (using fast Kα) / Primal space (hashing & random kitchen sinks)
