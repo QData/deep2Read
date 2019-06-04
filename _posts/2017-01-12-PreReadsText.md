@@ -22,3 +22,4 @@ keywords: basic,discrete
 | NLP | Natural Language Processing (almost) from Scratch | [PDF](https://arxiv.org/abs/1103.0398) |  |
 | Train | Curriculum learning [PDF](https://dl.acm.org/citation.cfm?id=1553380) |  | 
 | Muthu | NeuroIPS Embedding Papers survey 2012 to 2015| [NIPS](https://papers.nips.cc/) | [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-NIPSEmbedding12to15.pdf) |
+| Basics  | Efficient BackProp | [PDF](https://cseweb.ucsd.edu/classes/wi08/cse253/Handouts/lecun-98b.pdf) | |   
