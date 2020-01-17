@@ -41,6 +41,7 @@ Besides using high-level categories, we also use the following detailed tags to 
   {% if newtag  != "" %}
 
   {% assign tcounter=tcounter | plus:1 %}
+
 <a name="{{newtag }}"></a>
 <h1>[{{ tcounter }}]: <a class="internal" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{newtag }}">{{ newtag }}</a></h1>
 
@@ -111,7 +112,9 @@ Besides using high-level categories, we also use the following detailed tags to 
       {% endfor %}  
     {% endif %}
 
-   {{ post.content }} 
+<!--   {{ post.content }}  -->
+    <div>Please click above post URL for its content details.</div>
+
   </div>
 
 {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: deep2reproduce 2019 Fall - 1Analysis papers 
-desc: 2019-fall Students deep2reproduce Course Project
+desc: 2019-fall Students deep2reproduce 
 term: 2019fCourse
 categories:
 - 1Theoretical
