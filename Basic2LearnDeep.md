@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Basics
+title: Deep Learning Basics
 desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
 order: "18"
 ---
