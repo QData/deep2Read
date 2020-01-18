@@ -13,6 +13,7 @@ order: "18"
 
 ## The List of deep learning tutorials we have read for Learning deep learning  
 
+> Last Edit of this page: Jan 2018. 
 
 
 <!--<h1>Sections of Our Learning MachineLearning Topics</h1>-->
