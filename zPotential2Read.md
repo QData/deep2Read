@@ -9,16 +9,30 @@ order: "88"
 
 <p><a name="topPage"></a></p>
 
+
+## About this potential to read list :
+
++ To educate my students in class, new members of my team with basic tutorials, and to help existing members understand advanced topics. This website includes a (growing) list of tutorials and papers we survey for such a purpose.
+
++ At the beginning of each semester, I collect a messy list of potential readings and put them here. Then my students will choose papers they want to review (mostly from this list) and we make a plan for that semester's reading session schedule. 
+
++ In summary,  this is a messy list, only for planning and filtering purposes.
+
+
+
+<br>
+
+
 <font face="Arial,Helvetica">
 <ul>
-<li><a href="#Foud">Topic I: Foundations </a> </li>
+<li><a href="#Foud">Topic I: Foundations, Analysis and Theory </a> </li>
 <li><a href="#Stru">Topic II: DNN with Varying Structures</a> </li>
 <li><a href="#App">Topic III: Reliable and Benchmarking and Applications </a> </li>
 <li><a href="#Opt">Topic IV: Optimization </a> </li>
 <li><a href="#Gen">Topic V: Generative  </a> </li>
 <li><a href="#RL">Topic VI: Reinforcement </a> </li>
 <li><a href="#Graphs">Topic VII: Graphs </a> </li>
-<li><a href="#Learn">Topic VIII: Recent Learning Strategies </a> </li>
+<li><a href="#Learn">Topic VIII: 2019 Learning Strategies </a> </li>
 </ul>
 </font>
 
@@ -699,5 +713,7 @@ and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
 <a style="position: fixed; bottom:230px; right:10px;" href="#Gen">V: Generative</a>
 <a style="position: fixed; bottom:255px; right:10px;" href="#RL">VI: RL</a>
 <a style="position: fixed; bottom:280px; right:10px;" href="#Graphs">VII: Graphs</a>
+<a style="position: fixed; bottom:300px; right:10px;" href="#Learn">VIII: Analysis</a>
+
 <a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
 </div>
