@@ -2,7 +2,7 @@
 layout: page
 title: Deep Learning Basics
 desc: "Basic Readings of Deep Learning We Finished Before 2017-Fall"
-order: "18"
+order: "9d"
 ---
 
 <p><a name="topPage"></a></p>

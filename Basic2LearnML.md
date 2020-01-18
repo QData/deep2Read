@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning Basics
 desc: "Basic Readings of Machine Learning We Finished Before 2016-Fall"
-order: "19"
+order: "9z"
 ---
 
 

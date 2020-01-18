@@ -17,9 +17,6 @@ when you find my typos or have comments. The covered materials are by no means a
 
 --- 
 
-
-<hr>
-
 ## About this website:
 
 + As a group, we need to improve our knowledge of the fast-growing field of deep learning
@@ -28,11 +25,28 @@ when you find my typos or have comments. The covered materials are by no means a
 + We hope this website is helpful to people who share similar research interests or are interested with learning advanced topics about deep learning.
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
 
+---
+
+## About the Sidebar and how we group the readings 
+
++ Until Dec. 2019, we have shared reviewes slides of about 300 deep learning papers via this web site. 
+
++ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session includes multiple deep learning papers we reviewed. Their survey slides we made is summarized as blog posts in this website. Each post summarizes one of our reading session. 
+
++ Due to the large number of slides, we try to organize them according to three different variables. They each maps to one item in this website's side bar. 
+
++ ByCategory: 0Basics, 1Theoretical, 2Architecture, 2Graphs, 3Reliable, 4Optimization, 5Generative, 6Reinforcement, 7MetaDomain, 8Scalable, 9DiscreteApp . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) 
+
++ ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
+
++ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students navigate, we also group them according to when the slides were  delivered as a talk in our seminar courses or reading club. Please check out our readings sorted by the semester they were made via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
+
+
+<hr>
+
 
 ## Claim 
 + The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn in our seminar courses and reading groups.
-
-
 
 
 <hr>

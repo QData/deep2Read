@@ -31,7 +31,7 @@ layout: default
 {% assign counter = 1 %}
 {% assign sortedp = site.posts  | sort: 'date' %}
 {% for post in sortedp %}
-  {% if page.title == post.term  %}
+  {% if post.categories contains page.title %}
 
   <tr>
   <td>{{ counter }}</td>
@@ -49,7 +49,7 @@ layout: default
 
   {% assign sortedp = site.posts  | sort: 'date' %}
   {% for post in sortedp  %}
-    {% if post.term == page.title %}
+    {% if post.categories contains page.title %}
 
     <div class="post">
       <h1 class="post-title">
@@ -58,21 +58,31 @@ layout: default
         </a>
       </h1>
 
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% if post.date %}
+     <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> 
+    {% endif %}
 
-   {% if post.categories %}
+
+    {% if post.categories %}
       {% for word in post.categories %}
         <a class="button" href="{{ site.baseurl }}/aReadingsIndexByCategory/#{{word | replace:" ","-" }}"> {{ word }}</a> 
       {% endfor %}  
     {% endif %}
-   {% if post.tags %}
+
+    {% if post.tags %}
       {% for word in post.tags %}
         {% assign wordd = word | downcase %}        
         <a class="button" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{wordd | replace:" ","-" }}"> {{ word }}</a> 
       {% endfor %}  
     {% endif %}
 
+    {% if post.content contains '<!--excerpt.start-->'  %}
+      {{   post.content | split:'<!--excerpt.start-->' | first  }}
+    {% else %}
       {{ post.content }}
+    {% endif %}
+
+
     </div>
 
     {% endif %}

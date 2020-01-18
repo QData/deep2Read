@@ -2,7 +2,7 @@
 layout: page
 title: Readings ByCategory
 desc: "Deep Learning Readings Organized by Category (2017 to Now)"
-order: "9a"
+order: "12"
 ---
 <p><a name="topPage"></a></p>
 
@@ -75,7 +75,8 @@ Click on a category to see relevant list of readings.
      <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> 
   {% endif %}
 
-    {% if post.tags %}
+   {% if post.tags %}
+ 
      {% for word in post.tags %}
         {% assign wordd = word | downcase %}        
         <a class="button" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{wordd | replace:" ","-" }}"> {{ word }}</a> 
