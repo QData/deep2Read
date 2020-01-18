@@ -14,7 +14,8 @@ when you find my typos or have comments. The covered materials are by no means a
 
 
 <br>
-<hr>
+
+--- 
 
 
 <hr>
@@ -26,7 +27,11 @@ when you find my typos or have comments. The covered materials are by no means a
 + This website includes a (growing) list of tutorials and papers we survey for such a purpose.
 + We hope this website is helpful to people who share similar research interests or are interested with learning advanced topics about deep learning.
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
-+ BTW: The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn in our reading group.
+
+
+## Claim 
++ The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn in our seminar courses and reading groups.
+
 
 
 
@@ -44,8 +49,10 @@ when you find my typos or have comments. The covered materials are by no means a
 
 ## History
 
-+ This website was started from two seminar courses I taught at UVA  in Fall 2017 and Spring 2019.
-+ This course offers opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
++ This website was started from two seminar courses I taught at UVA  in Fall 2017 and Spring 2019. Later I expand the content with my team reaing group
++ The seminar courses offer opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
++ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. 
+
 
 ### Instructor
 

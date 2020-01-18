@@ -56,12 +56,17 @@ Besides using high-level categories, we also use the following detailed tags to 
 <!--- for each tag, get a table of index -->
 
 <table id="datatab3" summary="Table of readings" border="1">
+
+| Presenter | Papers | Paper URL| Our Slides |
+
+
 <tr>
  <h3><b>
   <th>No.</th>
-  <th>Date</th>
-  <th>Title and Information</th>
-  <th>PaperYear</th>
+  <th>Presenter</th>
+  <th>Paper Title</th>
+  <th>Paper Information</th>
+  <th>Our Slides</th>
   </b>
   </h3>
 </tr>

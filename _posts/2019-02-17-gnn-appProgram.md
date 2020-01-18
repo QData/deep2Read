@@ -12,6 +12,7 @@ tags: [ embedding, program, heterogeneous ]
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
+<!--header-->
 | Program |   Neural network-based graph embedding for cross-platform binary code similarity detection  | [Pdf](https://openreview.net/forum?id=BJOFETxR-) + [Pdf](https://arxiv.org/abs/1708.06525)| Faizan [PDF]({{site.baseurl}}/talks2019/19sCourse/20190405-Faizan-BinaryCode.pdf)  + GaoJi [Pdf]({{site.baseurl}}/talks2019/19scribeNotes/20190405-GaoJi-Gemini.pdf) | 
 | Program |  Deep Program Reidentification: A Graph Neural Network Solution | [Pdf](https://arxiv.org/abs/1812.04064) | Weilin [PDF]({{site.baseurl}}/talks2019/19sCourse/20190222-Weilin-DeepReID.pdf)  | 
 | Program | Heterogeneous Graph Neural Networks for Malicious Account Detection  | [Pdf](https://dl.acm.org/citation.cfm?id=3272010) | Weilin [Pdf]({{site.baseurl}}/talks2019/19sCourse/20190315-Weilin-MaliciousAccountDetection.pdf)  | 

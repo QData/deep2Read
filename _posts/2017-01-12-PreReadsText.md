@@ -13,6 +13,7 @@ tags: [  embedding, text, BERT, seq2seq, attention, NLP, curriculum, BackProp, r
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
+<!--header-->
 | NLP | A Neural Probabilistic Language Model | [PDF](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)  | | 
 | Text | Bag of Tricks for Efficient Text Classification | [PDF](https://arxiv.org/abs/1607.01759) |  |
 | Text | Character-level Convolutional Networks for Text Classification | [PDF](https://papers.nips.cc/paper/5782-character-level-convolutional-networks-for-text-classification.pdf) | |

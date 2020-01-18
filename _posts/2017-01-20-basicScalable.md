@@ -12,11 +12,14 @@ tags: [  scalable, random, sparsity, binary, hash, compression, low-rank, distri
 
 | Presenter | Papers | Paper URL|  Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
+<!--header-->
 |  scalable  | Sanjiv Kumar (Columbia EECS 6898), Lecture: Introduction to large-scale machine learning 2010 [^1]| [PDF](http://www.sanjivk.com/EECS6898/) | |
 | data scalable | Alex Smola - Berkeley SML: Scalable Machine Learning:  Syllabus 2012 [^2]  | [PDF 2014](http://alex.smola.org/teaching/berkeley2012/syllabus.html) + [PDF](http://alex.smola.org/teaching/aaai2014/AAAI2014.pdf)|  |
 | Binary | Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 | | | 
 | Model | Binary embeddings with structured hashed projections [^3] | [PDF](https://arxiv.org/abs/1511.05212) | [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Tobin-BinaryEmbedding.pdf) |
 | Model |  Deep Compression: Compressing Deep Neural Networks (ICLR 2016) [^4]| [PDF](https://arxiv.org/abs/1510.00149) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Un17/Muthu-Compression.pdf) | 
+
+<!--excerpt.good-->
 
 
 ####  Syllabus from Sanjiv Kuman Course 

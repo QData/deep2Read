@@ -11,6 +11,7 @@ tags: [  visualizing, interpretable, Attribution, GAN, understanding]
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
+<!--header-->
 |  Jack| A Unified Approach to Interpreting Model Predictions | [PDF](https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions) |  [PDF]({{site.baseurl}}/MoreTalksTeam18/20181026-Jack-UnifiedApproachInterpretingModelPredictions.pdf) |
 |  Jack| "Why Should I Trust You?": Explaining the Predictions of Any Classifier | [PDF](https://arxiv.org/abs/1602.04938) |  [PDF]({{site.baseurl}}/MoreTalksTeam18/20181026-Jack-WhyShouldITrustYou.pdf) | 
 |  Jack| Visual Feature Attribution using Wasserstein GANs | [PDF](https://arxiv.org/abs/1711.08998) |  [PDF]({{site.baseurl}}/MoreTalksTeam18/20181030-Jack-VisualFeatureAttributionusingWassersteinGANs.pdf) | 

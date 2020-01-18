@@ -11,6 +11,7 @@ tags: [ generative, generalization, GAN, discrete, Amortized, Autoencoder, Varia
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
+<!--header-->
 |  Arshdeep| The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, Chris J. Maddison, Andriy Mnih, Yee Whye Teh [^1] | [PDF](https://arxiv.org/abs/1611.00712) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/DEEP-07162018-Gumbel-Softmax.pdf) | 
 | GaoJi | Summary Of Several Autoencoder models  | [PDF]() |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/JiAutoencoderNNs.pdf) | 
 | GaoJi | Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models, Jesse Engel, Matthew Hoffman, Adam Roberts [^3] | [PDF](https://arxiv.org/abs/1711.05772) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Ji/JIConditionalGEN.pdf) | 

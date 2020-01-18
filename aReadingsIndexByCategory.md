@@ -84,7 +84,14 @@ Click on a category to see relevant list of readings.
  
     {% endif %}
 
-    {{ post.content }}
+    {% if post.content contains '<!--excerpt.start-->'  %}
+      {{   post.content | split:'<!--excerpt.start-->' | first  }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+
+
+
   </div>
 
   {% endif %}

@@ -12,6 +12,7 @@ tags: [ generative, GAN, graph, NLP, graphical-model, discrete, RNN, robustness,
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
+<!--header-->
 | Generate |  Maximum-Likelihood Augmented Discrete Generative Adversarial Networks  | [PDF](https://arxiv.org/abs/1702.07983) | Tkach [PDF]({{site.baseurl}}/MoreTalksTeam18/Tkach-MAliGAN-201901.pdf) +  GaoJi [Pdf]({{site.baseurl}}/talks2019/19scribeNotes/20190222-GaoJi-MaliGAN.pdf) |
 | Generate |  Graphical Generative Adversarial Networks  |  [PDF](https://arxiv.org/abs/1804.03429)  |  Arshdeep [PDF]({{site.baseurl}}/talks2019/19sCourse/20190301-Arshdeep-GraphicalGAN.pdf)   | 
 | Generate |  GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML2018  |  [PDF](https://arxiv.org/abs/1802.08773)  |  Arshdeep [PDF]({{site.baseurl}}/talks2019/19sCourse/20190329-Arshdeep-GraphRNN.pdf)  | 
