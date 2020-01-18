@@ -15,7 +15,6 @@ tags: [ structured, CNN, RNN, loss  ]
 
 |Team INDEX     |Title  & Link  |  Tags |  Our Slide | 
 |------|----------------------------|----------|----------|
-<!--header-->
 |T5   | [Deep Structured Prediction with Nonlinear Output Transformations](https://arxiv.org/abs/1811.00539)| | structured | [OurSlide]({{filedir}}/T5_sc3hn_gz5hp_Deep_Structured_Prediction.pdf) 
 |T12   | [Large Margin Deep Networks for Classification](https://arxiv.org/abs/1803.05598)|  [OurSlide]({{filedir}}/T12_Sinha_Sanchitss7mu_largeMarginDNN.pdf) | large-margin |
 |T15   | [Wide Activation for Efficient and Accurate Image Super-Resolution](https://arxiv.org/abs/1808.08718)|  CNN | [OurSlide]({{filedir}}/T15_WideActivation_SISR_Skynet_JacobDineen_JD5ED__Wide_Activation.pdf) | 

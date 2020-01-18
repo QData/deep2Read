@@ -53,68 +53,31 @@ Besides using high-level categories, we also use the following detailed tags to 
     {% if t  == newtag %}
       {% assign posts = tag | last %}
 
-<!--- for each tag, get a table of index -->
+<!--- for each tag, present its posts in a big table -->
 
-<table id="datatab3" summary="Table of readings" border="1">
+### Table of readings
 
-| Presenter | Papers | Paper URL| Our Slides |
-
-
-<tr>
- <h3><b>
-  <th>No.</th>
-  <th>Presenter</th>
-  <th>Paper Title</th>
-  <th>Paper Information</th>
-  <th>Our Slides</th>
-  </b>
-  </h3>
-</tr>
-
-{% assign counter = 1 %}
-{% assign sortedp = posts  | sort: 'date' %}
-{% for post in sortedp %}
-  <tr>
-  <td>{{ counter }}</td>
-  <td><span class="date"> {{ post.date | date: "%Y, %-b, %-d "  }}</span></td>
-  <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
-  <td>{{ post.desc }}</td>
-  </tr>
-  {% assign counter=counter | plus:1 %}
-{% endfor %}
-</table>
-
-
-<!--- for each tag, present its posts in orders -->
+{% assign counter = 0 %}
 
 <div class="posts">
 
 {% assign sortedp = posts  | sort: 'date' %}
 {% for post in sortedp %}
 
-<hr>
+  {% assign counter=counter | plus:1 %}
+
   <div class="post">
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
 
-  {% if post.date %}
-     <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> 
-  {% endif %}
-
-  {% if post.categories %}
-      {% for word in post.categories %}
-        <a class="button" href="{{ site.baseurl }}/aReadingsIndexByCategory/#{{word | replace:" ","-" }}"> {{ word }}</a> 
-      {% endfor %}  
-    {% endif %}
-
-    {% if post.tags %}
+  <!--  
+  {% if post.tags %}
      {% for word in post.tags %}
         {% assign wordd = word | downcase %}        
         <a class="button" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{wordd | replace:" ","-" }}"> {{ word }}</a> 
       {% endfor %}  
+    {% endif %}
+  -->
+    {% if post.date %}
+     <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> 
     {% endif %}
 
     {% if post.content contains '<!--excerpt.start-->'  %}

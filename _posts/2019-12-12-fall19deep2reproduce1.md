@@ -15,7 +15,6 @@ tags: [ analysis, generalization, forgetting, training, optimization, subspace, 
 
 |Team INDEX     |Title  & Link  |  Tags |  Our Slide | 
 |------|----------------------------|----------|----------|
-<!--header-->
 |T2   | [Empirical Study of Example Forgetting During Deep Neural Network Learning](https://arxiv.org/abs/1812.05159)|  Sample Selection, forgetting |[OurSlide]({{filedir}}/T2-Pattarabanjird_Tanyaporn_Empirical_Study_of_Example_Forgetting_During_Deep_Neural_Network_Learning.pdf) | 
 |T9   | [How SGD Selects the Global Minima in over-parameterized Learning](https://papers.nips.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective)|  optimization | [OurSlide]({{filedir}}/T9_Bamrara_Rishabrb6xj_How_SGD_Selects_the_Global_Minima.pdf) | 
 |T10   | [ Escaping Saddles with Stochastic Gradients ](https://arxiv.org/abs/1803.05999)| optimization | [OurSlide]({{filedir}}/T10_kd4wa+dc9db+yl5nx+an2adv_ESCAPING_SADDLES.pdf) |  

@@ -16,5 +16,4 @@ tags: [ verification, RL ]
 
 |Team INDEX     |Title  & Link  |  Tags |  Our Slide | 
 |------|----------------------------|----------|----------|
-<!--header-->
 |T1   | [Safe Reinforcement Learning via Shielding](https://arxiv.org/abs/1708.08611)| RL, safety, verification| [OurSlide]({{filedir}}/T1_Hildebrandt_Carl_Safe_Reinforcement_Learning_via_Shielding.pdf) | 

@@ -12,7 +12,6 @@ tags: [ attention, relational, visualizing, geometric, DNA, protein, molecule]
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
-<!--header-->
 |  Bio |  KDEEP: Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks, 2018 [^2] |  [Pdf](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00650) | Eli [Pdf]({{site.baseurl}}/talks2019/19sCourse/20190315-Eli-Kdeep.pdf)  | 
 |  Bio |  Molecular geometry prediction using a deep generative graph neural network  | [Pdf](https://arxiv.org/abs/1904.00314) | Eli [Pdf]({{site.baseurl}}/talks2019/19sCourse/20190419-Eli-MolecularGeometryVAE.pdf)  |
 | Bio | Visualizing convolutional neural network protein-ligand scoring |  PDF() | Eli [PDF]({{site.baseurl}}/talks2019/Extra19s/EliVisualizeCNNProtein.pdf) | 

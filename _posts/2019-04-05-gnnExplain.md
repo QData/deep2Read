@@ -12,7 +12,6 @@ tags: [ Interpretable, black-box, casual, seq2seq, noise, knowledge-graph, atten
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
-<!--header-->
 | Understand |   Faithful and Customizable Explanations of Black Box Models    | [Pdf](http://www.aies-conference.com/wp-content/papers/main/AIES-19_paper_143.pdf) | Derrick [PDF]({{site.baseurl}}/talks2019/19sCourse/20190215-Derrick-Explainable-AI.pdf)  | 
 | Understand |  A causal framework for explaining the predictions of black-box sequence-to-sequence models, EMNLP17     | [Pdf](https://arxiv.org/abs/1707.01943) | GaoJi [PDF]({{site.baseurl}}/talks2019/19sCourse/20190301-Ji-Socrat.pdf) + Bill [Pdf]({{site.baseurl}}/talks2019/19scribeNotes/20190301-Bill-BlackboxSeq2Seq.pdf) | 
 | Understand |  How Powerful are Graph Neural Networks? / Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning | [Pdf](https://arxiv.org/abs/1810.00826) + [Pdf](https://arxiv.org/abs/1801.07606) | GaoJi [PDF]({{site.baseurl}}/talks2019/19sCourse/20190322-Ji-PowerfulGNN.pdf)  | 

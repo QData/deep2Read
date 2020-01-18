@@ -13,7 +13,6 @@ tags: [ brain, RNA, DNA, Genomics, generative]
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | ---------------------------: | :----- | :----- |
-<!--header-->
 | Arshdeep |  DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning.  | [PDF](https://www.ncbi.nlm.nih.gov/pubmed/30035154) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BRAIN-07242018-BlogPostsDeepLesionChestXRay.pdf) | 
 | Arshdeep | Solving the RNA design problem with reinforcement learning, PLOSCB  [^1] | [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006176) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-06292018-RNAReinforcement.pdf) | 
 | Arshdeep | Deep learning sequence-based ab initio prediction of variant effects on expression and disease risk [^2] | [PDF](https://www.nature.com/articles/s41588-018-0160-6) |  [PDF]({{site.baseurl}}/MoreTalksTeam/Arsh/BIO-07272018-AbinitioPrediction-SeqtoGeneExp.pdf) | 

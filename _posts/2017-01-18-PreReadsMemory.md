@@ -13,7 +13,6 @@ tags: [ memory, NTM, seq2seq, pointer, set, attention, meta-learning,  Few-Shot,
 
 | Presenter | Papers | Paper URL| Our Slides |
 | -----: | -------------------------------------: | :----- | :----- |
-<!--header-->
 | seq2seq | Sequence to Sequence Learning with Neural Networks  | [PDF](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural) |  |
 | Set | Pointer Networks  | [PDF](https://arxiv.org/abs/1506.03134) |  |
 | Set | Order Matters: Sequence to Sequence for Sets | [PDF](https://arxiv.org/abs/1511.06391) |  |

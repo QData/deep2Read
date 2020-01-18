@@ -15,7 +15,6 @@ tags: [ submodular, safety, adversarial-examples , robustness, model-as-sample, 
 
 |Team INDEX     |Title  & Link  |  Tags |  Our Slide | 
 |------|----------------------------|----------|----------|
-<!--header-->
 |T3  | [Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints](http://proceedings.mlr.press/v80/kazemi18a.html)| submodular, coreset, safety | [OurSlide]({{filedir}}/T3_Musti_Rohitrm3qg_Data_Summarization_with_Privacy_and_Fairness.pdf) | 
 |T6   | [Decision Boundary Analysis of Adversarial Examples](https://openreview.net/forum?id=BkpiPMbA-)|  adversarial-examples | [OurSlide]({{filedir}}/T6_Zhou_Xuguixz6cz_Decision_Boundary_Analysis_of_Adversarial_Example.pdf) | 
 |T8   | [Robustness may be at odds with accuracy](https://arxiv.org/abs/1805.12152)| robustness | [OurSlide]({{filedir}}/T8_Liu_Zetianzl4dc_Robustness_may_be_at_odds_with_accuracy.pdf) | 
