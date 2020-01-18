@@ -35,7 +35,8 @@ when you find my typos or have comments. The covered materials are by no means a
 
 + Due to the large number of slides, we try to organize them according to three different variables. They each maps to one item in this website's side bar. 
 
-+ ByCategory: 0Basics, 1Theoretical, 2Architecture, 2Graphs, 3Reliable, 4Optimization, 5Generative, 6Reinforcement, 7MetaDomain, 8Scalable, 9DiscreteApp . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) 
++ ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . We also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
+
 
 + ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
 
