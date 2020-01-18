@@ -20,7 +20,7 @@ when you find my typos or have comments. The covered materials are by no means a
 ## About this website:
 
 + As a group, we need to improve our knowledge of the fast-growing field of deep learning
-+ To educate new members with basic tutorials, and to help existing members understand advanced topics.
++ To educate students in our gradaute programs, new members in my team with basic tutorials, and to help existing members understand advanced topics.
 + This website includes a (growing) list of tutorials and papers we survey for such a purpose.
 + We hope this website is helpful to people who share similar research interests or are interested with learning advanced topics about deep learning.
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
