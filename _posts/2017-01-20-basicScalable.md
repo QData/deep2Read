@@ -55,7 +55,7 @@ tags: [  scalable, random, sparsity, binary, hash, compression, low-rank, distri
 + Efficient Kernel algorithms: Dual space (using α) / Reduced dimensionality (low rank expanions) / Function space (using fast Kα) / Primal space (hashing & random kitchen sinks)
 
 
-
+<!--excerpt.start-->
 
 
 

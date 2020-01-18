@@ -24,6 +24,7 @@ tags: [  Adversarial-Examples, robustness, visualizing, Interpretable, Certified
 | Understand | BeenKim, Interpretable Machine Learning, ICML17 Tutorial [^1]| [PDF](https://people.csail.mit.edu/beenkim/papers/BeenK_FinaleDV_ICML2017_tutorial.pdf) |  |
 | provable | Provable defenses against adversarial examples via the convex outer adversarial polytope, Eric Wong, J. Zico Kolter, | [URL](https://arxiv.org/abs/1711.00851) | | 
 
+<!--excerpt.start-->
 
 [^1] Notes about Interpretable Machine Learning
 

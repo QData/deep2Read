@@ -24,6 +24,7 @@ tags: [ memory, NTM, seq2seq, pointer, set, attention, meta-learning,  Few-Shot,
 | Jack | Meta-Learning with Memory-Augmented Neural Networks (ICML16) [^2]| [PDF](http://proceedings.mlr.press/v48/santoro16.pdf) | [PDF]({{site.baseurl}}/MoreTalksTeam/Jack/20170724_Memory_Augmented.pdf) |
 | Metric | ICML07 Best Paper - Information-Theoretic Metric Learning | [PDF](http://www.cs.utexas.edu/users/pjain/pubs/metriclearning_icml.pdf) |  |
 
+<!--excerpt.start-->
 
 [^1]: <sub><sup> Matching Networks for One Shot Learning (NIPS16): Learning from a few examples remains a key challenge in machine learning. Despite recent advances in important domains such as vision and language, the standard supervised deep learning paradigm does not offer a satisfactory solution for learning new concepts rapidly from little data. In this work, we employ ideas from metric learning based on deep neural features and from recent advances that augment neural networks with external memories. Our framework learns a network that maps a small labelled support set and an unlabelled example to its label, obviating the need for fine-tuning to adapt to new class types. We then define one-shot learning problems on vision (using Omniglot, ImageNet) and language tasks. Our algorithm improves one-shot accuracy on ImageNet from 87.6% to 93.2% and from 88.0% to 93.8% on Omniglot compared to competing approaches. We also demonstrate the usefulness of the same model on language modeling by introducing a one-shot task on the Penn Treebank. </sup></sub>
 

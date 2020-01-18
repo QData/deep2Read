@@ -112,8 +112,11 @@ Besides using high-level categories, we also use the following detailed tags to 
       {% endfor %}  
     {% endif %}
 
-<!--   {{ post.content }}  -->
-    <div>Please click above post URL for its content details.</div>
+    {% if post.content contains '<!--excerpt.start-->'  %}
+      {{   post.content | split:'<!--excerpt.start-->' | first  }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
 
   </div>
 
