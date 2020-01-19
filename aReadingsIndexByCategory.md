@@ -38,10 +38,11 @@ Click on a category to see relevant list of readings.
   </h3>
 </tr>
 
-{% assign counter = 1 %}
-{% assign sortedp = site.posts  | sort: 'date' %}
+{% assign counter = 0 %}
+{% assign sortedp = site.posts  | sort: 'date' | reverse  %}
 {% for post in sortedp %}
   {% if post.categories contains t %}
+    {% assign counter=counter | plus:1 %}
 
   <tr>
   <td>{{ counter }}</td>
@@ -50,7 +51,6 @@ Click on a category to see relevant list of readings.
   <td>{{ post.desc }}</td>
   </tr>
 
-  {% assign counter=counter | plus:1 %}
   {% endif %}
 {% endfor %}
 </table>
@@ -59,13 +59,15 @@ Click on a category to see relevant list of readings.
 
 <div class="posts">
 
-{% assign sorted = site.posts  | sort: 'date' %}
+{% assign counter = 0 %}
+{% assign sorted = site.posts  | sort: 'date' | reverse  %}
 {% for post in sorted %}
   {% if post.categories contains t %}
+    {% assign counter=counter | plus:1 %}
 
 <hr>
   <div class="post">
-    <h2 class="post-title">
+    <h2 class="post-title">[{{ counter }}]:
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>

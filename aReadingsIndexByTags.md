@@ -61,7 +61,7 @@ Besides using high-level categories, we also use the following detailed tags to 
 
 <div class="posts">
 
-{% assign sortedp = posts  | sort: 'date' %}
+{% assign sortedp = posts  | sort: 'date' | reverse  %}
 {% for post in sortedp %}
 
   {% assign counter=counter | plus:1 %}

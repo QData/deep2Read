@@ -28,10 +28,11 @@ layout: default
   </h3>
 </tr>
 
-{% assign counter = 1 %}
-{% assign sortedp = site.posts  | sort: 'date' %}
+{% assign counter = 0 %}
+{% assign sortedp = site.posts  | sort: 'date' | reverse  %}
 {% for post in sortedp %}
   {% if post.categories contains page.title %}
+    {% assign counter=counter | plus:1 %}
 
   <tr>
   <td>{{ counter }}</td>
@@ -39,7 +40,6 @@ layout: default
   <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
     <td>{{ post.desc }}</td>
   </tr>
-  {% assign counter=counter | plus:1 %}
   {% endif %}
 {% endfor %}
 
@@ -47,12 +47,14 @@ layout: default
 
 <hr>
 
-  {% assign sortedp = site.posts  | sort: 'date' %}
+  {% assign counter = 0 %}
+  {% assign sortedp = site.posts  | sort: 'date' | reverse %}
   {% for post in sortedp  %}
     {% if post.categories contains page.title %}
+      {% assign counter=counter | plus:1 %}
 
     <div class="post">
-      <h1 class="post-title">
+      <h1 class="post-title">[{{ counter }}]:
         <a href="{{ site.baseurl }}{{ post.url }}">
           {{ post.title }}
         </a>

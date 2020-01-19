@@ -29,6 +29,10 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
 
 ---
 
+
+{% assign ptcounter = 0 %}
+
+
 {% assign terms = site.posts | group_by: 'term' | sort: "name"  | reverse %}
   {% for term in terms %}
     {% if term.name == "" %}
@@ -57,10 +61,12 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
   </h3>
 </tr>
 
-{% assign counter = 1 %}
+{% assign counter = 0 %}
 {% assign sortedp = site.posts  | sort: 'date' | reverse %}
 {% for post in sortedp %}
   {% if post.term contains t %}
+
+  {% assign counter=counter | plus:1 %}
 
   <tr>
   <td>{{ counter }}</td>
@@ -69,27 +75,33 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
   <td>{{ post.desc }}</td>
   </tr>
 
-  {% assign counter=counter | plus:1 %}
   {% endif %}
 {% endfor %}
 </table>
 
 
+{% assign ptcounter=ptcounter | plus:counter %}
+
 <!--- for each term, present its posts in orders -->
 
 <div class="posts">
+
+{% assign counter = 0 %}
 
 {% assign sorted = site.posts  | sort: 'date' | reverse %}
 {% for post in sorted %}
   {% if post.term contains t %}
 
-<hr>
+  {% assign counter=counter | plus:1 %}
+
+  <hr>
   <div class="post">
-    <h2 class="post-title">
+    <h2 class="post-title"> [{{ counter }}]:
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
     </h2>
+
 
   {% if post.date %}
      <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> 
@@ -117,12 +129,13 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
 </div>
 
 
-
 {% endfor %}
 
----
+<hr>
 
+> In total, we have finished number of <b> {{ ptcounter }} </b>  reading sessions.
 
+<hr>
 
 <div style="position: fixed; bottom: 39px; right:10px; width: 119px; height: 218px; background-color: #FFCF79;">
 
