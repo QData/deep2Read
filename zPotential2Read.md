@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Potential Reading List
-desc: "Potential Readings of Deep Learning We Read from Fall-2017 to Spring-2019"
+desc: "Potential Readings of Deep Learning We Choose from: "
 order: "9f"
 ---
 
@@ -12,7 +12,7 @@ order: "9f"
 
 ## About this potential to read list :
 
-+ To educate my students in class, new members of my team with basic tutorials, and to help existing members understand advanced topics. This website includes a (growing) list of tutorials and papers we survey for such a purpose.
++ To educate my students in class, new members of my team with basic tutorials, and to help existing members understand advanced topics. This website includes a (growing) list of tutorials and papers we survey for such a purpose (Since 2017).
 
 + At the beginning of each semester, I collect a messy list of potential readings and put them here. Then my students will choose papers they want to review (mostly from this list) and we make a plan for that semester's reading session schedule. 
 
