@@ -16,6 +16,7 @@ tags: [ analysis, generalization, forgetting, training, optimization, subspace, 
 |Team INDEX     |Title  & Link  |  Tags |  Our Slide | 
 |------|----------------------------|----------|----------|
 |T2   | [Empirical Study of Example Forgetting During Deep Neural Network Learning](https://arxiv.org/abs/1812.05159)|  Sample Selection, forgetting |[OurSlide]({{filedir}}/T2-Pattarabanjird_Tanyaporn_Empirical_Study_of_Example_Forgetting_During_Deep_Neural_Network_Learning.pdf) | 
+|T29  | [Select Via Proxy: Efficient Data Selection For Training Deep Networks](https://arxiv.org/abs/1906.11829)| Sample Selection| [OurSlide]({{filedir}}/T29_Cascante_Bonilla_Paolapc9za_Select_Via_Proxy_data4train.pdf) | 
 |T9   | [How SGD Selects the Global Minima in over-parameterized Learning](https://papers.nips.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective)|  optimization | [OurSlide]({{filedir}}/T9_Bamrara_Rishabrb6xj_How_SGD_Selects_the_Global_Minima.pdf) | 
 |T10   | [ Escaping Saddles with Stochastic Gradients ](https://arxiv.org/abs/1803.05999)| optimization | [OurSlide]({{filedir}}/T10_kd4wa+dc9db+yl5nx+an2adv_ESCAPING_SADDLES.pdf) |  
 |T13   | [To What Extent Do Different Neural Networks Learn the Same Representation](https://arxiv.org/abs/1810.11750)| subspace |  [OurSlide]({{filedir}}/T13_Sudhakar_Mohitms5sw_Do_Different_Neural_Networks_Learn_the_Same_Representation.pdf) |  
@@ -23,6 +24,5 @@ tags: [ analysis, generalization, forgetting, training, optimization, subspace, 
 |T20   | [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913)| normalization  | [OurSlide]({{filedir}}/T20_Du_Yuyd2am_Visualizing_the_Loss_Landscape.pdf) | 
 |T21   | [Using Pre-Training Can Improve Model Robustness and Uncertainty ](https://arxiv.org/abs/1901.09960)| training, analysis | [OurSlide]({{filedir}}/T21_Wang_Clarerw9fs_Pre-Training_Can_Improve_Model_Robustness_and_Uncertainty.pdf) | 
 |T24   | [Norm matters: efficient and accurate normalization schemes in deep networks](https://arxiv.org/abs/1803.01814)| normalization  | [OurSlide]({{filedir}}/T24_Peddireddy_Akhil_Saiap3ub_Norm_Matters.pdf) | 
-|T29  | [Select Via Proxy: Efficient Data Selection For Training Deep Networks](https://arxiv.org/abs/1906.11829)| Sample Selection| [OurSlide]({{filedir}}/T29_Cascante_Bonilla_Paolapc9za_Select_Via_Proxy_data4train.pdf) | 
 
 
