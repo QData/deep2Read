@@ -53,7 +53,18 @@ when you find my typos or have comments. The covered materials are by no means a
 <hr>
 
 
-### Course Basics: and General Description
+
+## History
+
++ This website was started from two seminar courses I taught at UVA  in Fall 2017 and Spring 2019. Later I expand the content with my team reaing group
++ The seminar courses offer opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
++ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. 
+
+
+
+### Course Basics and General Description 
+
+> (The following content is for when we have the seminar course)
 
 + This is an advanced graduate-level deep learning course.
 + The course takes the form of half-seminar and half-project. The form of seminar focuses on paper readings.
@@ -61,12 +72,6 @@ when you find my typos or have comments. The covered materials are by no means a
  state-of-the-art advanced deep learning.
  + No text book
  + Sit-in: No.  This course is for registered students only.
-
-## History
-
-+ This website was started from two seminar courses I taught at UVA  in Fall 2017 and Spring 2019. Later I expand the content with my team reaing group
-+ The seminar courses offer opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
-+ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. 
 
 
 ### Instructor
