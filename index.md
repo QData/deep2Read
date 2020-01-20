@@ -4,7 +4,7 @@ title: Home
 Order: "0" 
 ---
 
-<h1> Website for UVA Qdata Group's Deep Learning Reading Group </h1>
+<h1> Website "deep2Read" for UVA Qdata Group's Deep Learning Journal Club </h1>
 <br>
 <div>
 This website includes a (growing) list of papers and lectures we read about deep learning and related.
