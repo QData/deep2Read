@@ -8,7 +8,7 @@ baseurl: 	    	/deep2Read/
 url:            https://qdata.github.io/
 
 # Setup
-title:            	"Deep Learning 2Read"
+title:            	"deep2Read"
 tagline:          	"deep2Read"
 description:        "Papers We Reviewed:"
 future: 			true
