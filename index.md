@@ -30,16 +30,17 @@ when you find my typos or have comments. The covered materials are by no means a
 
 + Until Dec. 2019, we have shared reviewes slides of about 300 deep learning papers via this web site. 
 
-+ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session includes multiple deep learning papers we reviewed. Their survey slides we made is summarized as blog posts in this website. Each post summarizes one of our reading session. 
++ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session includes multiple deep learning papers we reviewed. Each post summarizes one of our reading session. 
 
-+ Due to the large number of slides, we try to organize them according to three different variables. They each maps to one item in this website's side bar. 
++ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one of the items in this website's side bar. 
 
-+ ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . We also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
++ ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
 
 
 + ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
 
-+ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students navigate, we also group them according to when the slides were  delivered as a talk in our seminar courses or reading club. Please check out our readings sorted by the semester they were made via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
+
++ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students (from a specific semester) navigate, we also group our reading sessions according to in which semester a survey talk happened (in our seminar courses or via our reading club). Please check out our readings sorted by semesters via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
 
 
 <hr>
