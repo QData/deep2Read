@@ -48,7 +48,7 @@ layout: default
 <hr>
 
   {% assign counter = 0 %}
-  {% assign sortedp = site.posts  | sort: 'date' | reverse %}
+  {% assign sortedp = site.posts  | sort: 'date'  %}
   {% for post in sortedp  %}
     {% if post.categories contains page.title %}
       {% assign counter=counter | plus:1 %}
