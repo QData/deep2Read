@@ -20,19 +20,19 @@ when you find my typos or have comments. The covered materials are by no means a
 ## About this website:
 
 + As a group, we need to improve our knowledge of the fast-growing field of deep learning
-+ To educate students in our graduate programs, to help new members in my team with basic tutorials, and to improve current members understand advanced topics better, this website includes a (growing) list of tutorials and papers we survey for such a purpose.
-+ We hope this website is helpful to people who share similar research interests or are interested with learning advanced topics about deep learning.
-+ Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
++ To educate students in our graduate programs, to help new members in my team with basic tutorials, and to help current members understand advanced topics better, this website includes a (growing) list of tutorials and papers we survey for such a purpose.
++ We hope this website helps people who share similar research interests or those interested in learning advanced topics about deep learning.
++ Please feel free to email me (yanjun@virginia.edu), if you have comments, questions or recommendations.
 
 ---
 
 ## About the Sidebar and how we group the readings 
 
-+ Until Dec. 2019, we have shared reviewes slides of about 300 deep learning papers via this web site. 
++ Until Dec. 2019, we have shared reviewes slides for about 300 deep learning papers via this web site. 
 
-+ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session includes multiple deep learning papers we reviewed. Each post summarizes one of our reading session. 
++ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session reviewed multiple deep learning papers. Each post in this website summarizes one of our reading session. 
 
-+ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one of the items in this website's side bar. 
++ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one item in this website's side bar. 
 
 + ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
 
@@ -40,14 +40,14 @@ when you find my typos or have comments. The covered materials are by no means a
 + ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
 
 
-+ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students (from a specific semester) navigate, we also group our reading sessions according to in which semester a survey talk happened (in our seminar courses or via our reading club). Please check out our readings sorted by semesters via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
++ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students (from a specific semester) navigate, we also group our reading sessions according to what semester a survey talk happened at (via our seminar courses or via our reading club). Please check out our readings sorted by semesters via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
 
 
 <hr>
 
 
 ## Claim 
-+ The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn in our seminar courses and reading groups.
++ The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn.
 
 
 <hr>
