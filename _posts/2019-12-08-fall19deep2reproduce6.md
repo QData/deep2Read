@@ -1,5 +1,10 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: deep2reproduce 2019 Fall - 6Reinforcement papers 
 desc: 2019-fall Students deep2reproduce 
 term: 2019fCourse

@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: GNN  for Graph Generation 
 desc: 2019-W8
 term: 2019sCourse
 categories:
-- 2Graphs
+- 2GraphsNN
 - 5Generative
 tags: [ generative, GAN, graph, NLP, graphical-model, discrete, RNN, robustness, molecule, Variational, Autoencoder, RL, Beam, imputation, Matrix-Completion, random ]
 ---

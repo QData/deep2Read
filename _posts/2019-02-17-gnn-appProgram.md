@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: GNN for Program Analysis    
 desc: 2019-W4
 term: 2019sCourse
 categories:
-- 2Graphs
+- 2GraphsNN
 - 9DiscreteApp
 tags: [ embedding, program, heterogeneous ]
 ---

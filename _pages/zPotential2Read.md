@@ -1,0 +1,727 @@
+---
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
+permalink: /Potential2Read
+title: Potential Reading List
+desc: "Potential Readings of Deep Learning We Choose from: "
+order: "9f"
+---
+
+
+<hr>
+
+<p><a name="topPage"></a></p>
+
+
+## About this potential to read list :
+
++ To educate my students in class, new members of my team with basic tutorials, and to help existing members understand advanced topics. This website includes a (growing) list of tutorials and papers we survey for such a purpose (Since 2017).
+
++ At the beginning of each semester, I collect a messy list of potential readings and put them here. Then my students will choose papers they want to review (mostly from this list) and we make a plan for that semester's reading session schedule. 
+
++ In summary,  this is a messy list, only for planning and filtering purposes.
+
+
+
+<br>
+
+
+<font face="Arial,Helvetica">
+<ul>
+<li><a href="#Foud">Topic I: Foundations, Analysis and Theory </a> </li>
+<li><a href="#Stru">Topic II: DNN with Varying Structures</a> </li>
+<li><a href="#App">Topic III: Reliable and Benchmarking and Applications </a> </li>
+<li><a href="#Opt">Topic IV: Optimization </a> </li>
+<li><a href="#Gen">Topic V: Generative  </a> </li>
+<li><a href="#RL">Topic VI: Reinforcement </a> </li>
+<li><a href="#Graphs">Topic VII: Graphs </a> </li>
+<li><a href="#Learn">Topic VIII: 2019 Learning Strategies </a> </li>
+</ul>
+</font>
+
+
+
+
+<hr>
+
+<p><a name="Learn"></a></p>
+
+## Potential Deep-Learning-Papers provided to my Course Students to reproduce in 2019-Fall course
+
+|INDEX     |Title  & Link  |Conference|Year|
+|------|----------------------------|-----|----------|----|
+|1   | [An Empirical Study of Example Forgetting during Deep Neural Network Learning](https://openreview.net/pdf?id=BJlxm30cKm)| ICLR      |2019|
+|2   | [ROBUSTNESS May Be at ODDS WITH ACCURACY](https://openreview.net/pdf?id=SyxAb30cY7)|ICLR      |2019|
+|3   | [Critical Learning Periods in Deep Networks](https://arxiv.org/abs/1711.08856) |ICLR      |2019|
+|4   | [LEARNING ROBUST REPRESENTATIONS BY PROJECTING SUPERFICIAL STATISTICS OUT](https://openreview.net/forum?id=rJEjjoR9K7) |ICLR      |2019|
+|5   | [Classification from Positive, Unlabeled and Biased Negative Data](https://openreview.net/pdf?id=H1ldNoC9tX)| ICLR    |2019|
+|6   | [Select Via Proxy: Efficient Data Selection For Training Deep Networks](https://openreview.net/pdf?id=ryzHXnR5Y7)| ICLR      |2019|
+|7   | [Using Pre-Training Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1901.09960) |ICML      |2019|
+|8   | [On Learning Invariant Representations for Domain Adaptation](https://arxiv.org/abs/1901.09453)| ICML      |2019|
+|9   | [Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks](https://arxiv.org/pdf/1901.08584.pdf)| ICML      |2019|
+|10  | [Gradient Descent Finds Global Minima of Deep Neural Networks](https://arxiv.org/abs/1811.03804)| ICML      |2019|
+|11  | [When Samples Are Strategically Selected ](https://users.cs.duke.edu/~conitzer/strategicsamples18.pdf) |ICML      |2019|
+|12  | [The Odds are Odd: A Statistical Test for Detecting Adversarial Examples](https://arxiv.org/abs/1902.04818)| ICML      |2019|
+|13  | [Bias Also Matters: Bias Attribution for Deep Neural Network Explanation ](http://proceedings.mlr.press/v97/wang19p/wang19p.pdf) |ICML      |2019|
+|14  | [Escaping Saddle Points with Adaptive Gradient Methods](http://proceedings.mlr.press/v97/staib19a/staib19a.pdf)| ICML      |2019|
+|15  | [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)|ICML      |2019|
+|16  |[Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) |NeurIPS      |2018|
+|17  | [Modern Neural Networks Generalize on Small Data Sets](http://papers.NeurIPS.cc/paper/7620-modern-neural-networks-generalize-on-small-data-sets.pdf)| NeurIPS      |2018|
+|18  | [Generative modeling for protein structures](https://papers.NeurIPS.cc/paper/7978-generative-modeling-for-protein-structures.pdf)| NeurIPS      |2018|
+|19  | [On Binary Classification in Extreme Regions](https://papers.NeurIPS.cc/paper/7572-on-binary-classification-in-extreme-regions.pdf)| NeurIPS      |2018|
+|20  | [The Description Length of Deep Learning models](https://arxiv.org/abs/1802.07044)| NeurIPS      |2018|
+|21  | [L1-regression with Heavy-tailed Distributions](https://arxiv.org/abs/1805.00616)| NeurIPS      |2018|
+|22  | [Dynamic Network Model from Partial Observations](https://arxiv.org/abs/1805.10616)| NeurIPS      |2018|
+|23  | [Learning Invariances using the Marginal Likelihood](https://arxiv.org/abs/1808.05563) | NeurIPS      |2018|
+|24  | [How SGD Selects the Global Minima in Over-parameterized Learning: A Dynamical Stability Perspective ](https://papers.NeurIPS.cc/paper/8049-how-sgd-selects-the-global-minima-in-over-parameterized-learning-a-dynamical-stability-perspective.pdf)| NeurIPS      |2018|
+|25  | [On the Local Minima of the Empirical Risk](https://arxiv.org/abs/1803.09357)| NeurIPS      |2018|
+|26  | [Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)|  NeurIPS      |2018|
+|27  | [Processing of missing data by neural networks](https://papers.NeurIPS.cc/paper/7537-processing-of-missing-data-by-neural-networks.pdf)| NeurIPS      |2018|
+|28  | [Maximum-Entropy Fine Grained Classification](http://papers.NeurIPS.cc/paper/7344-maximum-entropy-fine-grained-classification.pdf)| NeurIPS      |2018|
+|29  | [Deep Structured Prediction with Nonlinear Output Transformations](http://papers.NeurIPS.cc/paper/7869-deep-structured-prediction-with-nonlinear-output-transformations)|NeurIPS      |2018|
+|30  | [Large Margin Deep Networks for Classification](http://papers.NeurIPS.cc/paper/7364-large-margin-deep-networks-for-classification)| NeurIPS      |2018|
+|31  | [Towards Understanding Learning Representations: To What Extent Do Different Neural Networks Learn the Same Representation ](http://papers.NeurIPS.cc/paper/8167-towards-understanding-learning-representations-to-what-extent-do-different-neural-networks-learn-the-same-representation)| NeurIPS      |2018|
+|32  | [Norm matters: efficient and accurate normalization schemes in deep networks](http://papers.NeurIPS.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-networks)|NeurIPS      |2018|
+|33  | [Query K-means Clustering and the Double Dixie Cup Problem](http://papers.NeurIPS.cc/paper/7899-query-k-means-clustering-and-the-double-dixie-cup-problem)| NeurIPS      |2018|
+|34  | [Bilevel learning of the Group Lasso structure](https://papers.NeurIPS.cc/paper/8051-bilevel-learning-of-the-group-lasso-structure)| NeurIPS      |2018|
+|35  | [Loss Functions for Multiset Prediction](http://papers.NeurIPS.cc/paper/7820-loss-functions-for-multiset-prediction)| NeurIPS      |2018|
+|36  | [Active Learning for Non-Parametric Regression Using Purely Random Trees ](http://papers.NeurIPS.cc/paper/7520-active-learning-for-non-parametric-regression-using-purely-random-trees)|NeurIPS      |2018|
+|37  | [Model compression via distillation and quantization](https://openreview.net/forum?id=S1XolQbRW)| ICLR      |2018|
+|38  | [The power of deeper networks for expressing natural functions](https://openreview.net/pdf?id=SyProzZAW)|ICLR      |2018|
+|39  | [Decision Boundary Analysis of Adversarial Examples](https://openreview.net/pdf?id=BkpiPMbA-)| ICLR      |2018|
+|40  | [On the Information Bottleneck Theory of Deep Learning ](https://openreview.net/pdf?id=ry_WPG-A-)|ICLR      |2018|
+|41  | [Sensitivity and Generalization in Neural Networks: an Empirical Study ](https://openreview.net/pdf?id=HJC2SzZCW)|ICLR      |2018|
+|42  | [Generating Wikipedia by Summarizing Long Sequences](https://openreview.net/pdf?id=Hyg0vbWC-)| ICLR      |2018|
+|43  | [Can Neural Networks Understand Logical Entailment?](https://openreview.net/pdf?id=SkZxCk-0Z)| ICLR      |2018|
+|44  | [Towards Reverse-Engineering Black-Box Neural Networks](https://openreview.net/pdf?id=BydjJte0-)|ICLR      |2018|
+|45  | [The High-Dimensional Geometry of Binary Neural Networks](https://openreview.net/pdf?id=B1IDRdeCW)| ICLR      |2018|
+|46  | [Detecting Statistical Interactions from Neural Network Weights ](https://openreview.net/pdf?id=ByOfBggRZ)| ICLR      |2018|
+|47  | [The Implicit Bias of Gradient Descent on Separable Data](https://openreview.net/pdf?id=r1q7n9gAb)| ICLR      |2018|
+|48  | [Learning how to explain neural networks: PatternNet and PatternAttribution](https://arxiv.org/abs/1705.05598)| ICLR      |2018|
+|49  | [GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models ](https://arxiv.org/abs/1802.08773)| ICML      |2018|
+|50  | [Which Training Methods for GANs do actually Converge? ](http://proceedings.mlr.press/v80/mescheder18a.html)| ICML      |2018|
+|51  | [Nonoverlap-Promoting Variable Selection ](http://proceedings.mlr.press/v80/xie18b.html)| ICML      |2018|
+|52  | [An Alternative View: When Does SGD Escape Local Minima? ](http://proceedings.mlr.press/v80/kleinberg18a.html)|ICML      |2018|
+|53  | [Stability and Generalization of Learning Algorithms that Converge to Global Optima](http://proceedings.mlr.press/v80/charles18a.html)|ICML      |2018|
+|54  | [Scalable Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints](http://proceedings.mlr.press/v80/kazemi18a.html)|ICML      |2018|
+|55  | [On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization](http://proceedings.mlr.press/v80/arora18a.html)|ICML      |2018|
+|56  | [Escaping Saddles with Stochastic Gradients](http://proceedings.mlr.press/v80/daneshmand18a.html)|ICML      |2018|
+|57  | [Deep Asymmetric Multi-task Feature Learning](https://arxiv.org/abs/1708.00260)|ICML      |2018|
+|58  | [GNN Explainer: A Tool for Post-hoc Explanation of Graph Neural Networks](https://arxiv.org/abs/1903.03894)|     KDD     | 2018   |
+
+
+<p><a name="Graphs"></a></p>
+
+## Potential Deep-Learning-Papers-Reading-for-Graphs we read in 2019-Spring
+
+0. GNN code repos: https://paperswithcode.com/task/graph-embedding
+1. Similar course: https://www.math.uwaterloo.ca/~bico/co759/2018/index.html 
+
+
+### Basics: 
+0. GraphSAGE / GatedGNN / 
+0. ChebNet, Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering 
+0. Relational inductive biases, deep learning, and graph networks, et al, Oriol Vinyals, Yujia Li, Razvan Pascanu, 2018
+1. Graph Neural Networks: A Review of Methods and Applications https://arxiv.org/pdf/1812.08434.pdf
+2. Modeling relational data with graph convolutional networks, 2017, Michael Schlichtkrull, Thomas N. Kipf, Peter Bloem, Rianne van den Berg, Ivan Titov, Max Welling
+3. An Experimental Study of Neural Networks for Variable Graphs, 
+workshop 2018 ICLR 
+4. How Powerful are Graph Neural Networks? / Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka, 2018 
+5. A Comprehensive Survey on Graph Neural Networks 2018, https://arxiv.org/pdf/1901.00596.pdf
+6. Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning
+Qimai Li, Zhichao Han, Xiao-Ming Wu, 
+7. K Xu, W Hu, J Leskovec, S Jegelka - arXiv preprint arXiv:1810.00826, 2018
+Scarselli, F., Gori, M., Tsoi, A. C., Hagenbuchner, M., and Monfardini, G. The graph neural network model. IEEE Transactions on Neural Networks, 20(1):61–80, 2009.
+8.  Convolutional neural networks over tree structures for programming language processing. In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, 2016.
+9. Semi-Supervised Classification with Graph Convolutional Networks
+Authors: Thomas N. Kipf, Max Welling
+10. Graph Attention Networks, Authors: Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio
+11. Learning Convolutional Neural Networks for Graphs, http://proceedings.mlr.press/v48/niepert16.pdf
+12. Inductive representation learning on large graphs, NIPS16
+13. Higher-order clustering in networks, H Yin, AR Benson, J Leskovec, Physical Review E 97 (5), 052306 [PDF](https://cs.stanford.edu/~jure/pubs/higher_order-pre18.pdf)
+
+### Basic graph represenation learning: 
+1. RECS: Robust Graph Embedding Using Connection Subgraphs
+2. LASAGNE: Locality And Structure Aware Graph Node Embedding
+3. Adversarially Regularized Graph Autoencoder for Graph Embedding
+4. All Graphs Lead to Rome: Learning Geometric and Cycle-Consistent Representations with Graph Convolutional Networks
+5. LanczosNet: Multi-Scale Deep Graph Convolutional Networks
+6. Graph Neural Networks with convolutional ARMA filters
+7. Geniepath: Graph neural networks with adaptive receptive paths
+Z Liu, C Chen, L Li, J Zhou, X Li, L Song, Y Qi
+arXiv preprint arXiv:1802.00910
+8. Link Prediction Based on Graph Neural Networks arXiv:1802.09691 
+9. Deep Graph Infomax, P Veličković, W Fedus, WL Hamilton, P Liò, Y Bengio… - arXiv preprint arXiv 2018
+10. ICML18, Anonymous Walk Embeddings,  Authors: Sergey Ivanov, Evgeny Burnaev
+11. Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks
+Authors: Federico Monti, Michael Bronstein, Xavier Bresson 
+12. Diffusion-convolutional neural networks, NeuroIPS16
+13. Convolutional networks on graphs for learning molecular fingerprints, NeuroIPS15
+14. Geometric deep learning: going beyond euclidean data, 2017
+15. Dynamic graph cnn for learning on point clouds, 2018
+
+
+### GNN extend/beyond: 
+1. GM-PLL: Graph Matching based Partial Label Learning
+2. Graph Matching Networks for Learning the Similarity of Graph Structured Objects, 2019
+3. A Functional Representation for Graph Matching
+4. Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text
+5. Sample Efficient Semantic Segmentation using Rotation Equivariant Convolutional Networks J Linmans, J Winkens, BS Veeling, TS Cohen, M Welling
+arXiv preprint arXiv:1807.00583
+6.  2018, Rotation Equivariant CNNs for Digital Pathology
+BS Veeling, J Linmans, J Winkens, T Cohen, M Welling
+arXiv preprint arXiv:1806.03962
+7. Emerging Convolutions for Generative Normalizing Flows
+E Hoogeboom, R Berg, M Welling, arXiv preprint arXiv:1901.11137
+8. 3d steerable cnns: Learning rotationally equivariant features in volumetric data
+M Weiler, M Geiger, M Welling, W Boomsma, T Cohen
+Advances in Neural Information Processing Systems, 10402-10413
+9. Convolutional networks for spherical signals
+T Cohen, M Geiger, J Köhler, M Welling
+arXiv preprint arXiv:1709.04893
+10. Graph Convolutional Matrix Completion
+R van den Berg, TN Kipf, M Welling stat 1050, 7
+11. Relaxed Quantization for Discretized Neural Networks
+12. Probabilistic Binary Neural Networks, JWT Peters, M Welling
+arXiv preprint arXiv:1809.03368
+13. Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning, C Qu, S Mannor, H Xu, Y Qi, L Song, J Xiong, arXiv preprint arXiv:1901.09326
+14. Double Neural Counterfactual Regret Minimization
+H Li, K Hu, Z Ge, T Jiang, Y Qi, L Song
+arXiv preprint arXiv:1812.10607		2018
+15. Neural Model-Based Reinforcement Learning for Recommendation
+X Chen, S Li, H Li, S Jiang, Y Qi, L Song
+arXiv preprint arXiv:1812.10613
+16. Deep hyperspherical learning
+W Liu, YM Zhang, X Li, Z Yu, B Dai, T Zhao, L Song
+Advances in Neural Information Processing Systems, 3950-3960
+17. Graph Edit Distance Computation via Graph Neural Networks
+Yunsheng Bai, Hao Ding, Song Bian, Ting Chen, Yizhou Sun, Wei Wang
+18. Hierarchical Graph Representation Learning with Differentiable Pooling
+Authors: Rex Ying, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, Jure Leskovec
+19. FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling
+Authors: Jie Chen, Tengfei Ma, Cao Xiao, Abstract: The graph convolutional networks (GCN) recently proposed by Kipf and Welling are an effective graph model for semi-supervised learning. Such a model, however, is transductive in nature because parameters are learned through convolutions with both training and test data
+20. Representation Learning on Graphs with Jumping Knowledge Networks
+Authors: Keyulu Xu, Chengtao Li, Yonglong Tian, Tomohiro Sonobe, Ken-ichi Kawarabayashi, Stefanie Jegelka
+Abstract: Recent deep learning approaches for representation learning on graphs follow a neighborhood aggregation procedure. We analyze some important properties of these models, and propose a strategy to overcome those. In particular, the range of "neighboring"
+21. Gauge Equivariant Convolutional Networks and the Icosahedral CNN
+TS Cohen, M Weiler, B Kicanaoglu, M Welling - arXiv preprint arXiv:1902.04615, 2019
+The idea of equivariance to symmetry transformations provides one of the first 
+22. Learning Invariant Representations Of Planar Curves 
+Authors: Gautam Pai, Aaron Wetzler, Ron Kimmel
+
+### Generate: 
+0. Learning Bayesian Networks is NP-Complete
+by DM Chickering - ‎1996 - ‎Cited by 1069
+1. Neural scene representation and rendering, science 2018 
+2. Relational Deep Reinforcement Learning, 2018
+3. Generating sentences from a continuous space, 2015
+4. Encoding Robust Representation for Graph Generation
+5. Syntax-Directed Variational Autoencoder for Molecule Generation
+H Dai, Y Tian, B Dai, S Skiena, L Song, International Conference on Machine Learning
+6. Graphical Generative Adversarial Networks C Li, M Welling, J Zhu, B Zhang
+arXiv preprint arXiv:1804.03429
+7. 2019, Recurrent Inference Machines for Reconstructing Heterogeneous MRI Data
+K Lønning, P Putzky, JJ Sonke, L Reneman, MWA Caan, M Welling
+8. Deep Reinforcement Learning for NLP, ACL18
+9. DEFactor: Differentiable Edge Factorization-based Probabilistic Graph Generation 
+R Assouel, M Ahmed, MH Segler, A Saffari, Y Bengio - arXiv preprint arXiv …, 2018
+10. Edge-exchangeable graphs and sparsity, NIPS16, 
+Authors: Diana Cai, Trevor Campbell, Tamara Broderick
+Abstract: Many popular network models rely on the assumption of (vertex) exchangeability, in which the distribution of the graph is invariant to relabelings of the vertices. However, the Aldous-Hoover theorem guarantees that these graphs are dense or empty with probability one, whereas many real-world graphs are sparse. We present an alternative notion of exchangeability for random graphs, which we call edge exchangeability,
+11. Junction Tree Variational Autoencoder for Molecular Graph Generation
+Authors: Wengong Jin, Regina Barzilay, Tommi Jaakkola
+12. Towards Variational Generation of Small Graphs
+Authors: Martin Simonovsky, Nikos Komodakis
+13. GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models, ICML2018
+Authors: Jiaxuan You, Rex Ying, Xiang Ren, William Hamilton, Jure Leskovec 
+14. Pixels to Graphs by Associative Embedding
+Authors: Alejandro Newell, Jia Deng
+Abstract: Graphs are a useful abstraction of image content. Not only can graphs represent details about individual objects in a scene but they can capture the interactions between pairs of objects. We present a method for training a convolutional neural network such that it takes in an input image and produces a full graph definition.
+15. Syntax-Directed Variational Autoencoder for Structured Data
+Authors: Hanjun Dai, Yingtao Tian, Bo Dai, Steven Skiena, Le Song
+16. NetGAN: Generating Graphs via Random Walks, ICML2018
+Authors: Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann
+17. Graphons, mergeons, and so on!
+Authors: Justin Eldridge, Mikhail Belkin, Yusu Wang
+Abstract: In this work we develop a theory of hierarchical clustering for graphs. Our modelling assumption is that graphs are sampled from a graphon, which is a powerful and general model for generating graphs and analyzing large networks.
+18. Convolutional Imputation of Matrix Networks
+Authors: Qingyun Sun, Mengyuan Yan, David Donoho, boyd
+
+
+### with GM:
+1. Neural Graph Machines: Learning Neural Networks Using Graphs
+2. Graph HyperNetworks for Neural Architecture Search
+3. MRF Optimization by Graph Approximation
+4. Credit Assignment Techniques in Stochastic Computation Graphs
+5.  Graph Refinement based Tree Extraction using Mean-Field Networks and Graph Neural Networks, R Selvan, T Kipf, M Welling, JH Pedersen, J Petersen, M de Bruijne
+arXiv preprint arXiv:1811.08674
+6. SLANG: Fast Structured Covariance Approximations for Bayesian Deep Learning with Natural Gradient
+7. Combinatorial Bayesian Optimization using Graph Representations
+C Oh, JM Tomczak, E Gavves, M Welling
+arXiv preprint arXiv:1902.00448
+8. Learning Steady-States of Iterative Algorithms over Graphs
+H Dai, Z Kozareva, B Dai, A Smola, L Song
+International Conference on Machine Learning, 1114-1122
+9. A Hilbert space embedding for distributions. In Proceedings of the International Conference on Algorithmic Learning Theory, volume 4754, pp. 13–31. Springer, 2007.
+10. Hilbert space embeddings of conditional distributions. In Proceedings of the International Conference on Machine Learning, 2009.
+11. Nonparametric tree graphical models. In 13th Workshop on Artificial Intelligence and Statistics, volume 9 of JMLR workshop and conference proceedings, pp. 765–772, 2010
+12. Kernel belief propagation. In Proc. Intl. Con- ference on Artificial Intelligence and Statistics, volume 10 of JMLR workshop and conference proceedings, 2011.
+13. Injective Hilbert space embeddings of probability measures. In Proceedings of Annual Conference. Computational Learning Theory, pp. 111–122, 2008. 
+14. Jebara, T., Kondor, R., and Howard, A. Probability product kernels. J. Mach. Learn. Res., 5:819–844, 2004.
+15. Kernel-based just-in-time learning for passing expectation propagation messages. In Proceedings of the Thirty-First Conference on Uncertainty in Artificial Intelligence, UAI 2015, July 12-16, 2015, Amsterdam, The Netherlands, pp. 405–414, 2015
+16. Deeply learning the messages in message passing inference. In Advances in Neural Information Processing Systems, 2015.
+17. Minka, T. The EP energy function and minimization schemes. See www. stat. cmu. edu/minka/papers/learning. html, August, 2001.
+18. Contextual Graph Markov Model: A Deep and Generative Approach to Graph Processing
+Authors: Davide Bacciu, Federico Errica, Alessio Micheli
+Abstract: We introduce the Contextual Graph Markov Model, an approach combining ideas from generative models and neural networks for the processing of graph data.
+19. Inference in probabilistic graphical models by Graph Neural Networks
+Authors: KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow
+Abstract: A useful computation when acting in a complex environment is to infer the marginal probabilities or most probable states of task-relevant variables. 
+
+### Applications and more: 
+1. End-to-end differentiable physics for learning and control
+2. Learning to represent programs with graphs
+3. KG^ 2: Learning to Reason Science Exam Questions with Contextual Knowledge Graph Embeddings Y Zhang, H Dai, K Toraman, L Song
+arXiv preprint arXiv:1805.12393
+4. video2net: Extracting dynamic interaction networks from multi-person discussion videos  / https://www.cs.stanford.edu/~srijan/pubs/paper-video2net.pdf
+5. Theory and Application of Network Biology Towards Precision Medicine
+6. Attention, Learn to Solve Routing Problems!
+W Kool, H van Hoof, M Welling
+7. Extraction of Airways using Graph Neural Networks
+R Selvan, T Kipf, M Welling, JH Pedersen, J Petersen, M de Bruijne
+arXiv preprint arXiv:1804.04436
+8. Deep Learning with Permutation-invariant Operator for Multi-instance Histopathology Classification, JM Tomczak, M Ilse, M Welling, arXiv preprint arXiv:1712.00310
+9. Sequence2Vec: a novel embedding approach for modeling transcription factor binding affinity landscape H Dai, R Umarov, H Kuwahara, Y Li, L Song, X Gao
+Bioinformatics 33 (22), 3575-3583
+10. Learning combinatorial optimization algorithms over graphs
+H Dai, EB Khalil, Y Zhang, B Dilkina, L Song
+arXiv preprint arXiv:1704.01665
+11. Neural network-based graph embedding for cross-platform binary code similarity detection, X Xu, C Liu, Q Feng, H Yin, L Song, D Song
+Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications …
+12. Convolutional neural network based on SMILES representation of compounds for detecting chemical motif
+M Hirohara, Y Saito, Y Koda, K Sato, Y Sakakibara - BMC Bioinformatics, 2018
+13. Heterogeneous Graph Neural Networks for Malicious Account Detection
+Z Liu, C Chen, X Yang, J Zhou, X Li, L Song -
+14. Diffusion-Based Approximate Value Functions
+Authors: Martin Klissarov, Doina Precup 
+15. Mean Field Multi-Agent Reinforcement Learning
+Authors: Yaodong Yang, Rui Luo, Minne Li, Ming Zhou, Weinan Zhang, Jun Wang
+Abstract: Existing multi-agent reinforcement learning methods are limited typically to a small number of agents. When the agent number increases largely, the learning becomes intractable due to the curse of the dimensionality and the exponential growth of agent interactions
+16. Protein–ligand scoring with convolutional neural networks
+17. Visualizing convolutional neural network protein-ligand scoring
+18. KDEEP: Protein–Ligand Absolute Binding Affinity Prediction via 3D-Convolutional Neural Networks, 2018
+19. D3R Grand Challenge 2: blind prediction of protein–ligand poses, affinity rankings, and relative binding free energies
+20. Structured sequence modeling with graph convolutional recurrent networks,” arXiv preprint arXiv:1612.07659, 2016.
+21. Structural-rnn: Deep learning on spatio-temporal graphs,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 5308–5317.
+22. Prioritizing network communities  
+23. Community detection and stochastic block models: recent developments 
+24. Android Malware Detection using Large-scale Network Representation Learning + Deep Android Malware Detection [Pdf](https://arxiv.org/abs/1806.04847) + [PDF](https://dl.acm.org/citation.cfm?id=3029823)
+
+
+### Robustness and scalable
+1. Does Your Model Know the Digit 6 Is Not a Cat? A Less Biased Evaluation of" Outlier" Detectors
+2. Faithful and Customizable Explanations of Black Box Models
+H Lakkaraju, E Kamar, R Caruana, J Leskovec - 2019
+3. Adversarial Examples as an Input-Fault Tolerance Problem
+4. Adversarial Attack on Graph Structured Data https://arxiv.org/abs/1806.02371
+5. Adversarial Attacks on Neural Networks for Graph Data, https://dl.acm.org/citation.cfm?id=3220078 (edited) 
+6. Android Malware Detection using Large-scale Network Representation Learning,  https://arxiv.org/abs/1806.04847
+7. “Deep Program Reidentification: A Graph Neural Network Solution” https://arxiv.org/abs/1812.04064
+8. Heterogeneous Graph Neural Networks for Malicious Account Detection
+Z Liu, C Chen, X Yang, J Zhou, X Li, L Song
+Proceedings of the 27th ACM International Conference on Information and …
+9. L-Shapley and C-Shapley: Efficient model interpretation for structured data
+J Chen, L Song, MJ Wainwright, MI Jordan
+arXiv preprint arXiv:1808.02610
+10. Stochastic Training of Graph Convolutional Networks with Variance Reduction
+Authors: Jianfei Chen, Jun Zhu, Le Song
+11. A causal framework for explaining the predictions of black-box sequence-to-sequence models, EMNLP17
+12. Interpretable Graph Convolutional Neural Networks for Inference on Noisy Knowledge Graphs, Daniel Neil, Joss Briody, Alix Lacoste, Aaron Sim, Paidi Creed, Amir Saffari
+13. Interpretable Convolutional Neural Networks
+Quanshi Zhang, Ying Nian Wu, Song-Chun Zhu
+14. Towards Efficient Large-Scale Graph Neural Network Computing
+Lingxiao Ma, Zhi Yang, Youshan Miao, Jilong Xue, Ming Wu, Lidong Zhou, Yafei Dai
+15. Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations
+16. DeepX: A Software Accelerator for Low-Power Deep Learning Inference on Mobile Devices
+17. Squeezing deep learning into mobile and embedded devices, ND Lane, S Bhattacharya, A Mathur, P Georgiev, C Forlivesi, F Kawsar
+18. Towards Efficient Large-Scale Graph Neural Network Computing, Lingxiao Ma†∗, Zhi Yang†∗, Youshan Miao‡, Jilong Xue‡, Ming Wu‡, Lidong Zhou‡, Yafei Dai, https://arxiv.org/pdf/1810.08403.pdf
+19. Cavs: An Efficient Runtime System for Dynamic Neural Networks
+1,2Shizhen Xu†, 1,3Hao Zhang†, 1,3Graham Neubig, 3Wei Dai, 1Jin Kyu Kim, 2Zhijie Deng, 3Qirong Ho, 2Guangwen Yang, 3Eric P. Xing
+20. A Comparison of Distributed Machine Learning Platforms (2017)
+21. GeePS: scalable deep learning on distributed GPUs with a GPU-specialized parameter server (2016)
+22. AMPNet: Asynchronous Model-Parallel Training for Dynamic Neural Networks (2017)
+23. GraphLab / GraphX  / Pregel 
+24. Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis
+25. Towards Efficient Large-Scale Graph Neural Network Computing (2018)
+26.  The High-Dimensional Geometry of Binary Neural Networks
+Authors: Alexander G. Anderson, Cory P. Berg  
+27.   Learning Discrete Weights Using the Local Reparameterization Trick 
+28. Sparsely-Connected Neural Networks: Towards Efficient VLSI Implementation of Deep Neural Networks 
+29.  Espresso: Efficient Forward Propagation for Binary Deep Neural Networks  
+30. GkmExplain   https://github.com/kundajelab/gkmexplain
+
+
+
+<p><a name="Foud"></a></p>
+
+## Deep-Learning-Papers-Reading-Roadmap we read in Fall-2017
+
+1. [A great roadmap of deep learning papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/README.md#deep-learning-papers-reading-roadmap)
+
+2. state-of-the-art-result-for-machine-learning-problems
+[URL](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+
+## Foundations
+0. [DeepLearningSummerSchool17](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/) +
+   [videolectures](http://videolectures.net/deeplearning2017_montreal/)
+1. Andrew Ng - Nuts and Bolts of Applying Deep Learning : https://www.youtube.com/watch?v=F1ka6a13S9I  :
+2. Ganguli - Theoretical Neuroscience and Deep Learning DLSS16 http://videolectures.net/deeplearning2016_ganguli_theoretical_neuroscience/
+3. Ganguli - Theoretical Neuroscience and Deep Learning.pdf DLSS17 https://drive.google.com/file/d/0B6NHiPcsmak1dkZMbzc2YWRuaGM/view
+4. Sharp Minima Can Generalize For Deep Nets, Laurent Dinh (Univ. Montreal), Razvan Pascanu, Samy Bengio (Google Brain), Yoshua Bengio (Univ. Montreal)
+5. Automated Curriculum Learning for Neural Networks, Alex Graves, Marc G. Bellemare, Jacob Menick, Koray Kavukcuoglu, Remi Munos
+6. Learning to learn without gradient descent by gradient descent, Yutian Chen, Matthew Hoffman, Sergio Gomez, Misha Denil, Timothy Lillicrap, Matthew Botvinick , Nando de Freitas
+7. Cognitive Psychology for Deep Neural Networks: A Shape Bias Case Study, Samuel Ritter*, David Barrett*, Adam Santoro, Matt Botvinick
+8. Geometry of Neural Network Loss Surfaces via Random Matrix Theory, Jeffrey Pennington, Yasaman Bahri
+9. On the Expressive Power of Deep Neural Networks, Maithra Raghu, Ben Poole, Surya Ganguli, Jon Kleinberg, Jascha Sohl-Dickstein
+10. Neuroscience-Inspired Artificial Intelligence, http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3
+11. Understanding deep learning requires rethinking generalization, ICLR17
+12. On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima, ICLR17
+13. Normalizing the Normalizers: Comparing and Extending Network Normalization Schemes, ICLR17
+14. Capacity and Trainability in Recurrent Neural Networks, ICLR17
+15. Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations, ICLR17
+16. Frustratingly Short Attention Spans in Neural Language Modeling, ICLR17
+17. Topology and Geometry of Half-Rectified Network Optimization, ICLR17
+18. Central Moment Discrepancy (CMD) for Domain-Invariant Representation Learning, ICLR17
+19. Adversarial Feature Learning, ICLR17
+20. Do Deep Convolutional Nets Really Need to be Deep and Convolutional?, ICLR17
+21. Why Deep Neural Networks for Function Approximation?, ICLR17
+22. Bengio - Recurrent Neural Networks - DLSS 2017.pdf: https://drive.google.com/file/d/0ByUKRdiCDK7-LXZkM3hVSzFGTkE/view
+23. On the Expressive Power of Deep Neural Networks, Maithra Raghu, Ben Poole, Jon Kleinberg, Surya Ganguli, Jascha Sohl-Dickstein ; PMLR 70:2847-2854
+24. Equivariance Through Parameter-Sharing, Siamak Ravanbakhsh, Jeff Schneider, Barnabás Póczos ; PMLR 70:2892-2901
+25. Large-Scale Evolution of Image Classifiers, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc V. Le, Alexey Kurakin ; PMLR 70:2902-2911
+26. Depth-Width Tradeoffs in Approximating Natural Functions with Neural Networks, Itay Safran, Ohad Shamir ; PMLR 70:2979-2987
+27. A Closer Look at Memorization in Deep Networks, ICML17
+28. Dynamic Word Embeddings, ICML17
+29. Combining Low-Density Separators with CNNs, Yu-Xiong Wang*, Carnegie Mellon University; Martial Hebert, Carnegie Mellon University, NIPS16
+30. CNNpack: Packing Convolutional Neural Networks in the Frequency Domain, NIPS16
+31. Residual Networks are Exponential Ensembles of Relatively Shallow Networks, NIPS16
+32. Dense Associative Memory for Pattern Recognition, NIPS16
+33. Learning Kernels with Random Features, Aman Sinha*, Stanford University; John Duchi,
+34. Simple and Efficient Weighted Minwise Hashing, NIPS16
+35. Reward Augmented Maximum Likelihood for Neural Structured Prediction
+36. Unimodal Probability Distributions for Deep Ordinal Classification, ICML17
+37. End-to-End Learning for Structured Prediction Energy Networks, ICML17
+38. Orthogonal Random Features, NIPS16
+39. Learning Structured Sparsity in Deep Neural Networks, NIPS16
+40. Learning the Number of Neurons in Deep Networks, NIPS16
+41. Quantized Random Projections and Non-Linear Estimation of Cosine Similarity, NIPS16
+42. An equivalence between high dimensional Bayes optimal inference and M-estimation, NIPS16
+43. High Dimensional Structured Superposition Models, NIPS16
+44. Learning Deep Embeddings with Histogram Loss, NIPS16
+45. Learning values across many orders of magnitude, NIPS16
+46. Learning Deep Parsimonious Representations, NIPS16
+47. Efficient High-Order Interaction-Aware Feature Selection Based on Conditional Mutual Information, NIPS16
+48. A Bayesian method for reducing bias in neural representational similarity analysis, NIPS16
+49. Richards - Deep_Learning_in_the_Brain.pd https://drive.google.com/file/d/0B2A1tnmq5zQdcFNkWU1vdDJiT00/view and
+https://drive.google.com/file/d/0B2A1tnmq5zQdQWU0Skd6TVVQYUE/view?usp=drive_web
+
+
+<hr>
+
+<p><a name="Stru"></a></p>
+
+
+## DNN with Varying Structures
+1. SCAN: Learning Abstract Hierarchical Compositional Visual Concepts, https://arxiv.org/pdf/1707.03389.pdf
+2. Krueger - Bayesian Hypernetworks.pdf https://drive.google.com/file/d/0B6NHiPcsmak1RUlucW1RN29oS3M/view?usp=drive_web
+3. Leblond and Alayrac - SeaRNN.pdf https://drive.google.com/file/d/0B6NHiPcsmak1SDVEaWc0OWtaV0k/view?usp=drive_web
+4. Sharir - Overlapping Architectures.pdf https://drive.google.com/file/d/0B6NHiPcsmak1ZzVkci1EdVN2YkU/view?usp=drive_web
+5. Ullrich - Bayesian Compression.pd https://drive.google.com/file/d/0B6NHiPcsmak1WlRUeHFpSW5OZGc/view?usp=drive_web
+6. Understanding Synthetic Gradients and Decoupled Neural Interfaces, Wojtek Czarnecki, Grzegorz Świrszcz, Max Jaderberg, Simon Osindero, Oriol Vinyals, Koray Kavukcuoglu, ICML17
+7. Video Pixel Networks, Nal Kalchbrenner, Aaron van den Oord, Karen Simonyan, Ivo Danihelka, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu
+8. AdaNet: Adaptive Structural Learning of Artificial Neural Networks, Corinna Cortes, Xavi Gonzalvo, Vitaly Kuznetsov, Mehryar Mohri, Scott Yang
+9. Learning to Generate Long-term Future via Hierarchical Prediction, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee
+10. Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli
+11. Latent LSTM Allocation: Joint Clustering and Non-Linear Dynamic Modeling of Sequence Data,  Manzil Zaheer, Amr Ahmed, Alex Smola
+12. Large-Scale Evolution of Image Classifiers, Esteban Real, Sherry Moore, Andrew Selle, Saurabh Saxena, Yutaka Leon Suematsu, Jie Tan, Quoc Le, Alexey Kurakin
+13. Sequence Modeling via Segmentations, Chong Wang (Microsoft Research) · Yining Wang (CMU) · Po-Sen Huang (Microsoft Research) · Abdelrahman Mohammad (Microsoft) · Dengyong Zhou (Microsoft Research) · Li Deng (Citadel)
+14. ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices
+15. Adaptive Neural Networks for Fast Test-Time Prediction
+16. Making Neural Programming Architectures Generalize via Recursion, ICLR17
+17. Optimization as a Model for Few-Shot Learning, ICLR17
+18. Learning End-to-End Goal-Oriented Dialog, ICLR17
+19. Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer, ICLR17
+20. Nonparametric Neural Networks, ICLR17
+21. An Information-Theoretic Framework for Fast and Robust Unsupervised Learning via Neural Population Infomax, ICLR17
+22. Improving Neural Language Models with a Continuous Cache, ICLR17
+23. Variational Recurrent Adversarial Deep Domain Adaptation, ICLR17
+24. Soft Weight-Sharing for Neural Network Compression, ICLR17
+25. Tracking the World State with Recurrent Entity Networks, (Lecun),  ICLR17
+26. Deep Biaffine Attention for Neural Dependency Parsing, ICLR17
+27. Learning to Remember Rare Events, ICLR17
+28. Transfer Learning for Sequence Tagging with Hierarchical Recurrent Networks, ICLR17
+29. Deep Learning with Dynamic Computation Graphs, ICLR17
+30. Query-Reduction Networks for Question Answering, ICLR17
+31. Bidirectional Attention Flow for Machine Comprehension, ICLR17
+32. Dynamic Coattention Networks For Question Answering, ICLR17
+33. Structured Attention Networks, ICLR17
+34. Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer, (Dean), ICLR17
+35. Attend, Adapt and Transfer: Attentive Deep Architecture for Adaptive Transfer from multiple sources in the same domain, ICLR17
+36. Mollifying Networks, Bengio, ICLR17
+37. Automatic Rule Extraction from Long Short Term Memory Networks, ICLR17
+38. Loss-aware Binarization of Deep Networks, ICLR17
+39. Deep Multi-task Representation Learning: A Tensor Factorisation Approach, ICLR17
+40. Towards Deep Interpretability (MUS-ROVER II): Learning Hierarchical Representations of Tonal Music, ICLR17
+41. Reasoning with Memory Augmented Neural Networks for Language Comprehension, ICLR17
+42. Semi-Supervised Classification with Graph Convolutional Networks, ICLR17
+43. Hierarchical Multiscale Recurrent Neural Networks, ICLR17
+44. AdaNet: Adaptive Structural Learning of Artificial Neural Networks, ICML17
+45. Language Modeling with Gated Convolutional Networks, ICML17
+46. Image-to-Markup Generation with Coarse-to-Fine Attention, ICML17
+47. Input Switched Affine Networks: An RNN Architecture Designed for Interpretability, ICML17
+48. Differentiable Programs with Neural Libraries, ICML17
+49. Convolutional Sequence to Sequence Learning, ICML17
+50. State-Frequency Memory Recurrent Neural Networks, ICML17
+51. SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization, Juyong Kim, Yookoon Park, Gunhee Kim, Sung Ju Hwang ; PMLR 70:1866-1874
+52. Deriving Neural Architectures from Sequence and Graph Kernels
+Tao Lei, Wengong Jin, Regina Barzilay, Tommi Jaakkola ; PMLR 70:2024-2033
+53. Delta Networks for Optimized Recurrent Network Computation, Daniel Neil, Jun Haeng Lee, Tobi Delbruck, Shih-Chii Liu ; PMLR 70:2584-2593
+54. Recurrent Highway Networks, Julian Georg Zilly, Rupesh Kumar Srivastava, Jan Koutnı́k, Jürgen Schmidhuber ; PMLR 70:4189-4198
+55. Ask Me Anything: Dynamic Memory Networks for Natural Language Processing, ICML17
+56. OptNet: Differentiable Optimization as a Layer in Neural Networks, ICML17
+57. Swapout: Learning an ensemble of deep architectures, Saurabh Singh*, UIUC; Derek Hoiem, UIUC; David Forsyth, UIUC, NIPS16
+58. Natural-Parameter Networks: A Class of Probabilistic Neural Networks, Hao Wang*, HKUST; Xingjian Shi, ; Dit-Yan Yeung, NIPS16
+59. Learning What and Where to Draw, NIPS16
+60. Hierarchical Question-Image Co-Attention for Visual Question Answering, NIPS16
+61. Proximal Deep Structured Models, NIPS16
+62. Direct Feedback Alignment Provides Learning In Deep Neural Networks, NIPS16
+63. Scaling Memory-Augmented Neural Networks with Sparse Reads and Writes, NIPS16
+64. Matching Networks for One Shot Learning, NIPS16
+65. Can Active Memory Replace Attention? Łukasz Kaiser*, ; Samy Bengio, NIPS16
+66. Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences, NIPS16
+67. Binarized Neural Networks, NIPS16
+68. Interaction Networks for Learning about Objects, Relations and Physics, NIPS16
+69. Optimal Architectures in a Solvable Model of Deep Networks, NIPS16
+
+
+<hr>
+
+<p><a name="App"></a></p>
+## Reliable and Benchmarking and Applications
+1. Conditional Image Generation with Pixel CNN Decoders, NIPS16
+2. Dhruv - Visual Dialog - RLSS 2017 https://drive.google.com/file/d/0BzUSSMdMszk6RndSbkEzcnRFMGs/view and
+https://drive.google.com/file/d/0BzUSSMdMszk6cDVBMlRqLUs3TFk/view
+3. Input Switched Affine Networks: An RNN Architecture Designed for Interpretability, Jakob Foerster, Justin Gilmer, Jan Chorowski, Jascha Sohl-Dickstein, David Sussillo
+4. Axiomatic Attribution for Deep Networks, Ankur Taly, Qiqi Yan,,Mukund Sundararajan
+5. Differentiable Programs with Neural Libraries, Alex L Gaunt, Marc Brockschmidt, Nate Kushman, Daniel Tarlow
+6. Neural Optimizer Search with Reinforcement Learning, Irwan Bello, Barret Zoph, Vijay Vasudevan, Quoc Le
+7. Measuring Sample Quality with Kernels, Jackson Gorham (STANFORD) · Lester Mackey (Microsoft Research)
+8. Learning Continuous Semantic Representations of Symbolic Expressions, ICML17
+9. Recovery Guarantees for One-hidden-layer Neural Networks, ICML17
+10. On the State of the Art of Evaluation in Neural Language Models, https://arxiv.org/abs/1707.05589
+11. End-to-end Optimized Image Compression, ICLR17
+12. Multi-Agent Cooperation and the Emergence of (Natural) Language, ICLR17
+13. Semi-supervised Knowledge Transfer for Deep Learning from Private Training Data, ICLR17
+14. Deep Learning with Differential Privacy,
+15. Privacy-Preserving Deep Learning, CCS15
+16. Learning to Query, Reason, and Answer Questions On Ambiguous Texts, ICLR17
+17. Generative Models and Model Criticism via Optimized Maximum Mean Discrepancy, ICLR17
+18. Data Noising as Smoothing in Neural Network Language Models (Ng), ICLR17
+19. A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks, ICLR17
+20. Visualizing Deep Neural Network Decisions: Prediction Difference Analysis, ICLR17
+21. On Detecting Adversarial Perturbations, ICLR17
+22. Delving into Transferable Adversarial Examples and Black-box Attacks, ICLR17
+23. Parseval Networks: Improving Robustness to Adversarial Examples, ICML17
+24. iSurvive: An Interpretable, Event-time Prediction Model for mHealth, ICML17
+25. Being Robust (in High Dimensions) Can Be Practical, ICML17
+26. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks, ICML17
+27. On Calibration of Modern Neural Networks, ICML17
+28. Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs, ICML17
+29. Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation, ICML17
+30. Analogical Inference for Multi-relational Embeddings,  Hanxiao Liu, Yuexin Wu, Yiming Yang ; PMLR 70:2168-2178
+31. Deep Transfer Learning with Joint Adaptation Networks, Mingsheng Long, Han Zhu, Jianmin Wang, Michael I. Jordan ; PMLR 70:2208-2217
+32. Sequence to Better Sequence: Continuous Revision of Combinatorial Structures, Jonas Mueller, David Gifford, Tommi Jaakkola ; PMLR 70:2536-2544
+33. Meta Networks, Tsendsuren Munkhdalai, Hong Yu ; PMLR 70:2554-2563
+34. Geometry of Neural Network Loss Surfaces via Random Matrix Theory, Jeffrey Pennington, Yasaman Bahri ; PMLR 70:2798-2806
+35. Asymmetric Tri-training for Unsupervised Domain Adaptation, Kuniaki Saito, Yoshitaka Ushiku, Tatsuya Harada ; PMLR 70:2988-2997
+36. Developing Bug-Free Machine Learning Systems With Formal Mathematics, Daniel Selsam, Percy Liang, David L. Dill ; PMLR 70:3047-3056
+37. Learning Important Features Through Propagating Activation Differences, Avanti Shrikumar, Peyton Greenside, Anshul Kundaje ; PMLR 70:3145-3153
+38. High-Dimensional Structured Quantile Regression, ICML17
+39. Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs, Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song ; PMLR 70:3462-3471
+40. Learning to Generate Long-term Future via Hierarchical Prediction, Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee ; PMLR 70:3560-3569
+41. Sequence Modeling via Segmentations, Chong Wang, Yining Wang, Po-Sen Huang, Abdelrahman Mohamed, Dengyong Zhou, Li Deng ; PMLR 70:3674-3683
+42. A Unified View of Multi-Label Performance Measures, Xi-Zhu Wu, Zhi-Hua Zhou ; PMLR 70:3780-3788
+43. Convexified Convolutional Neural Networks, Yuchen Zhang, Percy Liang, Martin J. Wainwright ; PMLR 70:4044-4053
+44. Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin, ICML17
+45. Learning Transferrable Representations for Unsupervised Domain Adaptation, NIPS16
+46. Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity, NIPS16
+47. Unsupervised Domain Adaptation with Residual Transfer Networks, Mingsheng Long*, Tsinghua University; Han Zhu, Tsinghua University; Jianmin Wang, Tsinghua University; Michael Jordan, NIPS16
+48. Interpretable Distribution Features with Maximum Testing Power, Wittawat Jitkrittum*, Gatsby Unit, UCL; Zoltan Szabo, ; Kacper Chwialkowski, Gatsby Unit, UCL; Arthur Gretton, NIPS16
+49. Domain Separation Networks, NIPS16
+50. Multimodal Residual Learning for Visual QA, NIPS16
+51. Learning feed-forward one-shot learners, NIPS16
+52. Adversarial Multiclass Classification: A Risk Minimization Perspective, NIPS16
+53. Generating Images with Perceptual Similarity Metrics based on Deep Networks, NIPS16
+54. Dialog-based Language Learning, Jason Weston*, NIPS16
+55. The Robustness of Estimator Composition, NIPS16
+56. Large Margin Discriminant Dimensionality Reduction in Prediction Space, NIPS16
+57. Robustness of classifiers: from adversarial to random noise, NIPS16
+58. Examples are not Enough, Learn to Criticize! Model Criticism for Interpretable Machine Learning, NIPS16
+59. Blind Attacks on Machine Learners, Alex Beatson*, Princeton University; Zhaoran Wang, Princeton University; Han Liu, NIPS16
+60. Composing graphical models with neural networks for structured representations and fast inference, NIPS16
+61. Spatiotemporal Residual Networks for Video Action Recognition, NIPS16
+62. Learning Important Features Through Propagating Activation Differences, ICML17
+
+<hr>
+
+<p><a name="Opt"></a></p>
+
+## Optimization
+1. Johnson - Automatic Differentiation.p https://drive.google.com/file/d/0B6NHiPcsmak1ckYxR2hmRGdzdFk/view
+2. Osborne - Probabilistic numerics for deep learning - DLSS 2017.pdf https://drive.google.com/file/d/0B2A1tnmq5zQdWHBYOFctNi1KdVU/view
+3. Learned Optimizers that Scale and Generalize, Olga Wichrowska, Niru Maheswaranathan, Matthew Hoffman, Sergio Gomez, Misha Denil, Nando de Freitas, Jascha Sohl-Dickstein
+4. Learning to learn by gradient descent by gradient descent
+5. Asynchronous Stochastic Gradient Descent with Delay Compensation,
+6. How to Escape Saddle Points Efficiently, Chi Jin (UC Berkeley) · Rong Ge (Duke University) · Praneeth Netrapalli (Microsoft Research) · Sham M. Kakade (University of Washington) · Michael Jordan (UC Berkeley)
+7. Natasha: Faster Non-Convex Stochastic Optimization Via Strongly Non-Convex Parameter
+8. Batched High-dimensional Bayesian Optimization via Structural Kernel Learning
+9. Towards Principled Methods for Training Generative Adversarial Networks, ICLR17
+10. Optimization as a Model for Few-Shot Learning, ICLR17
+11. Amortised MAP Inference for Image Super-resolution, ICLR17
+12. Neural Architecture Search with Reinforcement Learning, ICLR17
+13. Distributed Second-Order Optimization using Kronecker-Factored Approximations, ICLR17
+14. Mode Regularized Generative Adversarial Networks, ICLR17
+15. Highway and Residual Networks learn Unrolled Iterative Estimation, ICLR17
+16. Snapshot Ensembles: Train 1, Get M for Free, ICLR17
+17. Learning to Optimize, ICLR17
+18. Recurrent Batch Normalization, ICLR17
+19. Adversarially Learned Inference, ICLR17
+20. Reasoning with Memory Augmented Neural Networks for Language Comprehension, ICLR17
+21. Deep ADMM-Net for Compressive Sensing MRI, NIPS16
+22. Sharp Minima Can Generalize For Deep Nets, ICML17
+23. Forward and Reverse Gradient-Based Hyperparameter Optimization, ICML17
+24. Automated Curriculum Learning for Neural Networks, ICML17
+25. How to Escape Saddle Points Efficiently, ICML17
+26. Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs, ICML17
+27. An overview of gradient optimization algorithms, (https://arxiv.org/abs/1609.04747)
+28. Learning Deep Architectures via Generalized Whitened Neural Networks, Ping Luo ; PMLR 70:2238-2246
+29. The Loss Surface of Deep and Wide Neural Networks, Quynh Nguyen, Matthias Hein ; PMLR 70:2603-2612
+30. Relative Fisher Information and Natural Gradient for Learning Large Modular Models, Ke Sun, Frank Nielsen ; PMLR 70:3289-3298
+31. meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting, Xu Sun, Xuancheng Ren, Shuming Ma, Houfeng Wang ; PMLR 70:3299-3308
+32. Axiomatic Attribution for Deep Networks, Mukund Sundararajan, Ankur Taly, Qiqi Yan ; PMLR 70:3319-3328
+33. Follow the Moving Leader in Deep Learning, Shuai Zheng, James T. Kwok ; PMLR 70:4110-4119
+34. Oracle Complexity of Second-Order Methods for Finite-Sum Problems, ICML17
+35. The Shattered Gradients Problem: If resnets are the answer, then what is the question?, ICML17
+36. Neural Taylor Approximations: Convergence and Exploration in Rectifier Networks, ICML17
+37. End-to-End Differentiable Adversarial Imitation Learning, ICML17
+38. Neural Optimizer Search with Reinforcement Learning, ICML17
+39. Adaptive Neural Networks for Efficient Inference, ICML17
+40. Practical Gauss-Newton Optimisation for Deep Learning, ICML17
+41. Deep Tensor Convolution on Multicores, ICML17
+42. The Generalized Reparameterization Gradient, Francisco Ruiz*, Columbia University; Michalis K. Titsias, ; David Blei, NIPS16
+43. Attend, Infer, Repeat: Fast Scene Understanding with Generative Models, NIPS16
+44. Memory-Efficient Backpropagation Through Time, NIPS16
+45. Professor Forcing: A New Algorithm for Training Recurrent Networks, NIPS16
+46. Understanding the Effective Receptive Field in Deep Convolutional Neural Networks, NIPS16
+
+<hr>
+
+<p><a name="Gen"></a></p>
+
+## Generative
+0. GAN tutorial by Ian Goodfellow (NIPS 2016):  https://arxiv.org/abs/1701.00160  https://www.youtube.com/watch?v=AJVyzd0rqdc
+1. Goodfellow - Generative Models I - DLSS 2017 https://drive.google.com/file/d/0ByUKRdiCDK7-bTgxTGoxYjQ4NW8/view
+2. Courville - Generative Models II - DLSS 2017. https://drive.google.com/file/d/0B_wzP_JlVFcKQ21udGpTSkh0aVk/view
+3. Makhzani and Frey - PixelGAN Autoencoders.pdf https://drive.google.com/file/d/0B6NHiPcsmak1SFdRN2lmS3FnekE/view
+4. Welling - Graphical Models and Deep Learning.pd  https://drive.google.com/file/d/0B6NHiPcsmak1NHJHdzEySzNNQ0U/view
+5. Parallel Multiscale Autoregressive Density Estimation, Scott Reed, Aäron van den Oord, Nal Kalchbrenner, Ziyu Wang, Dan Belov, Nando de Freitas
+6. Count-Based Exploration with Neural Density Models, Georg Ostrovski, Marc Bellemare, Aaron van den Oord, Remi Munos
+7. Learning Deep Latent Gaussian Models with Markov Chain Monte Carlo, Maithra Raghu, Ben Poole, Surya Ganguli, Jon Kleinberg, Jascha Sohl-Dickstein
+8. Johnson - Graphical Models and Deep Learning https://drive.google.com/file/d/0B6NHiPcsmak1RmZ3bmtFWUd5bjA/view?usp=drive_web
+9. Variational Boosting: Iteratively Refining Posterior Approximations, Andrew Miller, Nicholas J Foti, Ryan Adams
+10. Stochastic Generative Hashing, Bo Dai, Ruiqi Guo, Sanjiv Kumar, Niao He, Le Song, ICML17
+11. Robust Structured Estimation with Single-Index Models, ICML17
+12. Learning to Act by Predicting the Future, ICLR17
+13. Improving Generative Adversarial Networks with Denoising Feature Matching, ICLR17
+14. Boosted Generative Models, ICLR17
+15. The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables, ICLR17
+16. Robust Probabilistic Modeling with Bayesian Data Reweighting, ICML17
+17. Deep Generative Models for Relational Data with Side Information, ICML17
+18. Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jung Kwon Lee, Jiwon Kim ; PMLR 70:1857-1865
+19. Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks, Lars Mescheder, Sebastian Nowozin, Andreas Geiger ; PMLR 70:2391-2400
+20. McGan: Mean and Covariance Feature Matching GAN, Youssef Mroueh, Tom Sercu, Vaibhava Goel ; PMLR 70:2527-2535
+21. Parallel Multiscale Autoregressive Density Estimation, Scott Reed, Aäron Oord, Nal Kalchbrenner, Sergio Gómez Colmenarejo, Ziyu Wang, Yutian Chen, Dan Belov, Nando Freitas ; PMLR 70:2912-2921
+22. Adversarial Feature Matching for Text Generation, Yizhe Zhang, Zhe Gan, Kai Fan, Zhi Chen, Ricardo Henao, Dinghan Shen, Lawrence Carin ; PMLR 70:4006-4015
+23. Learning Hierarchical Features from Deep Generative Models, Shengjia Zhao, Jiaming Song, Stefano Ermon ; PMLR 70:4091-4099
+24. Wasserstein Generative Adversarial Networks, ICML17
+25. Generalization and Equilibrium in Generative Adversarial Nets (GANs), ICML17
+26. Exponential Family Embeddings, NIPS16
+27. Wasserstein GAN, ICML17
+
+
+<hr>
+
+<p><a name="RL"></a></p>
+
+## Reinforcement
+0.  Hasselt - Deep Reinforcement Learning - RLSS 2017.pdf https://drive.google.com/file/d/0BzUSSMdMszk6UE5TbWdZekFXSE0/view?usp=drive_web
+1. Pineau - RL Basic Concepts - RLSS 2017.pdf https://drive.google.com/file/d/0BzUSSMdMszk6bjl3eU5CVmU0cWs/view
+http://videolectures.net/deeplearning2016_pineau_reinforcement_learning/
+and http://videolectures.net/deeplearning2016_pineau_advanced_topics/
+2. Roux - RL in the Industry - RLSS 2017.pdf https://drive.google.com/file/d/0BzUSSMdMszk6bEprTUpCaHRrQ28/view
+3. Singh - Steps Towards Continual Learning.pdf https://drive.google.com/file/d/0BzUSSMdMszk6YVhFUUNLZnZLSWs/view?usp=drive_web
+4. Sutton - Temporal-Difference Learning- RLSS 2017.pd https://drive.google.com/file/d/0BzUSSMdMszk6VE9kMkY2SzQzSW8/view?usp=drive_web
+5. Szepesvari - Theory of RL - RLSS 2017.pdf https://drive.google.com/file/d/0BzUSSMdMszk6U194Ym5jSnZQbGM/view?usp=drive_web
+6. Thomas - Safe Reinforcement Learning - RLSS 2017.pdf https://drive.google.com/file/d/0BzUSSMdMszk6TDRMRGRaM0dBcHM/view?usp=drive_web
+7. Minimax Regret Bounds for Reinforcement Learning, Mohammad Gheshlaghi Azar, Ian Osband, Remi Munos
+8. Why is Posterior Sampling Better than Optimism for Reinforcement Learning? Ian Osband, Benjamin Van Roy
+9. DARLA: Improving Zero-Shot Transfer in Reinforcement Learning, Irina Higgins*, Arka Pal*, Andrei Rusu, Loic Matthey, Chris Burgess, Alexander Pritzel, Matt Botvinick, Charles Blundell, Alexander Lerchner
+10. A Distributional Perspective on Reinforcement Learning, Marc G. Bellemare*, Will Dabney*, Remi Munos
+11. A Laplacian Framework for Option Discovery in Reinforcement Learning, Marlos Machado (Univ. Alberta), Marc G. Bellemare, Michael Bowling
+12. The Predictron: End-to-End Learning and Planning, David Silver, Hado van Hasselt, Matteo Hessel, Tom Schaul, Arthur Guez, Tim Harley, Gabriel Dulac-Arnold, David Reichert, Neil Rabinowitz, Andre Barreto, Thomas Degris
+13. FeUdal Networks for Hierarchical Reinforcement Learning, Sasha Vezhnevets, Simon Osindero, Tom Schaul, Nicolas Hees, Max Jaderberg, David Silver, Koray Kavukcuoglu
+14.  Neural Episodic Control, Alex Pritzel, Benigno Uria, Sriram Srinivasan, Adria Puigdomenech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, Charles Blundell
+15. Robust Adversarial Reinforcement Learning, Lerrel Pinto, James Davidson, Rahul Sukthankar, Abhinav Gupta
+16. Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs, Michael Gygli, Mohammad Norouzi, Anelia Angelova
+17. Distral: Robust Multitask Reinforcement Learning, https://arxiv.org/pdf/1707.04175.pdf
+18. Reinforcement Learning with Unsupervised Auxiliary Tasks, ICLR17
+19. Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic, ICLR17
+20. DARLA: Improving Zero-Shot Transfer in Reinforcement Learning, ICML17
+21. Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning, Junhyuk Oh, Satinder Singh, Honglak Lee, Pushmeet Kohli ; PMLR 70:2661-2670
+22. Count-Based Exploration with Neural Density Models, Georg Ostrovski, Marc G. Bellemare, Aäron Oord, Rémi Munos ; PMLR 70:2721-2730
+23. Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction, Wen Sun, Arun Venkatraman, Geoffrey J. Gordon, Byron Boots, J. Andrew Bagnell ; PMLR 70:3309-3318
+
+
+
+<hr>
+
+## More:
+1. [ICLR 2017 Papers](https://openreview.net/group?id=ICLR.cc/2017/conference)
+2. [ICML 2017 Papers](https://2017.icml.cc/Conferences/2017/Schedule?type=Poster)
+3. [NIPS 2017 papers](https://nips.cc/Conferences/2016/AcceptedPapers)
+4. [Yann Lecun](http://yann.lecun.com/exdb/publis/index.html)
+5. [Y. Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ)
+6. [G. Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en)
+7. [Juergen Schmidhuber](https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en&oi=sra)
+
+<hr>
+
+
+
+<div style="position: fixed; bottom: 76px; right:10px; width: 128px; height: 251px; background-color: #FFCF79;">
+<a style="position: fixed; bottom:130px; right:10px;" href="#Foud">I: Foundations</a>
+<a style="position: fixed; bottom:155px; right:10px;" href="#Stru">II: Structures</a>
+<a style="position: fixed; bottom:180px; right:10px;" href="#App">III: Apps</a>
+<a style="position: fixed; bottom:205px; right:10px;" href="#Opt">IV: Optimiza.</a>
+<a style="position: fixed; bottom:230px; right:10px;" href="#Gen">V: Generative</a>
+<a style="position: fixed; bottom:255px; right:10px;" href="#RL">VI: RL</a>
+<a style="position: fixed; bottom:280px; right:10px;" href="#Graphs">VII: Graphs</a>
+<a style="position: fixed; bottom:300px; right:10px;" href="#Learn">VIII: Analysis</a>
+
+<a style="position: fixed; bottom:80px; right:10px;" href="#topPage" title="Back to Top">BackTop</a>
+</div>

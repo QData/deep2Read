@@ -1,5 +1,10 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Reliable18- Understand DNNs 
 desc: 2018-team
 categories:

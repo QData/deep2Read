@@ -1,0 +1,48 @@
+main:
+  - title: "PostsByYear"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "Potential2Read"
+    url: /Potential2Read
+  - title: "BasicDeep"
+    url: /Basic2LearnDeep
+  - title: "BasicML"
+    url: /Basic2LearnML
+
+
+sidebar-sample:
+  - title: "Indexed into each Category"
+    children:
+      - title: "0Basics"
+        url: /categories/0Basics/
+      - title: "1Theoretical"
+        url: /categories//1Theoretical
+      - title: "2Architecture"
+        url: /categories//2Architecture
+      - title: "2GraphsNN"
+        url: /categories//2GraphsNN
+      - title: "3Reliable"
+        url: /categories//3Reliable/
+      - title: "4Optimization"
+        url: /categories//4Optimization/
+      - title: "5Generative"
+        url: /categories//5Generative
+      - title: "6Reinforcement"
+        url: /categories//6Reinforcement
+      - title: "7MetaDomain"
+        url: /categories//7MetaDomain
+      - title: "8Scalable"
+        url: /categories/8Scalable/
+      - title: "9DiscreteApp"
+        url: /categories//9DiscreteApp
+  - title: "Organized via Full Posts"
+    children:
+      - title: "via Categories"
+        url: /aReadingsIndexByCategory
+      - title: "via Tags"
+        url: /aReadingsIndexByTags
+      - title: "via Teach Terms"
+        url: /aReadingsIndexByDate

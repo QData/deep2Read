@@ -1,5 +1,10 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Basic16- Basic DNN Reads we finished for NLP/Text 
 desc: 2017-team
 categories:

@@ -1,5 +1,10 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Survey18- My Tutorial Talk at ACM BCB18 - Interpretable Deep Learning for Genomics
 desc: 2018-me
 categories:

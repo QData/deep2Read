@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: GNN for BioMed Applications   
 desc: 2019-W3
 term: 2019sCourse
 categories:
-- 2Graphs
+- 2GraphsNN
 - 9DiscreteApp
 tags: [ attention, relational, visualizing, geometric, DNA, protein, molecule]
 ---

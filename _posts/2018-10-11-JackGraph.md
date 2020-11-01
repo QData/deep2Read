@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Structures18- DNN for Relations
 desc: 2018-team
 categories:
 - 2Architecture
-- 2Graphs
+- 2GraphsNN
 term: 2018Reads
 tags: [ relational, InfoMax]
 ---

@@ -1,5 +1,10 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Application18- Property of DeepNN Models and Discrete tasks 
 desc: 2018-team
 term: 2018Reads

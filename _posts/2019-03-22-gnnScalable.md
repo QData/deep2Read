@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: GNN and scalable  
 desc: 2019-W9
 term: 2019sCourse
 categories:
-- 2Graphs
+- 2GraphsNN
 - 8Scalable
 tags: [ graph, discrete, NLP, embedding, Hierarchical,   Parallel,  Distributed, dynamic ]
 ---

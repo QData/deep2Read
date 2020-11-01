@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: GNN Robustness  
 desc: 2019-W7
 term: 2019sCourse
 categories:
-- 2Graphs
+- 2GraphsNN
 - 3Reliable
 tags: [ graph, structured, Adversarial-Examples, binary]
 ---

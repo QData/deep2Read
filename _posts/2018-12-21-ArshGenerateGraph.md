@@ -1,10 +1,15 @@
 ---
-layout: post
+toc: true
+author_profile: true
+sidebar:
+  title: "Reviews Indexed"
+  nav: sidebar-sample
+layout: single
 title: Generate18- Deep Generative Models for Graphs
 desc: 2018-team
 categories:
 - 5Generative
-- 2Graphs
+- 2GraphsNN
 term: 2018Reads
 tags: [ generative, GAN, discrete,  Autoencoder, Variational, molecule, graph, DNA]
 ---
