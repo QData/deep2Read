@@ -1,22 +1,16 @@
 main:
-  - title: "PostsByYear"
-    url: /posts/
   - title: "PostsByTags"
     url: /tags/
-  - title: "PostsByCategories"
-    url: /categories/
-  - title: "Detailed-Year"
-    url: /aReadingsIndexByCategory
   - title: "Detailed-Tags"
     url: /aReadingsIndexByTags
+  - title: "PostsByYear"
+    url: /posts/
   - title: "Detailed-Terms"
     url: /aReadingsIndexByDate
-  - title: "Potential2Read"
-    url: /Potential2Read
-  - title: "BasicDeep"
-    url: /Basic2LearnDeep
-  - title: "BasicML"
-    url: /Basic2LearnML
+  - title: "PostsByCategory"
+    url: /categories/
+  - title: "Detailed-Category"
+    url: /aReadingsIndexByCategory
 
 sidebar-sample:
   - title: "Indexed into each Category"
@@ -43,3 +37,19 @@ sidebar-sample:
         url: /categories/8Scalable/
       - title: "9DiscreteApp"
         url: /categories//9DiscreteApp
+  - title: "Useful Reads"
+    children:
+      - title: "BasicDeep"
+        url: /Basic2LearnDeep
+      - title: "BasicML"
+        url: /Basic2LearnML
+      - title: "Potential2Read"
+        url: /Potential2Read
+  - title: "Detailed Index"
+    children:
+      - title: "Detailed-Tags"
+        url: /aReadingsIndexByTags
+      - title: "Detailed-Terms"
+        url: /aReadingsIndexByDate
+      - title: "Detailed-Category"
+        url: /aReadingsIndexByCategory
