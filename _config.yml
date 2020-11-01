@@ -23,7 +23,8 @@ email: yanjun.research@gmail.com
 twitter_username: Qdatalab
 github_username:  qiyanjun
 
-
+baseurl:        /deep2Read/
+url:            https://qdata.github.io/
 
 # minimal_m settings
 minimal_mistakes_skin: "default"
