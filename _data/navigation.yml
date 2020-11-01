@@ -1,9 +1,9 @@
 main:
   - title: "PostsByYear"
     url: /posts/
-  - title: "Tags"
+  - title: "PostsByTags"
     url: /tags/
-  - title: "Categories"
+  - title: "PostsByCategories"
     url: /categories/
   - title: "Detailed-Year"
     url: /aReadingsIndexByCategory
