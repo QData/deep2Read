@@ -1,4 +1,6 @@
 ---
+classes: wide
+toc: false
 title: "Reviews by Year"
 permalink: /posts/
 layout: posts

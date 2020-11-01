@@ -1,5 +1,5 @@
 ---
-
+classes: wide
 toc: false
 author_profile: true
 sidebar:
