@@ -6,7 +6,7 @@ sidebar:
   title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
-permalink: /aReadingsIndexByCategory
+permalink: /aReadingsIndexByCategory/
 title: Readings ByCategory
 desc: "Deep Learning Readings Organized by Category Table (2017 to Now)"
 order: "9a"

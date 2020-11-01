@@ -5,7 +5,7 @@ sidebar:
   title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
-permalink: /Potential2Read
+permalink: /Potential2Read/
 title: Potential Reading List
 desc: "Potential Readings of Deep Learning We Choose from: "
 order: "9f"

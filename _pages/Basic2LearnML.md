@@ -6,7 +6,7 @@ sidebar:
   title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
-permalink: /Basic2LearnML
+permalink: /Basic2LearnML/
 title: Machine Learning Basics
 desc: "Basic Readings of Machine Learning We Finished Before 2016-Fall"
 order: "9z"

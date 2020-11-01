@@ -6,7 +6,7 @@ sidebar:
   title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
-permalink: /aReadingsIndexByDate
+permalink: /aReadingsIndexByDate/
 title: Readings ByReadDate
 desc: "Our Reviews of Deep Learning Readings by Date-Read (Now to 2017)"
 order: "9b"

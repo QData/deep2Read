@@ -6,7 +6,7 @@ sidebar:
   title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
-permalink: /aReadingsIndexByTags
+permalink: /aReadingsIndexByTags/
 title: Readings ByTag
 desc: "Deep Learning Readings Organized by Detailed Tags (2017 to Now)"
 order: "9c"
