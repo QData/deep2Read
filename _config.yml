@@ -74,13 +74,13 @@ author:
   links:
     - label: "HomePage"
       icon: "fas fa-fw fa-link"
-      url: "https://www.cs.virginia.edu/yanjun/"
+      url: "https://qdata.github.io/qdata-page/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Qdatalab"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/qiyanjun"
+      url: "https://github.com/QData"
 
 
 
