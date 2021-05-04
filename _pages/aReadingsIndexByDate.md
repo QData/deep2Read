@@ -48,6 +48,11 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
       {% assign t = term.name %}
     {% endif %}
 
+
+<BR>
+<BR>
+
+
 <h1>
   <a name="{{t | replace:" ","-" }}"></a>
   <a class="internal" href="{{ site.baseurl }}/aReadingsIndexByDate/#{{t | replace:" ","-" }}">{{ t  }}</a>

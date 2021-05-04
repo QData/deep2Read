@@ -31,6 +31,9 @@ Click on a category to see relevant list of readings.
 {% for tag in sorted %}
   {% assign t = tag | first %}
 
+<BR>
+<BR>
+
 <h1><a name="{{t | replace:" ","-" }}"></a><a class="internal" href="{{ site.baseurl }}/aReadingsIndexByCategory/#{{t | replace:" ","-" }}">{{ t  }}</a></h1>
 
 <!--- for each tag, get a table of index -->

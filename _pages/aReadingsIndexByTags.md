@@ -50,6 +50,9 @@ Besides using high-level categories, we also use the following detailed tags to 
 
   {% assign tcounter=tcounter | plus:1 %}
 
+<BR>
+
+
 <a name="{{newtag }}"></a>
 <h1>[{{ tcounter }}]: <a class="internal" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{newtag }}">{{ newtag }}</a></h1>
 
