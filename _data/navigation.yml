@@ -1,16 +1,16 @@
 main:
-  - title: "PostsByTags"
-    url: /tags/
   - title: "Detailed-Tags"
     url: /aReadingsIndexByTags
-  - title: "PostsByYear"
-    url: /posts/
   - title: "Detailed-Terms"
     url: /aReadingsIndexByDate
-  - title: "PostsByCategory"
-    url: /categories/
   - title: "Detailed-Category"
     url: /aReadingsIndexByCategory
+  - title: "PostsByYear"
+    url: /posts/
+  - title: "PostsByTags"
+    url: /tags/
+  - title: "PostsByCategory"
+    url: /categories/
 
 sidebar-sample:
   - title: "Indexed into each Category"
