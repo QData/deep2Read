@@ -47,9 +47,9 @@ sidebar-sample:
         url: /Potential2Read
   - title: "Detailed Index"
     children:
-      - title: "Detailed-Tags"
+      - title: "DetailedByTags"
         url: /aReadingsIndexByTags
-      - title: "Detailed-Terms"
+      - title: "DetailedByYear"
         url: /aReadingsIndexByDate
-      - title: "Detailed-Category"
+      - title: "DetailedByCategory"
         url: /aReadingsIndexByCategory
