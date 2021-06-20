@@ -1,9 +1,9 @@
 main:
-  - title: "Detailed-Tags"
+  - title: "DetailedByTags"
     url: /aReadingsIndexByTags
-  - title: "Detailed-Terms"
+  - title: "DetailedByYear"
     url: /aReadingsIndexByDate
-  - title: "Detailed-Category"
+  - title: "DetailedByCategory"
     url: /aReadingsIndexByCategory
   - title: "PostsByYear"
     url: /posts/
