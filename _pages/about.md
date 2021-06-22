@@ -14,7 +14,7 @@ permalink: /
 <div>
 This website includes a (growing) list of papers and lectures we read about deep learning and related.
 Feel free to submit <a href="https://github.com/QData/deep2Read" target="_blank" >pull requests</a>
-when you find my typos or have comments. The covered materials are by no means an exhaustive list, but are papers that we have read or plan to learn in our reading group.
+when you find my typos or have comments. The covered materials are by no means an exhaustive list, but are papers that we have read or plan to learn in our reading group.  -- By [Dr. Yanjun Qi](https://www.cs.virginia.edu/yanjun/) 
 </div>
 
 
@@ -33,9 +33,9 @@ when you find my typos or have comments. The covered materials are by no means a
 
 ## About the Sidebar and how we group the readings 
 
-+ Until Dec. 2019, we have shared reviewes slides for about 300 deep learning papers via this web site. 
++ Until Dec. 2020, we have shared reviewes slides for about 500 deep learning papers via this web site. 
 
-+ Until Dec. 2019, we have finished  {{ site.posts | size }} reading sessions. Each reading session reviewed multiple deep learning papers. Each post in this website summarizes one of our reading session. 
++ Until Dec. 2020, we have finished  {{ site.posts | size }} reading sessions. Each reading session reviewed multiple deep learning papers. Each post in this website summarizes one of our reading session. 
 
 + Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one item in this website's side bar. 
 
