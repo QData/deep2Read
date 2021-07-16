@@ -14,8 +14,9 @@ permalink: /
 <div>
 This website includes a (growing) list of papers and lectures we read about deep learning and related.
 Feel free to submit <a href="https://github.com/QData/deep2Read" target="_blank" >pull requests</a>
-when you find my typos or have comments. The covered materials are by no means an exhaustive list, but are papers that we have read or plan to learn in our reading group.  -- By [Dr. Yanjun Qi](https://www.cs.virginia.edu/yanjun/) 
-</div>
+when you find my typos or have comments. The covered materials are by no means an exhaustive list, but are papers that we have read or plan to learn in our reading group.  </div>
+
+-- By [Dr. Yanjun Qi] @[https://www.cs.virginia.edu/yanjun/](https://www.cs.virginia.edu/yanjun/) 
 
 
 <br>
@@ -37,7 +38,7 @@ when you find my typos or have comments. The covered materials are by no means a
 
 + Until Dec. 2020, we have finished  {{ site.posts | size }} reading sessions. Each reading session reviewed multiple deep learning papers. Each post in this website summarizes one of our reading session. 
 
-+ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one item in this website's side bar. 
++ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one item in this website's top header bar. 
 
 + ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
 
@@ -91,7 +92,7 @@ when you find my typos or have comments. The covered materials are by no means a
 + Instructor's Permission for enrollment is required for this course.
 + Required courses as prerequisite: Graduate-level machine
  learning; Introduction of Deep Learning and Graduate-level Optimization are preferred.
-+ Familiar reading of [Basic Deep Learning]({{ site.baseurl }}/Basic2LearnDeep })  are preferred.
++ Familiar reading of [Basic Deep Learning](https://qdata.github.io/deep2Read/Basic2LearnDeep/)  are preferred.
 
 
 ### Course Grading Policy
