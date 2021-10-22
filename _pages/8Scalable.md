@@ -17,6 +17,7 @@ order: "8"
 
 
 
+
 <p><a name="topPage"></a></p>
 
   <hr> 
@@ -51,11 +52,16 @@ order: "8"
 
 </table>
 
-<hr>
+
 
 <!--- present its posts in orders -->
 
-<div class="posts">
+
+<hr>
+<br>
+<h1>Here is a detailed list of posts!</h1>
+<br>
+
 
 {% assign counter = 0 %}
 {% assign sorted = site.posts  | sort: 'date' | reverse  %}
@@ -63,6 +69,7 @@ order: "8"
   {% if post.categories contains page.title %}
     {% assign counter=counter | plus:1 %}
 
+<div class="posts">
 <hr>
   <div class="post">
     <h2 class="post-title">[{{ counter }}]:
@@ -71,16 +78,15 @@ order: "8"
       </a>
     </h2>
 
-  {% if post.date %}
+    {% if post.date %}
      <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> <br>
-  {% endif %}
+    {% endif %}
 
     {% if post.tags %}
      {% for word in post.tags %}
         {% assign wordd = word | downcase %}        
         <a class="button" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{wordd | replace:" ","-" }}"> {{ word }}</a> 
       {% endfor %}  
- 
     {% endif %}
 
     {% if post.content contains '<!--excerpt.start-->'  %}
@@ -94,13 +100,12 @@ order: "8"
   {% endif %}
 {% endfor %}
 
-</div>
+<hr>
+<hr>
+<br>
+<h1>Here is a name list of posts!</h1>
+<br>
 
----
-
-{% endfor %}
-
----
 
 
 <div style="position: fixed; bottom: 39px; right:10px; width: 129px; height: 58px; background-color: #FFCF79;">
