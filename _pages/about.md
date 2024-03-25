@@ -8,9 +8,7 @@ layout: single
 permalink: /
 ---
 
-## About this website 
-
-+ To educate myself (+my collaborators) and catch up with the fast growing AI literature and Tech news.
++ This website aims to educate myself (+my collaborators) and catch up with the fast growing AI literature and Tech news.
 + This website includes a (growing) list of tech materials I read for the above purpose.
 + I hope this website is helpful to people who share similar interests or are interested with learning similar topics.
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
@@ -20,15 +18,6 @@ permalink: /
 
 ---
 
-## About the Sidebar and how I group the readings 
-
-+ I try to organize the readings according to three different variables. Each variable maps to one item in this website's top header bar. 
-
-
-+ ByTags: I use different tags to organize topics I red. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
-
-
-+ ByReadDates: I also group readings according to what year. Please check out  readings sorted by year via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
 
 ## About the Sidebar and how we group the readings 
 

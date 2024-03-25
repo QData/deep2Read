@@ -71,9 +71,9 @@ author:
   # avatar: "/pic/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Here are Papers We Reviewed. We are science curious."
   links:
-    - label: "HomePage"
+    - label: "MyHomePage"
       icon: "fas fa-fw fa-link"
-      url: "https://qdata.github.io/qdata-page/"
+      url: "https://qiyanjun.github.io/Homepage/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Qdatalab"
