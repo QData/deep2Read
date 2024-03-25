@@ -16,7 +16,7 @@ permalink: /
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
 
 
--- By [Dr. Yanjun Qi] @[https://www.cs.virginia.edu/yanjun/](https://www.cs.virginia.edu/yanjun/) 
+-- By [Dr. Yanjun Qi] @[https://qiyanjun.github.io/Homepage/](https://qiyanjun.github.io/Homepage/) 
 
 ---
 

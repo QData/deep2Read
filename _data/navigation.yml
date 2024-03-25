@@ -37,14 +37,6 @@ sidebar-sample:
         url: /categories/8Scalable/
       - title: "9DiscreteApp"
         url: /categories//9DiscreteApp
-  - title: "Useful Reads"
-    children:
-      - title: "BasicDeep"
-        url: /Basic2LearnDeep
-      - title: "BasicML"
-        url: /Basic2LearnML
-      - title: "Potential2Read"
-        url: /Potential2Read
   - title: "Detailed Index"
     children:
       - title: "DetailedByTags"
@@ -53,3 +45,9 @@ sidebar-sample:
         url: /aReadingsIndexByDate
       - title: "DetailedByCategory"
         url: /aReadingsIndexByCategory
+  - title: "Basic Reads"
+    children:
+      - title: "BasicDeep"
+        url: /Basic2LearnDeep
+      - title: "BasicML"
+        url: /Basic2LearnML

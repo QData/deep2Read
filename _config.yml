@@ -16,11 +16,10 @@
 
 
 title:              "About deep2Read"
-description:        "Papers We Reviewed:"
+description:        "Papers I Reviewed:"
 email: yanjun.research@gmail.com
 
 
-twitter_username: Qdatalab
 github_username:  qiyanjun
 
 baseurl:        /deep2Read/
@@ -68,7 +67,7 @@ plugins:
 
 
 author:
-  name   : "Qdatalab"
+  name   : "Dr. Yanjun Qi"
   # avatar: "/pic/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Here are Papers We Reviewed. We are science curious."
   links:
