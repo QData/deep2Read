@@ -3,42 +3,37 @@ toc: false
 classes: wide
 author_profile: true
 sidebar:
-  title: "Reviews Indexed"
   nav: sidebar-sample
 layout: single
 permalink: /
 ---
 
-<h1> Website "deep2Read" for UVA Qdata Group's Deep Learning Journal Club </h1>
-<br>
-<div>
-This website includes a (growing) list of papers and lectures we read about deep learning and related.
-Feel free to submit <a href="https://github.com/QData/deep2Read" target="_blank" >pull requests</a>
-when you find my typos or have comments. The covered materials are by no means an exhaustive list, but are papers that we have read or plan to learn in our reading group.  </div>
+## About this website 
+
++ To educate myself (+my collaborators) and catch up with the fast growing AI literature and Tech news.
++ This website includes a (growing) list of tech materials I read for the above purpose.
++ I hope this website is helpful to people who share similar interests or are interested with learning similar topics.
++ Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
+
 
 -- By [Dr. Yanjun Qi] @[https://www.cs.virginia.edu/yanjun/](https://www.cs.virginia.edu/yanjun/) 
 
-
-<br>
-
---- 
-
-## About this website:
-
-+ As a group, we need to improve our knowledge of the fast-growing field of deep learning
-+ To educate students in our graduate programs, to help new members in my team with basic tutorials, and to help current members understand advanced topics better, this website includes a (growing) list of tutorials and papers we survey for such a purpose.
-+ We hope this website helps people who share similar research interests or those interested in learning advanced topics about deep learning.
-+ Please feel free to email me (yanjun@virginia.edu), if you have comments, questions or recommendations.
-
 ---
+
+## About the Sidebar and how I group the readings 
+
++ I try to organize the readings according to three different variables. Each variable maps to one item in this website's top header bar. 
+
+
++ ByTags: I use different tags to organize topics I red. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
+
+
++ ByReadDates: I also group readings according to what year. Please check out  readings sorted by year via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
 
 ## About the Sidebar and how we group the readings 
 
-+ Until Dec. 2020, we have shared reviewes slides for about 500 deep learning papers via this web site. 
 
-+ Until Dec. 2020, we have finished  {{ site.posts | size }} reading sessions. Each reading session reviewed multiple deep learning papers. Each post in this website summarizes one of our reading session. 
-
-+ Due to the large number of slides, we try to organize them according to three different variables. Each variable maps to one item in this website's top header bar. 
++ Due to the large number of readings, I try to organize them according to three different variables. Each variable maps to one item in this website's top header bar. 
 
 + ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
 
@@ -46,93 +41,17 @@ when you find my typos or have comments. The covered materials are by no means a
 + ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
 
 
-+ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help students (from a specific semester) navigate, we also group our reading sessions according to what semester a survey talk happened at (via our seminar courses or via our reading club). Please check out our readings sorted by semesters via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
++ ByReadDates: our review slides were done in multiple different semesters (2017Fall, 2018Club, 2019Spring, 2019Fall). To help my students (from a specific semester) navigate, I also group our reading sessions according to what semester a review session has happened at (via my seminar courses or via my journal club). Please check out our readings sorted by semesters via [Readings ByReadDate]({{ site.baseurl }}/aReadingsIndexByDate/) 
 
 
 <hr>
 
 
 ## Claim 
-+ The covered tutorials and papers are by no means an exhaustive list, but are topics which we have learned or plan to learn.
++ The covered readings are by no means an exhaustive list, but are topics that I learned or plan to learn.
 
 
 <hr>
-
-
-
-## History
-
-+ This website was started from two seminar courses I taught at UVA  in Fall 2017 and Spring 2019. Later I expand the content with my team reaing group
-+ The seminar courses offer opportunities for students to have in-depth understanding and hands-on experience of deep learning. Students are expected to generate top-tier publications when finishing the course.
-+ The materials aim to offer opportunities for students to have in-depth understanding and hands-on experience of advances in deep learning. 
-
-
-
-### Course Basics and General Description 
-
-> (The following content is for when we have the seminar course)
-
-+ This is an advanced graduate-level deep learning course.
-+ The course takes the form of half-seminar and half-project. The form of seminar focuses on paper readings.
-+ This course offers opportunities for students to get into research topics about the
- state-of-the-art advanced deep learning.
- + No text book
- + Sit-in: No.  This course is for registered students only.
-
-
-### Instructor
-
-+ [Prof. Yanjun Qi](http://www.cs.virginia.edu/yanjun/)
-+ EMail: [yanjun@virginia.edu](mailto:yanjun@virginia.edu)
-+ Rice Hall 503 , 243-3089
-+ Office hours: Wed 9:30am-12:30pm.
-
-
-### Prerequisite:
-+ Instructor's Permission for enrollment is required for this course.
-+ Required courses as prerequisite: Graduate-level machine
- learning; Introduction of Deep Learning and Graduate-level Optimization are preferred.
-+ Familiar reading of [Basic Deep Learning](https://qdata.github.io/deep2Read/Basic2LearnDeep/)  are preferred.
-
-
-### Course Grading Policy
-  The grade will be calculated as follows:
-+ 60% for the in-class paper presentations/discussions/ note taking
-+ 40% for the project 
-
-
-### Assignments
-+ Sharelatex/overleaf to submit lectures about the assigned papers
-+ Each class, we will assign 4 to 6 reading materials (video lectures or papers or research lecture slides )
-
-+ Each student is expected to have three sets of assigntments: 
-    
-+ (a) Weekly project summary should be updated per week right before project meetings with Prof. Qi; 
-+ (b) Assigned presentation slides: please use the BEAMER template shared through the course overleaf project. Please make sure the presentation slides are ready before every Friday 8am;  ([One Example Slide Presenation]({{site.baseurl}}/talks2017/20171130-Ji.pdf))
-+ (c) Assigned scribe notes: please use the latex template shared through the course overleaf project. Please make sure the scribe notes are ready one week after. ([One Example Scribe note](http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/3-notes-valentino-misener.pdf))
-
-+ For both the paper presentations and the scribe notes, please use the following structure as reference: 
-
-0. Full reference of the paper
-1. Motivations / Why needed ? / Why important ?
-2. Previous solutions
-3. Key insights
-4. Key equations
-5. Key conclusions
-6. Goals achieved: / Under what restrictions or assumptions;
-
-
-
-### Logistics Information
-+ Announcements are being emailed to the course mailing list.
-+ A welcome note will be sent to the mailing  list early in the semester.
-+ Errata and answers to questions are being discussed and answered
-   on the course emailist.
-
-
-<hr>
-
-### The Course  Schedule Reference : [The official Academic Calendar at UVA Registrar](http://www.virginia.edu/registrar/calendar.html)
 
 
 
