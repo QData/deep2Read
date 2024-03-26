@@ -3,7 +3,8 @@ desc: 2022-W4
 term: 2022-selfRead
 title: Stable diffusion + DreamBooth + LoRA  
 categories:
-- 0Basics
+- FMBasic
+- FMMulti
 tags: [ Diffusion, Image synthesis, Efficiency ]
 ---
  

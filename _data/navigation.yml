@@ -15,6 +15,14 @@ main:
 sidebar-sample:
   - title: "Indexed into each Category"
     children:
+      - title: "FM Basic"
+        url: /categories/FMBasic/
+      - title: "FM Adapt"
+        url: /categories//FMAdapt/
+      - title: "FM Risk"
+        url: /categories//FMRisk/
+      - title: "FM Multi"
+        url: /categories//FMMulti/
       - title: "0Basics"
         url: /categories/0Basics/
       - title: "1Theoretical"
