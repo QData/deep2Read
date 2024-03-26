@@ -5,7 +5,7 @@ permalink: /categories/FMRisk/
 taxonomy: FMRisk
 entries_layout: list
 classes: wide
-title: FM Risk
+title: FMRisk
 desc: "Recent Readings for Risks of Foundation Models (since 2022)"
 order: "0"
 author_profile: true

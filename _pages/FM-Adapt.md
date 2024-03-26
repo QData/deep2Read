@@ -5,7 +5,7 @@ permalink: /categories/FMAdapt/
 taxonomy: FMAdapt
 entries_layout: list
 classes: wide
-title: FM Adapt
+title: FMAdapt
 desc: "Recent Readings for Adaptation of Foundation Models (since 2022)"
 order: "0"
 author_profile: true

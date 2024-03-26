@@ -5,7 +5,7 @@ permalink: /categories/FMBasic/
 taxonomy: FMBasic
 entries_layout: list
 classes: wide
-title: FM Basic
+title: FMBasic
 desc: "Recent Readings for Basic Topics of Foundation Models (since 2022)"
 order: "0"
 author_profile: true
