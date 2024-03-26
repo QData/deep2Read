@@ -8,7 +8,7 @@ layout: single
 permalink: /
 ---
 
-+ This website aims to educate myself (+my collaborators) and catch up with the fast growing AI literature and Tech news.
++ This website aims to educate myself (+my collaborators) to catch up with the fast growing AI literature and Deep learning Tech.
 + This website includes a (growing) list of tech materials I read for the above purpose.
 + I hope this website is helpful to people who share similar interests or are interested with learning similar topics.
 + Please feel free to email me (yanjun@virginia.edu), if you have related comments, questions or recommendations.
