@@ -1,5 +1,5 @@
 ---
-desc: 2022-W4
+desc: 2022-W5
 term: 2022-selfRead
 title: Stable diffusion + DreamBooth + LoRA  
 categories:
