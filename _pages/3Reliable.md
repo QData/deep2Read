@@ -20,7 +20,7 @@ order: "3"
 <p><a name="topPage"></a></p>
 
   <hr> 
-  <h1 class="page-title">{{ page.title }} (Index of Posts):</h1>
+  <h1 class="page-title">{{ page.desc }} (Index of Posts):</h1>
 
 <table id="datatab3" summary="Table of Readings" border="1">
 <tr>
