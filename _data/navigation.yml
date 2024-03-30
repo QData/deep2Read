@@ -13,7 +13,15 @@ main:
     url: /categories/
 
 sidebar-sample:
-  - title: "Indexed into each Category"
+  - title: "Detailed Index"
+    children:
+      - title: "DetailedByTags"
+        url: /aReadingsIndexByTags
+      - title: "DetailedByYear"
+        url: /aReadingsIndexByDate
+      - title: "DetailedByCategory"
+        url: /aReadingsIndexByCategory
+  - title: "Recent Posts By Each GenAI Category"
     children:
       - title: "FM Basic"
         url: /categories/FMBasic/
@@ -23,6 +31,8 @@ sidebar-sample:
         url: /categories//FMRisk/
       - title: "FM Multi"
         url: /categories//FMMulti/
+  - title: "Past Posts By Each DNN Category"
+    children:
       - title: "0Basics"
         url: /categories/0Basics/
       - title: "1Theoretical"
@@ -45,15 +55,7 @@ sidebar-sample:
         url: /categories/8Scalable/
       - title: "9DiscreteApp"
         url: /categories//9DiscreteApp
-  - title: "Detailed Index"
-    children:
-      - title: "DetailedByTags"
-        url: /aReadingsIndexByTags
-      - title: "DetailedByYear"
-        url: /aReadingsIndexByDate
-      - title: "DetailedByCategory"
-        url: /aReadingsIndexByCategory
-  - title: "Basic Reads"
+  - title: "Basic DNN Reads"
     children:
       - title: "BasicDeep"
         url: /Basic2LearnDeep

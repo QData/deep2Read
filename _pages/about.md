@@ -24,7 +24,13 @@ permalink: /
 
 + Due to the large number of readings, I try to organize them according to three different variables. Each variable maps to one item in this website's top header bar. 
 
-+ ByCategory: we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}/0Basics/) , [1Theoretical]({{ site.baseurl }}/1Theoretical/) , [2Architecture]({{ site.baseurl }}/2Architecture/) , [2Graphs]({{ site.baseurl }}/2Graphs/) , [3Reliable]({{ site.baseurl }}/3Reliable/) , [4Optimization]({{ site.baseurl }}/4Optimization/) , [5Generative]({{ site.baseurl }}/5Generative/) , [6Reinforcement]({{ site.baseurl }}/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}/7MetaDomain/) , [8Scalable]({{ site.baseurl }}/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}/9DiscreteApp/)  . Please check out these categories and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
+
+
++ ByCategory: for our readings since 2022 on Generative AI, we group our readings to 4 general groups:  [FM Basics]({{ site.baseurl }}//categories/FMBasic/) , [FM Adapt]({{ site.baseurl }}//categories//FMAdapt//) , [FM Risk]({{ site.baseurl }}//categories//FMRisk//) , [FM Multi]({{ site.baseurl }}//categories//FMMulti//)) 
+
++ ByCategory: for our readings from 2017 to 2020 on deep learning, we group our readings to 10 general groups:  [0Basics]({{ site.baseurl }}//categories/0Basics/) , [1Theoretical]({{ site.baseurl }}//categories/1Theoretical/) , [2Architecture]({{ site.baseurl }}//categories/2Architecture/) , [2Graphs]({{ site.baseurl }}//categories/2Graphs/) , [3Reliable]({{ site.baseurl }}//categories/3Reliable/) , [4Optimization]({{ site.baseurl }}//categories/4Optimization/) , [5Generative]({{ site.baseurl }}//categories/5Generative/) , [6Reinforcement]({{ site.baseurl }}//categories/6Reinforcement/) , [7MetaDomain]({{ site.baseurl }}//categories/7MetaDomain/) , [8Scalable]({{ site.baseurl }}//categories/8Scalable/) , [9DiscreteApp]({{ site.baseurl }}//categories/9DiscreteApp/). 
+
++ You can also check out these categories as a whole and their relevant readings via [Readings ByCategory]({{ site.baseurl }}/aReadingsIndexByCategory/) . As shortcuts, we also add each category's page URL as a single item (sorted by Category Names) in our side bar. 
 
 
 + ByTags: we use 150 different tags to organize deep learning papers we reviewed. Please check out these tags via [Readings ByTag]({{ site.baseurl }}/aReadingsIndexByTags/) . 
