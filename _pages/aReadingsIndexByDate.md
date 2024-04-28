@@ -132,7 +132,12 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
       {% endfor %}  
     {% endif %}
 
-    {{ post.content }}
+    {% if post.content contains '<!--excerpt.start-->'  %}
+      {{   post.content | split:'<!--excerpt.start-->' | first  }}
+    {% else %}
+      {{ post.content }}
+    {% endif %}
+
   </div>
 
   {% endif %}
@@ -151,7 +156,7 @@ Click on a term-tag to see relevant list of readings we finished in a certain se
 
 <div style="position: fixed; bottom: 39px; right:10px; width: 119px; height: 318px; background-color: #FFCF79;">
 
-{% assign counter = 250 %}
+{% assign counter = 350 %}
 
 {% assign terms = site.posts | group_by: 'term' | sort: "name"  | reverse %}
   {% for term in terms %}
