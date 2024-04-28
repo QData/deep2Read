@@ -31,6 +31,8 @@ sidebar-sample:
         url: /categories//FMRisk/
       - title: "FM Multi"
         url: /categories//FMMulti/
+      - title: "FM Efficiency"
+        url: /categories//FMEfficient/
   - title: "Past Posts By Each DNN Category"
     children:
       - title: "0Basics"
