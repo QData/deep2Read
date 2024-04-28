@@ -117,7 +117,7 @@ Click on a category to see relevant list of readings.
 ---
 
 
-<div style="position: fixed; bottom: 39px; right:10px; width: 129px; height: 318px; background-color: #FFCF79;">
+<div style="position: fixed; bottom: 39px; right:10px; width: 129px; height: 418px; background-color: #FFCF79;">
 
 {% assign counter = 350 %}
 {% assign sorted = site.categories | sort %}
