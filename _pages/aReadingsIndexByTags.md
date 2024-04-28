@@ -64,44 +64,40 @@ Besides using high-level categories, we also use the following detailed tags to 
     {% if t  == newtag %}
       {% assign posts = tag | last %}
 
-<!--- for each tag, present its posts in a big table -->
 
-### Table of readings
+<!--- for each tag, get a table of index -->
+
 
 {% assign counter = 0 %}
+<table id="datatab3" summary="Table of Lectures" border="1">
+<tr>
+ <h3><b>
+  <th>Index</th>
+  <th>Title</th>
+  <th>Desc</th>
+  </b>
+  </h3>
+</tr>
 
-<div class="posts">
 
 {% assign sortedp = posts  | sort: 'date' | reverse  %}
 {% for post in sortedp %}
-
+  
   {% assign counter=counter | plus:1 %}
 
-  <div class="post">
-
-  <!--  
-  {% if post.tags %}
-     {% for word in post.tags %}
-        {% assign wordd = word | downcase %}        
-        <a class="button" href="{{ site.baseurl }}/aReadingsIndexByTags/#{{wordd | replace:" ","-" }}"> {{ word }}</a> 
-      {% endfor %}  
-    {% endif %}
-  -->
-    {% if post.date %}
-     <span class="post-date">read on: -  {{ post.date | date_to_string }}</span> <br>
-    {% endif %}
-
-    {% if post.content contains '<!--excerpt.start-->'  %}
-      {{   post.content | split:'<!--excerpt.start-->' | first  }}
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-
-  </div>
+  <tr>
+  <td>{{ counter }}</td>  
+  <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></td>
+  <td>{{ post.dec }}</td>  
+  </tr>
 
 {% endfor %}
+</table>
 
-</div>
+<!--- for each tag, present its posts in orders -->
+
+{% endif %}
+{% endfor %}
 
 ---
 
