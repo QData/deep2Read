@@ -11,7 +11,6 @@ main:
     url: /categories/
 
 sidebar-sample:
-  - title: "Index"
     children:
     - title: "PostsByYear"
       url: /posts/
