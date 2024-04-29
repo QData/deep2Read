@@ -1,7 +1,5 @@
 main:
-  - title: "DetailedByTags"
-    url: /aReadingsIndexByTags
-  - title: "DetailedByYear"
+  - title: "DetailedByTerm"
     url: /aReadingsIndexByDate
   - title: "DetailedByCategory"
     url: /aReadingsIndexByCategory
@@ -13,15 +11,15 @@ main:
     url: /categories/
 
 sidebar-sample:
-  - title: "Detailed Index"
+  - title: "Index"
     children:
-      - title: "DetailedByTags"
-        url: /aReadingsIndexByTags
-      - title: "DetailedByYear"
-        url: /aReadingsIndexByDate
-      - title: "DetailedByCategory"
-        url: /aReadingsIndexByCategory
-  - title: "Recent Posts By Each GenAI Category"
+    - title: "PostsByYear"
+      url: /posts/
+    - title: "PostsByTags"
+      url: /tags/
+    - title: "PostsByCategory"
+      url: /categories/
+  - title: "Recent Posts By GenAI Category"
     children:
       - title: "FM Basic"
         url: /categories/FMBasic/
@@ -33,7 +31,7 @@ sidebar-sample:
         url: /categories//FMMulti/
       - title: "FM Efficiency"
         url: /categories//FMEfficient/
-  - title: "Past Posts By Each DNN Category"
+  - title: "Past Posts By DNN Category"
     children:
       - title: "0Basics"
         url: /categories/0Basics/
