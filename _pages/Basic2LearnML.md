@@ -22,6 +22,51 @@ order: "9z"
 > Last Edit of this page: Jan 2018. 
 
 
+<table id="datatab3" summary="Three old seminar courses I taught at UVA on machine learning advanced topics before 2017" border="1">
+
+<tr> 
+  <td>
+    2013 Fall 
+  </td>
+  <td>
+    <h3><b> 
+      <a
+        href="https://qiyanjun.github.io/Homepage/teach/2013f/index.html">Special Seminar:  Elements of Statistical Learning (PhD Student level) </a>
+      </b>  
+    </h3> 
+  </td> 
+  <td>
+    (This course covered the book: The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani and Jerome Friedman).
+  </td>  
+  </tr>
+  <tr>
+    <td>2014 Spring </td>
+    <td>
+      <h3><a
+        href="https://qiyanjun.github.io/Homepage/teach/2014s/index.html">Special seminar: Machine Learning
+        and Data Mining in Practice for Biomedicine</a> 
+     </b>  
+    </h3> 
+    </td>  
+    <td>  
+    (This course covers 6 different topics about connecting machine learning and "big data" in biomedicine".)
+    </td> 
+  </tr>
+  <tr>
+    <td>2015 Spring </td>
+    <td>
+      <h3><a
+        href="https://qiyanjun.github.io/Homepage/teach/2015s/index.html">Special Topic: Large-Scale Machine Learning </a>
+     </b>  
+    </h3> 
+    </td>  
+    <td>  
+    (This course covers a list of tutorials to help students learn  advanced topics in machine learning.)
+    </td> 
+  </tr>
+</table>
+
+
 
 <font face="Arial,Helvetica">
 <font size="+1">
