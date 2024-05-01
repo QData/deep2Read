@@ -15,12 +15,14 @@ order: "9z"
 
 <p><a name="topPage"></a></p>
 
-<hr>
-
-## The List of tutorials we have read for Learning Machine Learning  
 
 > Last Edit of this page: Jan 2018. 
 
+
+
+<hr>
+
+## Three old seminar courses I taught at UVA on machine learning advanced topics before 2017
 
 <table id="datatab3" summary="Three old seminar courses I taught at UVA on machine learning advanced topics before 2017" border="1">
 
@@ -31,7 +33,7 @@ order: "9z"
   <td>
     <h3><b> 
       <a
-        href="https://qiyanjun.github.io/Homepage/teach/2013f/index.html">Special Seminar:  Elements of Statistical Learning (PhD Student level) </a>
+        href="https://qiyanjun.github.io/Homepage/teach/2013f/index.html"  target="_blank" >Special Seminar:  Elements of Statistical Learning (PhD Student level) </a>
       </b>  
     </h3> 
   </td> 
@@ -43,7 +45,7 @@ order: "9z"
     <td>2014 Spring </td>
     <td>
       <h3><a
-        href="https://qiyanjun.github.io/Homepage/teach/2014s/index.html">Special seminar: Machine Learning
+        href="https://qiyanjun.github.io/Homepage/teach/2014s/index.html"  target="_blank" >Special seminar: Machine Learning
         and Data Mining in Practice for Biomedicine</a> 
      </b>  
     </h3> 
@@ -56,7 +58,7 @@ order: "9z"
     <td>2015 Spring </td>
     <td>
       <h3><a
-        href="https://qiyanjun.github.io/Homepage/teach/2015s/index.html">Special Topic: Large-Scale Machine Learning </a>
+        href="https://qiyanjun.github.io/Homepage/teach/2015s/index.html"  target="_blank" >Special Topic: Large-Scale Machine Learning </a>
      </b>  
     </h3> 
     </td>  
@@ -67,6 +69,9 @@ order: "9z"
 </table>
 
 
+<hr>
+
+## The List of tutorials we have read for Learning Machine Learning  
 
 <font face="Arial,Helvetica">
 <font size="+1">
