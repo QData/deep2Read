@@ -5,6 +5,8 @@ main:
     url: /tags/
   - title: "PostsByCategory"
     url: /categories/
+  - title: "BasicDeepLearning"
+    url: /Basic2LearnDeep
   - title: "DetailedByTerm"
     url: /aReadingsIndexByDate
   - title: "DetailedByCategory"

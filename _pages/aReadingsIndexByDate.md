@@ -8,7 +8,7 @@ sidebar:
 layout: single
 permalink: /aReadingsIndexByDate/
 title: Readings ByReadDate
-desc: "Our Reviews of Deep Learning Readings by Date-Read (Now to 2017)"
+desc: "Our Reviews of Deep Learning Readings by Date-Read ( 2017 - Now )"
 order: "9b"
 ---
 
