@@ -69,7 +69,7 @@ plugins:
 author:
   name   : "Dr. Yanjun Qi"
   # avatar: "/pic/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Here are Papers We Reviewed. We are science curious."
+  bio: "Here are Papers I Reviewed. I am science curious."
   links:
     - label: "MyHomePage"
       icon: "fas fa-fw fa-link"
