@@ -11,7 +11,7 @@ categories:
 - 2Architecture
 - 2GraphsNN
 term: 2018Reads
-tags: [ relational, InfoMax]
+tags: [ relational ]
 ---
 
 

@@ -10,7 +10,7 @@ desc: 2018-me
 categories:
 - 9DiscreteApp
 term: 2018Reads
-tags: [ tutorial ]
+tags: [ tutorial, Interpretable ]
 ---
 
 
